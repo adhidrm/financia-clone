@@ -1,0 +1,2338 @@
+{
+ "tentang": {
+  "secs": [
+   {
+    "i": 0,
+    "rect": [
+     0,
+     0,
+     1440,
+     108
+    ],
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "0px 0px 0px 0px",
+    "bgimg": "none",
+    "overlay": null,
+    "cols": [
+     {
+      "rect": [
+       150,
+       0,
+       122,
+       108
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "image.default",
+        "rect": [
+         165,
+         15,
+         92,
+         78
+        ],
+        "pad": "0px",
+        "text": "",
+        "img": {
+         "src": "https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-14-1-300x254.png",
+         "w": 92,
+         "h": 78
+        },
+        "listStyle": null
+       }
+      ]
+     },
+     {
+      "rect": [
+       272,
+       0,
+       828,
+       108
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "navigation-menu.default",
+        "rect": [
+         287,
+         32,
+         798,
+         44
+        ],
+        "pad": "0px",
+        "text": "Menu HomeTentang KamiCara Kerja KamiBiaya KomisiFAQJenis UtangKlien/MitraHubungi Kami",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     },
+     {
+      "rect": [
+       1100,
+       0,
+       186,
+       108
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "button.default",
+        "rect": [
+         1115,
+         31,
+         156,
+         45
+        ],
+        "pad": "0px",
+        "text": "Konsultasi",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "rect": [
+     0,
+     108,
+     1440,
+     244
+    ],
+    "bg": "rgb(255, 214, 0)",
+    "pad": "100px 0px 0px 0px",
+    "bgimg": "none",
+    "overlay": null,
+    "cols": [
+     {
+      "rect": [
+       120,
+       208,
+       1200,
+       144
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "heading.default",
+        "rect": [
+         120,
+         208,
+         1200,
+         30
+        ],
+        "pad": "0px",
+        "text": "Tentang Kami",
+        "img": null,
+        "listStyle": null
+       },
+       {
+        "type": "divider.default",
+        "rect": [
+         120,
+         268,
+         1200,
+         84
+        ],
+        "pad": "0px",
+        "text": "",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "rect": [
+     0,
+     352,
+     1440,
+     401
+    ],
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "0px 0px 100px 0px",
+    "bgimg": "none",
+    "overlay": null,
+    "cols": [
+     {
+      "rect": [
+       150,
+       352,
+       285,
+       301
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": []
+     },
+     {
+      "rect": [
+       435,
+       352,
+       568,
+       301
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "image.default",
+        "rect": [
+         450,
+         367,
+         538,
+         222
+        ],
+        "pad": "0px",
+        "text": "",
+        "img": {
+         "src": "https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-13-2.png",
+         "w": 538,
+         "h": 222
+        },
+        "listStyle": null
+       },
+       {
+        "type": "heading.default",
+        "rect": [
+         450,
+         619,
+         538,
+         19
+        ],
+        "pad": "0px",
+        "text": "Agensi Penagihan Hutang Terdepan & Terpercaya",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     },
+     {
+      "rect": [
+       1003,
+       352,
+       285,
+       301
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": []
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "rect": [
+     0,
+     753,
+     1440,
+     542
+    ],
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "0px 0px 0px 0px",
+    "bgimg": "none",
+    "overlay": null,
+    "cols": [
+     {
+      "rect": [
+       120,
+       753,
+       600,
+       542
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "text-editor.default",
+        "rect": [
+         170,
+         753,
+         500,
+         492
+        ],
+        "pad": "0px",
+        "text": "Apa itu Financia?PT Garda Finansial Utama (“Financia”) adalah perusahaan agensi penagihan hutang komersial yang praktis,",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     },
+     {
+      "rect": [
+       720,
+       753,
+       600,
+       542
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "text-editor.default",
+        "rect": [
+         770,
+         813,
+         500,
+         372
+        ],
+        "pad": "0px",
+        "text": "Karena itu, Financia memberikan jalan keluar terbaik dengan menyediakan layanan penagihan utang yang praktis, efisien da",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "rect": [
+     0,
+     1295,
+     1440,
+     530
+    ],
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "150px 0px 150px 0px",
+    "bgimg": "url(\"https://financia.proximalab.fyi/wp-content/uploads/2022/10/pexels-pixabay-327540.jpg\")",
+    "overlay": {
+     "bg": "rgb(0, 0, 0)",
+     "op": "0.5"
+    },
+    "cols": [
+     {
+      "rect": [
+       0,
+       1445,
+       1440,
+       230
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "heading.default",
+        "rect": [
+         0,
+         1445,
+         1440,
+         82
+        ],
+        "pad": "0px",
+        "text": "FINANCIA, AGENSI PENAGIHAN HUTANG TERDEPAN DAN TERPERCAYA DI INDONESIA",
+        "img": null,
+        "listStyle": null
+       },
+       {
+        "type": "text-editor.default",
+        "rect": [
+         0,
+         1557,
+         1440,
+         44
+        ],
+        "pad": "0px",
+        "text": "Simpan waktu dan usaha Anda untuk mengelola bisnis, biar kami yang urus penagihan hutang komersial untuk Anda!",
+        "img": null,
+        "listStyle": null
+       },
+       {
+        "type": "button.default",
+        "rect": [
+         0,
+         1631,
+         1440,
+         44
+        ],
+        "pad": "0px",
+        "text": "HUBUNGI KAMI",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "rect": [
+     0,
+     1825,
+     1440,
+     644
+    ],
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "100px 0px 100px 0px",
+    "bgimg": "none",
+    "overlay": null,
+    "cols": [
+     {
+      "rect": [
+       120,
+       1925,
+       600,
+       444
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "image.default",
+        "rect": [
+         135,
+         1957,
+         570,
+         380
+        ],
+        "pad": "0px",
+        "text": "",
+        "img": {
+         "src": "https://financia.proximalab.fyi/wp-content/uploads/2022/11/pexels-pavel-danilyuk-8111881.jpg",
+         "w": 570,
+         "h": 380
+        },
+        "listStyle": null
+       }
+      ]
+     },
+     {
+      "rect": [
+       720,
+       1925,
+       600,
+       444
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "icon-box.default",
+        "rect": [
+         790,
+         1925,
+         530,
+         117
+        ],
+        "pad": "0px",
+        "text": "Tahukah Anda ? Data survei menunjukkan bahwa:",
+        "img": null,
+        "listStyle": null
+       },
+       {
+        "type": "icon-list.default",
+        "rect": [
+         790,
+         2072,
+         530,
+         297
+        ],
+        "pad": "0px",
+        "text": "Kondisi bisnis internal perusahaan menyumbang 27% penyebab utama kebangkrutan, dimana salah satunya adalah karena pengel",
+        "img": null,
+        "listStyle": {
+         "fs": "14px",
+         "lh": "24px",
+         "c": "rgb(119, 119, 119)",
+         "mb": "0px",
+         "iconCls": "fas fa-check-circle",
+         "iconC": "rgb(119, 119, 119)",
+         "iconFs": "14px"
+        }
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "rect": [
+     0,
+     2469,
+     1440,
+     213
+    ],
+    "bg": "rgb(0, 70, 190)",
+    "pad": "0px 0px 0px 0px",
+    "bgimg": "none",
+    "overlay": null,
+    "cols": [
+     {
+      "rect": [
+       150,
+       2469,
+       1140,
+       213
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "icon-box.default",
+        "rect": [
+         165,
+         2484,
+         1110,
+         85
+        ],
+        "pad": "0px",
+        "text": "Alasan mengapa banyak perusahaan gagal menagih utang?",
+        "img": null,
+        "listStyle": null
+       },
+       {
+        "type": "text-editor.default",
+        "rect": [
+         165,
+         2599,
+         1110,
+         68
+        ],
+        "pad": "0px",
+        "text": "Hutang adalah bagian dari perjanjian atau kontrak yang semestinya harus dipenuhi. Meskipun demikian, sekalipun pihak yan",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "rect": [
+     0,
+     2682,
+     1440,
+     802
+    ],
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "100px 0px 100px 0px",
+    "bgimg": "none",
+    "overlay": null,
+    "cols": [
+     {
+      "rect": [
+       120,
+       2782,
+       600,
+       602
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "icon-list.default",
+        "rect": [
+         120,
+         2941,
+         530,
+         284
+        ],
+        "pad": "0px",
+        "text": "Pemilik tagihan/piutang (accounts receivable) atau kreditor tidak mengetahui strategi maupun teknik yang tepat dan efekt",
+        "img": null,
+        "listStyle": {
+         "fs": "14px",
+         "lh": "24px",
+         "c": "rgb(119, 119, 119)",
+         "mb": "0px",
+         "iconCls": "fas fa-check-circle",
+         "iconC": "rgb(119, 119, 119)",
+         "iconFs": "14px"
+        }
+       }
+      ]
+     },
+     {
+      "rect": [
+       720,
+       2782,
+       600,
+       602
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "image.default",
+        "rect": [
+         735,
+         2797,
+         570,
+         572
+        ],
+        "pad": "0px",
+        "text": "",
+        "img": {
+         "src": "https://financia.proximalab.fyi/wp-content/uploads/2022/11/pexels-pavel-danilyuk-8111810.jpg",
+         "w": 382,
+         "h": 572
+        },
+        "listStyle": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "rect": [
+     0,
+     3484,
+     1440,
+     291
+    ],
+    "bg": "rgb(0, 70, 190)",
+    "pad": "50px 0px 50px 0px",
+    "bgimg": "none",
+    "overlay": null,
+    "cols": [
+     {
+      "rect": [
+       150,
+       3534,
+       1140,
+       191
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "heading.default",
+        "rect": [
+         165,
+         3549,
+         1110,
+         31
+        ],
+        "pad": "0px",
+        "text": "“GRATIS, Jika Hutang Belum Dibayar!”",
+        "img": null,
+        "listStyle": null
+       },
+       {
+        "type": "button.default",
+        "rect": [
+         165,
+         3610,
+         1110,
+         39
+        ],
+        "pad": "0px",
+        "text": "HUBUNGI FINANCIA",
+        "img": null,
+        "listStyle": null
+       },
+       {
+        "type": "divider.default",
+        "rect": [
+         165,
+         3679,
+         1110,
+         31
+        ],
+        "pad": "0px",
+        "text": "",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "rect": [
+     0,
+     3775,
+     1440,
+     422
+    ],
+    "bg": "rgb(0, 70, 190)",
+    "pad": "50px 0px 30px 0px",
+    "bgimg": "none",
+    "overlay": null,
+    "cols": [
+     {
+      "rect": [
+       150,
+       3825,
+       292,
+       342
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "image.default",
+        "rect": [
+         165,
+         3840,
+         262,
+         94
+        ],
+        "pad": "0px",
+        "text": "",
+        "img": {
+         "src": "https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-13-2-300x124.png",
+         "w": 228,
+         "h": 94
+        },
+        "listStyle": null
+       },
+       {
+        "type": "text-editor.default",
+        "rect": [
+         165,
+         3964,
+         262,
+         116
+        ],
+        "pad": "0px",
+        "text": "PT Garda Finansial Utama (“Financia”) adalah perusahaan yang menyediakan jasa penagihan utang komersial yang praktis, ef",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     },
+     {
+      "rect": [
+       442,
+       3825,
+       335,
+       342
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "heading.default",
+        "rect": [
+         507,
+         3840,
+         255,
+         14
+        ],
+        "pad": "0px",
+        "text": "Menu",
+        "img": null,
+        "listStyle": null
+       },
+       {
+        "type": "navigation-menu.default",
+        "rect": [
+         507,
+         3884,
+         255,
+         264
+        ],
+        "pad": "0px",
+        "text": "MenuHomeTentang KamiCara Kerja KamiBiaya KomisiFAQJenis UtangKlien/MitraHubungi Kami",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     },
+     {
+      "rect": [
+       777,
+       3825,
+       509,
+       342
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "heading.default",
+        "rect": [
+         792,
+         3840,
+         479,
+         14
+        ],
+        "pad": "0px",
+        "text": "Lokasi Kami :",
+        "img": null,
+        "listStyle": null
+       },
+       {
+        "type": "google_maps.default",
+        "rect": [
+         792,
+         3884,
+         479,
+         199
+        ],
+        "pad": "0px",
+        "text": "",
+        "img": null,
+        "listStyle": null
+       },
+       {
+        "type": "button.default",
+        "rect": [
+         792,
+         4113,
+         479,
+         39
+        ],
+        "pad": "0px",
+        "text": "HUBUNGI KAMI",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "rect": [
+     0,
+     4197,
+     1440,
+     200
+    ],
+    "bg": "rgb(0, 70, 190)",
+    "pad": "0px 0px 0px 0px",
+    "bgimg": "none",
+    "overlay": null,
+    "cols": [
+     {
+      "rect": [
+       165,
+       4250,
+       370,
+       93
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "icon-box.default",
+        "rect": [
+         215,
+         4250,
+         320,
+         93
+        ],
+        "pad": "0px",
+        "text": "Kantor Pusat : Sudirman Park, Unit A 3 BB. Jl. K.H. Mas Mansyur Kav. 35, Karet Tengsin. Jakarta Pusat. DKI Jakarta.",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     },
+     {
+      "rect": [
+       535,
+       4274,
+       370,
+       45
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "icon-box.default",
+        "rect": [
+         585,
+         4274,
+         320,
+         45
+        ],
+        "pad": "0px",
+        "text": "Email: office@financia.proximalab.fyi",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     },
+     {
+      "rect": [
+       905,
+       4274,
+       370,
+       45
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "icon-box.default",
+        "rect": [
+         955,
+         4274,
+         320,
+         45
+        ],
+        "pad": "0px",
+        "text": "Open Hours: Senin - Jum'at: 8.00 -6.00 WIB",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "i": 11,
+    "rect": [
+     0,
+     4397,
+     1440,
+     61
+    ],
+    "bg": "rgb(0, 70, 190)",
+    "pad": "0px 0px 0px 0px",
+    "bgimg": "none",
+    "overlay": null,
+    "cols": [
+     {
+      "rect": [
+       150,
+       4397,
+       1140,
+       61
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "divider.default",
+        "rect": [
+         165,
+         4412,
+         1110,
+         31
+        ],
+        "pad": "0px",
+        "text": "",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "i": 12,
+    "rect": [
+     0,
+     4458,
+     1440,
+     44
+    ],
+    "bg": "rgb(0, 70, 190)",
+    "pad": "0px 0px 0px 0px",
+    "bgimg": "none",
+    "overlay": null,
+    "cols": [
+     {
+      "rect": [
+       165,
+       4458,
+       555,
+       44
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "text-editor.default",
+        "rect": [
+         165,
+         4458,
+         555,
+         44
+        ],
+        "pad": "0px",
+        "text": "Powered by Financia.co.id",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     },
+     {
+      "rect": [
+       720,
+       4458,
+       555,
+       44
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "text-editor.default",
+        "rect": [
+         720,
+         4458,
+         555,
+         44
+        ],
+        "pad": "0px",
+        "text": "Copyright © 2020-2022. All rights reserved",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "typo": [
+   {
+    "tag": "a",
+    "t": "Konsultasi",
+    "fs": "15px",
+    "fw": "700",
+    "lh": "15px",
+    "ls": "normal",
+    "c": "rgb(0, 0, 0)",
+    "ta": "center",
+    "pad": "15px 20px",
+    "rad": "25px 2px",
+    "bg": "rgb(255, 214, 0)"
+   },
+   {
+    "tag": "h2",
+    "t": "Tentang Kami",
+    "fs": "30px",
+    "fw": "400",
+    "lh": "30px",
+    "ls": "-1.5px",
+    "c": "rgb(34, 37, 41)",
+    "ta": "center",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "h1",
+    "t": "Agensi Penagihan Hutang Terdepan & Terpercaya",
+    "fs": "19px",
+    "fw": "400",
+    "lh": "19px",
+    "ls": "-0.95px",
+    "c": "rgb(34, 37, 41)",
+    "ta": "center",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "t": "Apa itu Financia?",
+    "fs": "30px",
+    "fw": "400",
+    "lh": "40px",
+    "ls": "-1.5px",
+    "c": "rgb(34, 37, 41)",
+    "ta": "left",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "PT Garda Finansial Utama (“Financia”) adalah perusahaan agen",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(119, 119, 119)",
+    "ta": "justify",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "Mengapa dalam penagihan hutang, Anda memerlukan jasa penagih",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(119, 119, 119)",
+    "ta": "justify",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "Cara lain yang umumnya dilakukan oleh pihak yang memiliki ta",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(119, 119, 119)",
+    "ta": "justify",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "Karena itu, Financia memberikan jalan keluar terbaik dengan ",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(119, 119, 119)",
+    "ta": "justify",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "Penagihan hutang yang Financia lakukan dikerjakan oleh tim p",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(119, 119, 119)",
+    "ta": "justify",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "Anda tidak perlu mengeluarkan biaya komisi (professinal fee)",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(119, 119, 119)",
+    "ta": "justify",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "t": "FINANCIA, AGENSI PENAGIHAN HUTANG TERDEPAN DAN TERPERCAYA DI",
+    "fs": "41px",
+    "fw": "400",
+    "lh": "41px",
+    "ls": "-2.05px",
+    "c": "rgb(255, 255, 255)",
+    "ta": "center",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "Simpan waktu dan usaha Anda untuk mengelola bisnis, biar kam",
+    "fs": "19px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(255, 255, 255)",
+    "ta": "center",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "a",
+    "t": "HUBUNGI KAMI",
+    "fs": "20px",
+    "fw": "700",
+    "lh": "20px",
+    "ls": "normal",
+    "c": "rgb(255, 255, 255)",
+    "ta": "center",
+    "pad": "12px 24px",
+    "rad": "25px 0px",
+    "bg": "rgb(255, 214, 0)"
+   },
+   {
+    "tag": "h2",
+    "t": "Tahukah Anda ? Data survei menunjukkan bahwa:",
+    "fs": "30px",
+    "fw": "400",
+    "lh": "40px",
+    "ls": "-1.5px",
+    "c": "rgb(34, 37, 41)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "t": "Kondisi bisnis internal perusahaan menyumbang 27% penyebab u",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(119, 119, 119)",
+    "ta": "start",
+    "pad": "0px 0px 0px 5px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "t": "Banyak perusahaan menuju kebangkrutan bukan karena bisnis ya",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(119, 119, 119)",
+    "ta": "start",
+    "pad": "0px 0px 0px 5px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "t": "Biaya penagihan utang di Indonesia sangat mahal. Nilai rata-",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(119, 119, 119)",
+    "ta": "start",
+    "pad": "0px 0px 0px 5px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "t": "Tagihan/piutang (accounts receivable) macet tidak hanya memb",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(119, 119, 119)",
+    "ta": "start",
+    "pad": "0px 0px 0px 5px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "t": "Alasan mengapa banyak perusahaan gagal menagih utang?",
+    "fs": "30px",
+    "fw": "400",
+    "lh": "40px",
+    "ls": "-1.5px",
+    "c": "rgb(255, 255, 255)",
+    "ta": "center",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "Hutang adalah bagian dari perjanjian atau kontrak yang semes",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(255, 255, 255)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "t": "Pemilik tagihan/piutang (accounts receivable) atau kreditor ",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(119, 119, 119)",
+    "ta": "start",
+    "pad": "0px 0px 0px 5px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "t": "Pemilik tagihan/piutang (accounts receivable) atau kreditor ",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(119, 119, 119)",
+    "ta": "start",
+    "pad": "0px 0px 0px 5px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "t": "Harus membayar dimuka biaya profesional yang mahal atau tida",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(119, 119, 119)",
+    "ta": "start",
+    "pad": "0px 0px 0px 5px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "t": "Menyita banyak waktu sehingga mempengaruhi kinerja dan produ",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(119, 119, 119)",
+    "ta": "start",
+    "pad": "0px 0px 0px 5px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "span",
+    "t": "Khawatir akan implikasi hukum yang negatif bagi perusahaan a",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(119, 119, 119)",
+    "ta": "start",
+    "pad": "0px 0px 0px 5px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "h5",
+    "t": "“GRATIS, Jika Hutang Belum Dibayar!”",
+    "fs": "31px",
+    "fw": "400",
+    "lh": "31px",
+    "ls": "-1.55px",
+    "c": "rgb(255, 255, 255)",
+    "ta": "center",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "a",
+    "t": "HUBUNGI FINANCIA",
+    "fs": "15px",
+    "fw": "700",
+    "lh": "15px",
+    "ls": "normal",
+    "c": "rgb(255, 255, 255)",
+    "ta": "center",
+    "pad": "12px 24px",
+    "rad": "25px 0px",
+    "bg": "rgb(255, 214, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "PT Garda Finansial Utama (“Financia”) adalah perusahaan yang",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(255, 255, 255)",
+    "ta": "justify",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "h5",
+    "t": "Menu",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "14px",
+    "ls": "-0.7px",
+    "c": "rgb(255, 255, 255)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "h5",
+    "t": "Lokasi Kami :",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "14px",
+    "ls": "-0.7px",
+    "c": "rgb(255, 255, 255)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "a",
+    "t": "HUBUNGI KAMI",
+    "fs": "15px",
+    "fw": "700",
+    "lh": "15px",
+    "ls": "normal",
+    "c": "rgb(255, 255, 255)",
+    "ta": "center",
+    "pad": "12px 24px",
+    "rad": "25px 0px",
+    "bg": "rgb(255, 214, 0)"
+   },
+   {
+    "tag": "h6",
+    "t": "Kantor Pusat :",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "18px",
+    "ls": "-0.7px",
+    "c": "rgb(255, 255, 255)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "Sudirman Park, Unit A 3 BB. Jl. K.H. Mas Mansyur Kav. 35, Ka",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(255, 255, 255)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "h6",
+    "t": "Email:",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "18px",
+    "ls": "-0.7px",
+    "c": "rgb(255, 255, 255)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "office@financia.proximalab.fyi",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(255, 255, 255)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "h6",
+    "t": "Open Hours:",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "18px",
+    "ls": "-0.7px",
+    "c": "rgb(255, 255, 255)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "Senin - Jum'at: 8.00 -6.00 WIB",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(255, 255, 255)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "Powered by Financia.co.id",
+    "fs": "10px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(255, 255, 255)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "Copyright © 2020-2022. All rights reserved",
+    "fs": "10px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(255, 255, 255)",
+    "ta": "end",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   }
+  ]
+ },
+ "hubungi": {
+  "secs": [
+   {
+    "i": 0,
+    "rect": [
+     0,
+     0,
+     1440,
+     108
+    ],
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "0px 0px 0px 0px",
+    "bgimg": "none",
+    "overlay": null,
+    "cols": [
+     {
+      "rect": [
+       150,
+       0,
+       122,
+       108
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "image.default",
+        "rect": [
+         165,
+         15,
+         92,
+         78
+        ],
+        "pad": "0px",
+        "text": "<img width=\"300\" height=\"254\" src=\"https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-14-1",
+        "img": {
+         "src": "https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-14-1-300x254.png",
+         "w": 92,
+         "h": 78
+        },
+        "listStyle": null
+       }
+      ]
+     },
+     {
+      "rect": [
+       272,
+       0,
+       828,
+       108
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "navigation-menu.default",
+        "rect": [
+         287,
+         32,
+         798,
+         44
+        ],
+        "pad": "0px",
+        "text": "Menu HomeTentang KamiCara Kerja KamiBiaya KomisiFAQJenis UtangKlien/MitraHubungi Kami",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     },
+     {
+      "rect": [
+       1100,
+       0,
+       186,
+       108
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "button.default",
+        "rect": [
+         1115,
+         31,
+         156,
+         45
+        ],
+        "pad": "0px",
+        "text": "Konsultasi",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "rect": [
+     0,
+     108,
+     1440,
+     248
+    ],
+    "bg": "rgb(255, 214, 0)",
+    "pad": "100px 0px 0px 0px",
+    "bgimg": "none",
+    "overlay": null,
+    "cols": [
+     {
+      "rect": [
+       120,
+       208,
+       1200,
+       148
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "heading.default",
+        "rect": [
+         120,
+         208,
+         1200,
+         59
+        ],
+        "pad": "0px",
+        "text": "Hubungi Kami",
+        "img": null,
+        "listStyle": null
+       },
+       {
+        "type": "divider.default",
+        "rect": [
+         120,
+         297,
+         1200,
+         59
+        ],
+        "pad": "0px",
+        "text": "",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "rect": [
+     0,
+     356,
+     1440,
+     582
+    ],
+    "bg": "rgba(0, 0, 0, 0)",
+    "pad": "0px 0px 0px 0px",
+    "bgimg": "none",
+    "overlay": null,
+    "cols": [
+     {
+      "rect": [
+       165,
+       356,
+       498,
+       582
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "image.default",
+        "rect": [
+         165,
+         481,
+         498,
+         332
+        ],
+        "pad": "0px",
+        "text": "<img decoding=\"async\" width=\"1024\" height=\"682\" src=\"https://financia.proximalab.fyi/wp-content/uploads/2022/10/pexels-p",
+        "img": {
+         "src": "https://financia.proximalab.fyi/wp-content/uploads/2022/10/pexels-pixabay-327540-1024x682.jpg",
+         "w": 498,
+         "h": 332
+        },
+        "listStyle": null
+       }
+      ]
+     },
+     {
+      "rect": [
+       663,
+       356,
+       611,
+       582
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "heading.default",
+        "rect": [
+         763,
+         456,
+         411,
+         117
+        ],
+        "pad": "0px",
+        "text": "Iya saya mau pakai Financia, bagaimana caranya?",
+        "img": null,
+        "listStyle": null
+       },
+       {
+        "type": "text-editor.default",
+        "rect": [
+         763,
+         588,
+         411,
+         44
+        ],
+        "pad": "0px",
+        "text": "Berikut langkah-langkah sederhana yang dapat diikuti:",
+        "img": null,
+        "listStyle": null
+       },
+       {
+        "type": "toggle.default",
+        "rect": [
+         763,
+         647,
+         411,
+         132
+        ],
+        "pad": "0px",
+        "text": "Pertama, HUBUNGI KAMISilahkan hubungi kami untuk konsultasi awal secara gratis. Anda bisa hubungi kami klik tombol “Hubu",
+        "img": null,
+        "listStyle": null
+       },
+       {
+        "type": "button.default",
+        "rect": [
+         763,
+         794,
+         411,
+         44
+        ],
+        "pad": "0px",
+        "text": "HUBUNGI KAMI",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "rect": [
+     0,
+     938,
+     1440,
+     422
+    ],
+    "bg": "rgb(0, 70, 190)",
+    "pad": "50px 0px 30px 0px",
+    "bgimg": "none",
+    "overlay": null,
+    "cols": [
+     {
+      "rect": [
+       150,
+       988,
+       292,
+       342
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "image.default",
+        "rect": [
+         165,
+         1003,
+         262,
+         94
+        ],
+        "pad": "0px",
+        "text": "<img width=\"300\" height=\"124\" src=\"https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-13-2",
+        "img": {
+         "src": "https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-13-2-300x124.png",
+         "w": 228,
+         "h": 94
+        },
+        "listStyle": null
+       },
+       {
+        "type": "text-editor.default",
+        "rect": [
+         165,
+         1127,
+         262,
+         164
+        ],
+        "pad": "0px",
+        "text": "PT Garda Finansial Utama (“Financia”) adalah perusahaan yang menyediakan jasa penagihan utang komersial yang praktis, ef",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     },
+     {
+      "rect": [
+       442,
+       988,
+       335,
+       342
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "heading.default",
+        "rect": [
+         507,
+         1003,
+         255,
+         14
+        ],
+        "pad": "0px",
+        "text": "Menu",
+        "img": null,
+        "listStyle": null
+       },
+       {
+        "type": "navigation-menu.default",
+        "rect": [
+         507,
+         1047,
+         255,
+         266
+        ],
+        "pad": "0px",
+        "text": "MenuHomeTentang KamiCara Kerja KamiBiaya KomisiFAQJenis UtangKlien/MitraHubungi Kami",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     },
+     {
+      "rect": [
+       777,
+       988,
+       509,
+       342
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "heading.default",
+        "rect": [
+         792,
+         1003,
+         479,
+         14
+        ],
+        "pad": "0px",
+        "text": "Lokasi Kami :",
+        "img": null,
+        "listStyle": null
+       },
+       {
+        "type": "google_maps.default",
+        "rect": [
+         792,
+         1047,
+         479,
+         199
+        ],
+        "pad": "0px",
+        "text": "",
+        "img": null,
+        "listStyle": null
+       },
+       {
+        "type": "button.default",
+        "rect": [
+         792,
+         1276,
+         479,
+         39
+        ],
+        "pad": "0px",
+        "text": "HUBUNGI KAMI",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "rect": [
+     0,
+     1360,
+     1440,
+     200
+    ],
+    "bg": "rgb(0, 70, 190)",
+    "pad": "0px 0px 0px 0px",
+    "bgimg": "none",
+    "overlay": null,
+    "cols": [
+     {
+      "rect": [
+       165,
+       1413,
+       370,
+       93
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "icon-box.default",
+        "rect": [
+         215,
+         1413,
+         320,
+         93
+        ],
+        "pad": "0px",
+        "text": "Kantor Pusat : Sudirman Park, Unit A 3 BB. Jl. K.H. Mas Mansyur Kav. 35, Karet Tengsin. Jakarta Pusat. DKI Jakarta.",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     },
+     {
+      "rect": [
+       535,
+       1437,
+       370,
+       45
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "icon-box.default",
+        "rect": [
+         585,
+         1437,
+         320,
+         45
+        ],
+        "pad": "0px",
+        "text": "Email: office@financia.proximalab.fyi",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     },
+     {
+      "rect": [
+       905,
+       1437,
+       370,
+       45
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "icon-box.default",
+        "rect": [
+         955,
+         1437,
+         320,
+         45
+        ],
+        "pad": "0px",
+        "text": "Open Hours: Senin - Jum'at: 8.00 -6.00 WIB",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "rect": [
+     0,
+     1560,
+     1440,
+     61
+    ],
+    "bg": "rgb(0, 70, 190)",
+    "pad": "0px 0px 0px 0px",
+    "bgimg": "none",
+    "overlay": null,
+    "cols": [
+     {
+      "rect": [
+       150,
+       1560,
+       1140,
+       61
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "divider.default",
+        "rect": [
+         165,
+         1575,
+         1110,
+         31
+        ],
+        "pad": "0px",
+        "text": "",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "rect": [
+     0,
+     1621,
+     1440,
+     44
+    ],
+    "bg": "rgb(0, 70, 190)",
+    "pad": "0px 0px 0px 0px",
+    "bgimg": "none",
+    "overlay": null,
+    "cols": [
+     {
+      "rect": [
+       165,
+       1621,
+       555,
+       44
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "text-editor.default",
+        "rect": [
+         165,
+         1621,
+         555,
+         44
+        ],
+        "pad": "0px",
+        "text": "Powered by Financia.co.id",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     },
+     {
+      "rect": [
+       720,
+       1621,
+       555,
+       44
+      ],
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)",
+      "widgets": [
+       {
+        "type": "text-editor.default",
+        "rect": [
+         720,
+         1621,
+         555,
+         44
+        ],
+        "pad": "0px",
+        "text": "Copyright © 2020-2022. All rights reserved",
+        "img": null,
+        "listStyle": null
+       }
+      ]
+     }
+    ]
+   }
+  ],
+  "typo": [
+   {
+    "tag": "a",
+    "t": "Hubungi Kami",
+    "fs": "14px",
+    "fw": "700",
+    "lh": "14px",
+    "ls": "normal",
+    "c": "rgb(255, 214, 0)",
+    "ta": "center",
+    "pad": "15px",
+    "rad": "3px",
+    "bg": "rgb(105, 114, 125)"
+   },
+   {
+    "tag": "a",
+    "t": "Konsultasi",
+    "fs": "15px",
+    "fw": "700",
+    "lh": "15px",
+    "ls": "normal",
+    "c": "rgb(0, 0, 0)",
+    "ta": "center",
+    "pad": "15px 20px",
+    "rad": "25px 2px",
+    "bg": "rgb(255, 214, 0)"
+   },
+   {
+    "tag": "h1",
+    "t": "Hubungi Kami",
+    "fs": "59px",
+    "fw": "400",
+    "lh": "59px",
+    "ls": "-2.95px",
+    "c": "rgb(34, 37, 41)",
+    "ta": "center",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "h2",
+    "t": "Iya saya mau pakai Financia, bagaimana caranya?",
+    "fs": "39px",
+    "fw": "400",
+    "lh": "39px",
+    "ls": "-1.95px",
+    "c": "rgb(34, 37, 41)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "Berikut langkah-langkah sederhana yang dapat diikuti:",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(119, 119, 119)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "a",
+    "t": "HUBUNGI KAMI",
+    "fs": "20px",
+    "fw": "700",
+    "lh": "20px",
+    "ls": "normal",
+    "c": "rgb(255, 255, 255)",
+    "ta": "center",
+    "pad": "12px 24px",
+    "rad": "25px 0px",
+    "bg": "rgb(255, 214, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "PT Garda Finansial Utama (“Financia”) adalah perusahaan yang",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(255, 255, 255)",
+    "ta": "justify",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "h5",
+    "t": "Menu",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "14px",
+    "ls": "-0.7px",
+    "c": "rgb(255, 255, 255)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "h5",
+    "t": "Lokasi Kami :",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "14px",
+    "ls": "-0.7px",
+    "c": "rgb(255, 255, 255)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "a",
+    "t": "HUBUNGI KAMI",
+    "fs": "15px",
+    "fw": "700",
+    "lh": "15px",
+    "ls": "normal",
+    "c": "rgb(255, 255, 255)",
+    "ta": "center",
+    "pad": "12px 24px",
+    "rad": "25px 0px",
+    "bg": "rgb(255, 214, 0)"
+   },
+   {
+    "tag": "h6",
+    "t": "Kantor Pusat :",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "18px",
+    "ls": "-0.7px",
+    "c": "rgb(255, 255, 255)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "Sudirman Park, Unit A 3 BB. Jl. K.H. Mas Mansyur Kav. 35, Ka",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(255, 255, 255)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "h6",
+    "t": "Email:",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "18px",
+    "ls": "-0.7px",
+    "c": "rgb(255, 255, 255)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "office@financia.proximalab.fyi",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(255, 255, 255)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "h6",
+    "t": "Open Hours:",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "18px",
+    "ls": "-0.7px",
+    "c": "rgb(255, 255, 255)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "Senin - Jum'at: 8.00 -6.00 WIB",
+    "fs": "14px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(255, 255, 255)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "Powered by Financia.co.id",
+    "fs": "10px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(255, 255, 255)",
+    "ta": "start",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   },
+   {
+    "tag": "p",
+    "t": "Copyright © 2020-2022. All rights reserved",
+    "fs": "10px",
+    "fw": "400",
+    "lh": "24px",
+    "ls": "normal",
+    "c": "rgb(255, 255, 255)",
+    "ta": "end",
+    "pad": "0px",
+    "rad": "0px",
+    "bg": "rgba(0, 0, 0, 0)"
+   }
+  ]
+ }
+}

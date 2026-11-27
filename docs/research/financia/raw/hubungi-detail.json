@@ -1,0 +1,196 @@
+{
+ "toggle": {
+  "rect": [
+   763,
+   608,
+   411,
+   132
+  ],
+  "text": "Pertama, HUBUNGI KAMISilahkan hubungi kami untuk k",
+  "fs": "14px",
+  "fw": "400",
+  "lh": "24px",
+  "ls": "normal",
+  "c": "rgb(119, 119, 119)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "pad": "0px",
+  "mb": "0px",
+  "border": "0px none rgb(119, 119, 119)",
+  "ta": "start"
+ },
+ "title": {
+  "rect": [
+   763,
+   608,
+   411,
+   44
+  ],
+  "text": "Pertama, HUBUNGI KAMI",
+  "fs": "14px",
+  "fw": "700",
+  "lh": "14px",
+  "ls": "normal",
+  "c": "rgb(119, 119, 119)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "pad": "15px",
+  "mb": "0px",
+  "border": "0px solid rgb(213, 216, 220)",
+  "ta": "start"
+ },
+ "titleLink": {
+  "rect": [
+   792,
+   622,
+   168,
+   15
+  ],
+  "text": "Pertama, HUBUNGI KAMI",
+  "fs": "14px",
+  "fw": "700",
+  "lh": "1px",
+  "ls": "normal",
+  "c": "rgb(119, 119, 119)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "pad": "0px",
+  "mb": "0px",
+  "border": "0px none rgb(119, 119, 119)",
+  "ta": "start"
+ },
+ "icon": {
+  "rect": [
+   778,
+   623,
+   14,
+   15
+  ],
+  "text": "",
+  "fs": "14px",
+  "fw": "700",
+  "lh": "14px",
+  "ls": "normal",
+  "c": "rgb(119, 119, 119)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "pad": "0px",
+  "mb": "0px",
+  "border": "0px none rgb(119, 119, 119)",
+  "ta": "left"
+ },
+ "content": {
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "text": "Silahkan hubungi kami untuk konsultasi awal secara",
+  "fs": "14px",
+  "fw": "400",
+  "lh": "24px",
+  "ls": "normal",
+  "c": "rgb(119, 119, 119)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "pad": "15px",
+  "mb": "0px",
+  "border": "0px solid rgb(213, 216, 220)",
+  "ta": "start"
+ },
+ "contentP": {
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "text": "Silahkan hubungi kami untuk konsultasi awal secara",
+  "fs": "14px",
+  "fw": "400",
+  "lh": "24px",
+  "ls": "normal",
+  "c": "rgb(119, 119, 119)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "pad": "0px",
+  "mb": "20px",
+  "border": "0px none rgb(119, 119, 119)",
+  "ta": "start"
+ },
+ "btn": {
+  "rect": [
+   1139,
+   31,
+   108,
+   45
+  ],
+  "text": "Konsultasi",
+  "fs": "15px",
+  "fw": "700",
+  "lh": "15px",
+  "ls": "normal",
+  "c": "rgb(0, 0, 0)",
+  "bg": "rgb(255, 214, 0)",
+  "pad": "15px 20px",
+  "mb": "0px",
+  "border": "0px none rgb(0, 0, 0)",
+  "ta": "center"
+ },
+ "h1": {
+  "rect": [
+   120,
+   208,
+   1200,
+   59
+  ],
+  "text": "Hubungi Kami",
+  "fs": "59px",
+  "fw": "400",
+  "lh": "59px",
+  "ls": "-2.95px",
+  "c": "rgb(34, 37, 41)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "pad": "0px",
+  "mb": "0px",
+  "border": "0px none rgb(34, 37, 41)",
+  "ta": "center"
+ },
+ "divider": {
+  "rect": [
+   719,
+   299,
+   3,
+   25
+  ],
+  "text": "",
+  "fs": "14px",
+  "fw": "400",
+  "lh": "24px",
+  "ls": "normal",
+  "c": "rgb(119, 119, 119)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "pad": "0px",
+  "mb": "0px",
+  "border": "0px none rgb(119, 119, 119)",
+  "ta": "center",
+  "border-right": "0px none rgb(119, 119, 119)",
+  "border-left": "0px none rgb(119, 119, 119)",
+  "height": "25px"
+ },
+ "img": null,
+ "imgCol": {
+  "rect": [
+   150,
+   1521,
+   1140,
+   61
+  ],
+  "text": "",
+  "fs": "14px",
+  "fw": "400",
+  "lh": "24px",
+  "ls": "normal",
+  "c": "rgb(119, 119, 119)",
+  "bg": "rgba(0, 0, 0, 0)",
+  "pad": "0px",
+  "mb": "0px",
+  "border": "0px none rgb(119, 119, 119)",
+  "ta": "start"
+ }
+}

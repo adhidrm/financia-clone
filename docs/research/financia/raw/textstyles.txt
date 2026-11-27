@@ -1,0 +1,70 @@
+y=8305 x=917 w=135 h=44 fs=14px fw=700 lh=14px ff=Poppins c=rgb(255, 255, 255) ta=center pad=15px | Hubungi Kami
+y=8305 x=1126 w=134 h=45 fs=15px fw=700 lh=15px ff=Poppins c=rgb(0, 0, 0) ta=center pad=15px 20px | Konsultasi
+y=263 x=120 w=1200 h=27 fs=19px fw=700 lh=26.6px ff=Poppins c=rgb(58, 58, 58) ta=center pad=0px | JASA PENAGIH HUTANG TERDEPAN DAN TERPERCAYA DI IND
+y=360 x=170 w=1100 h=122 fs=47px fw=700 lh=61.1px ff=Poppins c=rgb(58, 58, 58) ta=center pad=0px | Selamat Datang di Website Resmi Financia
+y=502 x=120 w=1200 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=center pad=0px | Simpan waktu dan usaha Anda untuk mengelola bisnis
+y=574 x=518 w=405 h=45 fs=15px fw=700 lh=15px ff=Poppins c=rgb(255, 255, 255) ta=center pad=15px 40px | Pelajari lebih lanjut Tentang Financia
+y=942 x=160 w=1120 h=78 fs=60px fw=700 lh=78px ff=Poppins c=rgb(58, 58, 58) ta=center pad=0px | Tentang Kami
+y=1236 x=170 w=500 h=56 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=justify pad=0px | Apapun Bisnis Anda, Financia adalah Solusi Penagih
+y=1316 x=170 w=500 h=111 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=justify pad=0px | Kami paham bahwa utang yang telah jatuh waktu dan 
+y=1451 x=170 w=500 h=139 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=justify pad=0px | Tetapi jika Anda melakukan penagihan hutang sendir
+y=1250 x=770 w=500 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=justify pad=0px | Anda Jangan Menyerah Dulu!
+y=1302 x=770 w=500 h=139 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=justify pad=0px | Financia siap memberikan layanan jasa penagihan hu
+y=1465 x=770 w=500 h=111 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=justify pad=0px | Anda tidak perlu mengeluarkan biaya penagihan beru
+y=1675 x=538 w=364 h=45 fs=15px fw=700 lh=15px ff=Poppins c=rgb(255, 255, 255) ta=center pad=15px 40px | Ketahui lebih dalam soal Financia
+y=1890 x=130 w=1180 h=78 fs=60px fw=700 lh=78px ff=Poppins c=rgb(58, 58, 58) ta=center pad=0px | Cara Kerja Kami
+y=2013 x=230 w=980 h=56 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=center pad=0px | Financia Menerapkan Strategi Komprehensif Agar Pro
+y=2162 x=421 w=689 h=25 fs=18px fw=700 lh=25px ff=Poppins c=rgb(58, 58, 58) ta=justify pad=0px | Langkah Pertama: Assessment
+y=2192 x=421 w=689 h=56 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=justify pad=0px | Financia akan memulai dengan melakukan assessment 
+y=2318 x=421 w=689 h=25 fs=18px fw=700 lh=25px ff=Poppins c=rgb(58, 58, 58) ta=justify pad=0px | Langkah Kedua: Upaya Non-Litigasi
+y=2348 x=421 w=689 h=167 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=justify pad=0px | Jika kami menilai bahwa utang adalah valid, secepa
+y=2585 x=421 w=689 h=50 fs=18px fw=700 lh=25px ff=Poppins c=rgb(58, 58, 58) ta=justify pad=0px | Langkah Ketiga: Upaya Penagihan Secara Litigasi
+y=2640 x=421 w=689 h=223 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=justify pad=0px | Apabila penagihan secara non-litigasi tidak membua
+y=3013 x=160 w=1120 h=37 fs=31px fw=700 lh=37.2px ff=Poppins c=rgb(255, 255, 255) ta=center pad=0px | “GRATIS, Jika Hutang Belum Dibayar!”
+y=3070 x=607 w=225 h=45 fs=15px fw=700 lh=15px ff=Poppins c=rgb(255, 255, 255) ta=center pad=15px 40px | HUBUNGI FINANCIA
+y=3285 x=160 w=1120 h=78 fs=60px fw=700 lh=78px ff=Poppins c=rgb(58, 58, 58) ta=center pad=0px | Jenis Hutang
+y=3418 x=170 w=540 h=84 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=start pad=0px | Financia menyediakan jasa penagih hutang komersial
+y=3546 x=188 w=415 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=start pad=0px 0px 0px 5px | Kredit atau pinjam meminjam uang (loan transaction
+y=3573 x=188 w=446 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=start pad=0px 0px 0px 5px | Perdagangan atau piutang dagang (accounts receivab
+y=3601 x=188 w=323 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=start pad=0px 0px 0px 5px | Penyediaan jasa (service supply contract)
+y=3629 x=188 w=317 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=start pad=0px 0px 0px 5px | Pembelian properti (property acquisition)
+y=3657 x=188 w=511 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=start pad=0px 0px 0px 5px | Sewa menyewa properti dan barang (lease of goods a
+y=3685 x=188 w=412 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=start pad=0px 0px 0px 5px | Penempatan dana dalam bentuk simpanan (savings)
+y=3713 x=188 w=254 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=start pad=0px 0px 0px 5px | Klaim asuransi (insurance claim)
+y=3418 x=730 w=540 h=84 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=start pad=0px | Jasa penagih hutang yang kami berikan bisa diterap
+y=3571 x=748 w=81 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=start pad=0px 0px 0px 5px | Konstruksi
+y=3598 x=748 w=119 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=start pad=0px 0px 0px 5px | Pertambangan
+y=3626 x=748 w=83 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=start pad=0px 0px 0px 5px | Keuangan
+y=3654 x=748 w=63 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=start pad=0px 0px 0px 5px | Properti
+y=3682 x=748 w=210 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=start pad=0px 0px 0px 5px | Informasi & Telekomunikasi
+y=3710 x=748 w=88 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=start pad=0px 0px 0px 5px | Profesional
+y=3738 x=748 w=91 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=start pad=0px 0px 0px 5px | Manufaktur
+y=3766 x=748 w=86 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=start pad=0px 0px 0px 5px | Perhotelan
+y=3793 x=748 w=46 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=start pad=0px 0px 0px 5px | Retail
+y=3951 x=160 w=1120 h=78 fs=60px fw=700 lh=78px ff=Poppins c=rgb(58, 58, 58) ta=center pad=0px | Klien/Mitra
+y=5861 x=10 w=1420 h=107 fs=41px fw=700 lh=53.3px ff=Poppins c=rgb(255, 255, 255) ta=center pad=0px | FINANCIA, AGENSI JASA PENAGIH HUTANG TERDEPAN DAN 
+y=5988 x=10 w=1420 h=35 fs=19px fw=700 lh=35.2857px ff=Poppins c=rgb(255, 255, 255) ta=center pad=0px | Simpan waktu dan usaha Anda untuk mengelola bisnis
+y=6073 x=624 w=192 h=45 fs=15px fw=700 lh=15px ff=Poppins c=rgb(255, 255, 255) ta=center pad=15px 40px | HUBUNGI KAMI
+y=6378 x=697 w=492 h=156 fs=60px fw=700 lh=78px ff=Poppins c=rgb(58, 58, 58) ta=start pad=0px | Kenapa Financia?
+y=6886 x=697 w=192 h=45 fs=15px fw=700 lh=15px ff=Poppins c=rgb(255, 255, 255) ta=center pad=15px 40px | HUBUNGI KAMI
+y=7131 x=0 w=1440 h=54 fs=45px fw=700 lh=54px ff=Poppins c=rgb(58, 58, 58) ta=center pad=0px | Tolak Ukur Financia...
+y=7425 x=70 w=340 h=57 fs=19px fw=400 lh=28.5px ff=Verdana c=rgb(75, 79, 88) ta=start pad=0px | Klien Kami Puas atas Layanan yang Kami Berikan
+y=7325 x=121 w=159 h=100 fs=100px fw=600 lh=100px ff=Josefin Sans c=rgb(75, 79, 88) ta=center pad=0px | 100
+y=7425 x=550 w=340 h=29 fs=19px fw=400 lh=28.5px ff=Verdana c=rgb(75, 79, 88) ta=start pad=0px | Total Klien Financia
+y=7325 x=624 w=138 h=100 fs=100px fw=600 lh=100px ff=Josefin Sans c=rgb(75, 79, 88) ta=center pad=0px | 155
+y=7425 x=1030 w=340 h=29 fs=19px fw=400 lh=28.5px ff=Verdana c=rgb(75, 79, 88) ta=start pad=0px | Repeat Order
+y=7325 x=1129 w=142 h=100 fs=100px fw=600 lh=100px ff=Josefin Sans c=rgb(75, 79, 88) ta=center pad=0px | 125
+y=7752 x=683 w=507 h=78 fs=60px fw=700 lh=78px ff=Poppins c=rgb(58, 58, 58) ta=start pad=0px | FAQ
+y=7845 x=683 w=507 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(75, 79, 88) ta=start pad=0px | Pertanyaan yang Sering Diajukan (FAQ)
+y=8745 x=180 w=252 h=167 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(255, 255, 255) ta=justify pad=0px | PT Garda Finansial Utama (“Financia”) adalah perus
+y=8627 x=502 w=265 h=29 fs=24px fw=700 lh=28.8px ff=Poppins c=rgb(255, 255, 255) ta=start pad=0px | Menu
+y=8627 x=787 w=489 h=29 fs=24px fw=700 lh=28.8px ff=Poppins c=rgb(255, 255, 255) ta=start pad=0px | Lokasi Kami :
+y=8895 x=936 w=192 h=45 fs=15px fw=700 lh=15px ff=Poppins c=rgb(255, 255, 255) ta=center pad=15px 40px | HUBUNGI KAMI
+y=9032 x=250 w=280 h=23 fs=18px fw=700 lh=22.5px ff=Poppins c=rgb(255, 255, 255) ta=start pad=0px | Kantor Pusat :
+y=9058 x=250 w=280 h=84 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(255, 255, 255) ta=start pad=0px | Sudirman Park, Unit A 3 BB. Jl. K.H. Mas Mansyur K
+y=9060 x=630 w=280 h=23 fs=18px fw=700 lh=22.5px ff=Poppins c=rgb(255, 255, 255) ta=start pad=0px | Email:
+y=9086 x=630 w=280 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(255, 255, 255) ta=start pad=0px | office@financia.co.id
+y=9060 x=1010 w=280 h=23 fs=18px fw=700 lh=22.5px ff=Poppins c=rgb(255, 255, 255) ta=start pad=0px | Open Hours:
+y=9086 x=1010 w=280 h=28 fs=15px fw=400 lh=27.8571px ff=Poppins c=rgb(255, 255, 255) ta=start pad=0px | Senin - Jum'at: 8.00 -6.00 WIB
+y=9238 x=150 w=570 h=19 fs=10px fw=400 lh=18.5714px ff=Poppins c=rgb(255, 255, 255) ta=start pad=0px | Powered by Financia.co.id
+y=9238 x=720 w=570 h=19 fs=10px fw=400 lh=18.5714px ff=Poppins c=rgb(255, 255, 255) ta=end pad=0px | Copyright © 2020-2022. All rights reserved

@@ -1,0 +1,356 @@
+{
+ "imgs": [
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-14-1-300x254.png",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-14-1-300x254.png",
+   "w": 102,
+   "h": 86,
+   "y": 10,
+   "alt": "",
+   "natW": 300,
+   "natH": 254
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-13-2-768x317.png",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-13-2-768x317.png",
+   "w": 392,
+   "h": 162,
+   "y": 1171,
+   "alt": "",
+   "natW": 768,
+   "natH": 317
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/10/qingjian.png",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/10/qingjian.png",
+   "w": 119,
+   "h": 72,
+   "y": 4223,
+   "alt": "",
+   "natW": 119,
+   "natH": 72
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/10/PT-BAtubara-Selaras-Sapta.png",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/10/PT-BAtubara-Selaras-Sapta.png",
+   "w": 144,
+   "h": 50,
+   "y": 4234,
+   "alt": "",
+   "natW": 144,
+   "natH": 50
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/10/wagely.jpg",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/10/wagely.jpg",
+   "w": 137,
+   "h": 67,
+   "y": 4226,
+   "alt": "",
+   "natW": 137,
+   "natH": 67
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/10/Logo-BPR-MANGUN-PUNDIYASA-transparent-big-2048x526-1-1024x263.png",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/10/Logo-BPR-MANGUN-PUNDIYASA-transparent-big-2048x526-1-1024x263.png",
+   "w": 300,
+   "h": 77,
+   "y": 4221,
+   "alt": "",
+   "natW": 1024,
+   "natH": 263
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/10/PT-Mangun-Pundiyasa-Capital.jpg",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/10/PT-Mangun-Pundiyasa-Capital.jpg",
+   "w": 300,
+   "h": 67,
+   "y": 4470,
+   "alt": "",
+   "natW": 473,
+   "natH": 106
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/10/cropped-LOGO-MBS-100x100px.png",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/10/cropped-LOGO-MBS-100x100px.png",
+   "w": 100,
+   "h": 100,
+   "y": 4454,
+   "alt": "",
+   "natW": 100,
+   "natH": 100
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/10/PT-Mahadata-asia-internasional-1024x724.png",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/10/PT-Mahadata-asia-internasional-1024x724.png",
+   "w": 300,
+   "h": 212,
+   "y": 4398,
+   "alt": "",
+   "natW": 1024,
+   "natH": 724
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/10/Loesche-GmbH.jpg",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/10/Loesche-GmbH.jpg",
+   "w": 222,
+   "h": 72,
+   "y": 4468,
+   "alt": "",
+   "natW": 222,
+   "natH": 72
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/11/bunge-768x177.png",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/11/bunge-768x177.png",
+   "w": 250,
+   "h": 58,
+   "y": 4771,
+   "alt": "",
+   "natW": 768,
+   "natH": 177
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/11/Chec-Logo-768x398.jpg",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/11/Chec-Logo-768x398.jpg",
+   "w": 250,
+   "h": 130,
+   "y": 4735,
+   "alt": "",
+   "natW": 768,
+   "natH": 398
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/11/deme.jpg",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/11/deme.jpg",
+   "w": 250,
+   "h": 72,
+   "y": 4764,
+   "alt": "",
+   "natW": 800,
+   "natH": 230
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/11/dockwise.png",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/11/dockwise.png",
+   "w": 103,
+   "h": 114,
+   "y": 4742,
+   "alt": "",
+   "natW": 918,
+   "natH": 1024
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/11/gardline.png",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/11/gardline.png",
+   "w": 250,
+   "h": 64,
+   "y": 5046,
+   "alt": "",
+   "natW": 442,
+   "natH": 114
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/11/keda-1024x277.png",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/11/keda-1024x277.png",
+   "w": 250,
+   "h": 68,
+   "y": 5044,
+   "alt": "",
+   "natW": 1024,
+   "natH": 277
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/11/khansaheb.jpeg",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/11/khansaheb.jpeg",
+   "w": 110,
+   "h": 110,
+   "y": 5023,
+   "alt": "",
+   "natW": 200,
+   "natH": 200
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/11/KhansahebLogo5e8b263b38013.jpg",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/11/KhansahebLogo5e8b263b38013.jpg",
+   "w": 128,
+   "h": 128,
+   "y": 5014,
+   "alt": "",
+   "natW": 300,
+   "natH": 300
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/11/lunar.jpg",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/11/lunar.jpg",
+   "w": 178,
+   "h": 114,
+   "y": 5305,
+   "alt": "",
+   "natW": 512,
+   "natH": 330
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/11/standard-oil.png",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/11/standard-oil.png",
+   "w": 140,
+   "h": 140,
+   "y": 5292,
+   "alt": "",
+   "natW": 300,
+   "natH": 300
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/11/uralkali.png",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/11/uralkali.png",
+   "w": 195,
+   "h": 130,
+   "y": 5297,
+   "alt": "",
+   "natW": 250,
+   "natH": 167
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/11/veliche.jpg",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/11/veliche.jpg",
+   "w": 188,
+   "h": 116,
+   "y": 5304,
+   "alt": "",
+   "natW": 640,
+   "natH": 396
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/11/wakachiku.jpg",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/11/wakachiku.jpg",
+   "w": 173,
+   "h": 151,
+   "y": 5582,
+   "alt": "",
+   "natW": 244,
+   "natH": 213
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/11/Yara_International_emblem.svg-1024x1024.png",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/11/Yara_International_emblem.svg-1024x1024.png",
+   "w": 148,
+   "h": 148,
+   "y": 5583,
+   "alt": "",
+   "natW": 1024,
+   "natH": 1024
+  },
+  {
+   "src": "https://financia.co.id/wp-content/uploads/2022/11/Ambev_logo_2015.svg-1024x256.png",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/11/Ambev_logo_2015.svg-1024x256.png",
+   "w": 198,
+   "h": 49,
+   "y": 5632,
+   "alt": "",
+   "natW": 1024,
+   "natH": 256
+  },
+  {
+   "src": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-13-2-768x317.png",
+   "w": 447,
+   "h": 447,
+   "y": 6538,
+   "alt": "",
+   "natW": 1,
+   "natH": 1
+  },
+  {
+   "src": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/10/pexels-olya-kobruseva-5428824-684x1024.jpg",
+   "w": 433,
+   "h": 433,
+   "y": 8000,
+   "alt": "jasa penagih hutang",
+   "natW": 1,
+   "natH": 1
+  },
+  {
+   "src": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/10/pexels-olya-kobruseva-5428824-684x1024.jpg",
+   "w": 0,
+   "h": 0,
+   "y": 0,
+   "alt": "jasa penagih hutang",
+   "natW": 1,
+   "natH": 1
+  },
+  {
+   "src": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=",
+   "dataSrc": "https://financia.co.id/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-13-2-300x124.png",
+   "w": 237,
+   "h": 237,
+   "y": 8733,
+   "alt": "",
+   "natW": 1,
+   "natH": 1
+  }
+ ],
+ "bgs": [
+  {
+   "y": 106,
+   "w": 1440,
+   "h": 882,
+   "bg": "url(\"https://financia.co.id/wp-content/uploads/2022/10/pexels-pixabay-327540.jpg\")",
+   "size": "cover",
+   "pos": "50% 50%",
+   "repeat": "repeat",
+   "attach": "fixed",
+   "el": "elementor-section elementor-top-section elementor-element elementor-element-d498539 elementor-sectio"
+  },
+  {
+   "y": 5807,
+   "w": 1440,
+   "h": 577,
+   "bg": "url(\"https://financia.co.id/wp-content/uploads/2022/10/pexels-pixabay-327540.jpg\")",
+   "size": "cover",
+   "pos": "50% 50%",
+   "repeat": "no-repeat",
+   "attach": "fixed",
+   "el": "elementor-section elementor-top-section elementor-element elementor-element-fcd0463 elementor-sectio"
+  },
+  {
+   "y": 7362,
+   "w": 480,
+   "h": 297,
+   "bg": "url(\"https://financia.co.id/wp-content/uploads/2022/10/pexels-pixabay-327540.jpg\")",
+   "size": "cover",
+   "pos": "50% 50%",
+   "repeat": "no-repeat",
+   "attach": "scroll",
+   "el": "elementor-widget-wrap elementor-element-populated"
+  },
+  {
+   "y": 7362,
+   "w": 480,
+   "h": 297,
+   "bg": "url(\"https://financia.co.id/wp-content/uploads/2021/07/picture-88.jpg\")",
+   "size": "cover",
+   "pos": "50% 100%",
+   "repeat": "no-repeat",
+   "attach": "scroll",
+   "el": "elementor-widget-wrap elementor-element-populated"
+  },
+  {
+   "y": 7362,
+   "w": 480,
+   "h": 297,
+   "bg": "url(\"https://financia.co.id/wp-content/uploads/2022/10/pexels-energepiccom-561458.jpg\")",
+   "size": "auto",
+   "pos": "0% 50%",
+   "repeat": "no-repeat",
+   "attach": "scroll",
+   "el": "elementor-widget-wrap elementor-element-populated"
+  }
+ ],
+ "fonts": [
+  "https://fonts.googleapis.com/",
+  "https://fonts.gstatic.com/"
+ ],
+ "html": 280766
+}

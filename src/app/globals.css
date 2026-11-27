@@ -7,8 +7,9 @@
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
-  --font-sans: "Geist", "Geist Fallback", ui-sans-serif, system-ui, sans-serif;
-  --font-mono: "Geist Mono", "Geist Mono Fallback", ui-monospace, monospace;
+  --font-sans: var(--font-poppins), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: ui-monospace, monospace;
+  --font-josefin: var(--font-josefin);
   --font-heading: var(--font-sans);
   --color-sidebar-ring: var(--sidebar-ring);
   --color-sidebar-border: var(--sidebar-border);
@@ -126,5 +127,116 @@
   }
   html {
     @apply font-sans;
+    scroll-behavior: smooth;
   }
 }
+
+/* --- motion layer ---------------------------------------------------------
+   The source site only declares a 0.3s button transition. Everything below is
+   an added effect layer: it must stay CSS-only so the static export keeps it
+   without a JS runtime, and it must degrade to "visible, static" when the
+   browser does not support scroll-driven animations.
+   ------------------------------------------------------------------------- */
+
+@keyframes fx-rise {
+  from {
+    opacity: 0;
+    transform: translateY(28px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@keyframes fx-fade {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+@layer components {
+  /* CTA buttons: lift on hover, settle on press */
+  main a[href*="whatsapp"] {
+    transition:
+      transform 0.25s ease,
+      box-shadow 0.25s ease,
+      filter 0.25s ease;
+    will-change: transform;
+  }
+
+  main a[href*="whatsapp"]:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 12px 26px -10px rgb(0 0 0 / 0.5);
+    filter: brightness(1.06);
+  }
+
+  main a[href*="whatsapp"]:active {
+    transform: translateY(0);
+    box-shadow: 0 4px 10px -6px rgb(0 0 0 / 0.5);
+  }
+
+  /* header + footer links */
+  header a,
+  footer a {
+    transition:
+      color 0.2s ease,
+      opacity 0.2s ease;
+  }
+
+  header a:hover {
+    color: #ffd600;
+  }
+
+  footer nav a:hover,
+  footer ul a:hover {
+    color: #ffd600;
+  }
+
+  /* content imagery breathes slightly on hover */
+  main img {
+    transition:
+      transform 0.5s ease-in-out,
+      filter 0.5s ease-in-out;
+  }
+
+  main img:hover {
+    transform: scale(1.02);
+  }
+
+  /* focus visibility, since hover effects imply interactivity */
+  a:focus-visible,
+  button:focus-visible {
+    outline: 2px solid #ffd600;
+    outline-offset: 3px;
+  }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  @supports (animation-timeline: view()) {
+    main > section {
+      animation: fx-rise linear both;
+      animation-timeline: view();
+      animation-range: entry 0% entry 22%;
+    }
+
+    /* the hero is for first paint: no reveal, it would open the page washed out */
+    main > section:first-child {
+      animation: none;
+    }
+  }
+}
+
+/* printing or exporting a capture must never hide off-screen sections */
+@media print {
+  main > section {
+    animation: none !important;
+    opacity: 1 !important;
+    transform: none !important;
+  }
+}
+
+

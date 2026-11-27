@@ -1,0 +1,454 @@
+{
+ "nav": {
+  "navItems": [
+   {
+    "text": "Home",
+    "href": "https://financia.co.id/",
+    "depth": 0,
+    "cls": "menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-883 current_page_item parent hfe-creative-menu"
+   },
+   {
+    "text": "Tentang Kami",
+    "href": "https://financia.co.id/tentang-kami/",
+    "depth": 0,
+    "cls": "menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu"
+   },
+   {
+    "text": "Cara Kerja Kami",
+    "href": "http://financia.co.id/#cara-kerja",
+    "depth": 0,
+    "cls": "menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home current-menu-ancestor current-menu-parent menu-item-has-children parent hfe-has-submenu hfe-creative-menu parent-has-child"
+   },
+   {
+    "text": "Biaya Komisi",
+    "href": "http://financia.co.id/biaya-komisi",
+    "depth": 1,
+    "cls": "menu-item menu-item-type-custom menu-item-object-custom hfe-creative-menu"
+   },
+   {
+    "text": "FAQ",
+    "href": "http://financia.co.id/#faq",
+    "depth": 1,
+    "cls": "menu-item menu-item-type-custom menu-item-object-custom current_page_item menu-item-home hfe-creative-menu"
+   },
+   {
+    "text": "Jenis Utang",
+    "href": "http://financia.co.id/#jenis-utang",
+    "depth": 0,
+    "cls": "menu-item menu-item-type-custom menu-item-object-custom current_page_item menu-item-home parent hfe-creative-menu"
+   },
+   {
+    "text": "Klien/Mitra",
+    "href": "http://financia.co.id/#klien-mitra",
+    "depth": 0,
+    "cls": "menu-item menu-item-type-custom menu-item-object-custom current_page_item menu-item-home parent hfe-creative-menu"
+   },
+   {
+    "text": "Hubungi Kami",
+    "href": "https://financia.co.id/hubungi-kami/",
+    "depth": 0,
+    "cls": "menu-item menu-item-type-post_type menu-item-object-page parent hfe-creative-menu hfe-button-wrapper elementor-widget-button"
+   }
+  ],
+  "headerHTML": "<header id=\"masthead\" itemscope=\"itemscope\" itemtype=\"https://schema.org/WPHeader\"><p class=\"main-title bhf-hidden\" itemprop=\"headline\"><a href=\"https://financia.co.id/\" title=\"FINANCIA – Jasa Penagihan Utang\" rel=\"home\">FINANCIA – Jasa Penagihan Utang</a></p>\n<style>.elementor-bc-flex-widget .elementor-894 .elementor-element.elementor-element-8d90a63.elementor-column .elementor-widget-wrap{align-items:center}.elementor-894 .elementor-element.elementor-element-8d90a63.elementor-column.elementor-element[data-element_type=\"column\"]>.elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center}.elementor-894 .elementor-element.elementor-element-8d90a63.elementor-column>.elementor-widget-wrap{justify-content:center}.elementor-894 .elementor-element.elementor-element-0f0c6ba .menu-item a.hfe-menu-item{padding-left:15px;padding-right:15px}.elementor-894 .elementor-element.elementor-element-0f0c6ba .menu-item a.hfe-sub-menu-item{padding-left:calc(15px + 20px);padding-right:15px}.elementor-894 .elementor-element.elementor-element-0f0c6ba .hfe-nav-menu__layout-vertical .menu-item ul ul a.hfe-sub-menu-item{padding-left:calc(15px + 40px);padding-right:15px}.elementor-894 .elementor-element.elementor-element-0f0c6ba .hfe-nav-menu__layout-vertical .menu-item ul ul ul a.hfe-sub-menu-item{padding-left:calc(15px + 60px);padding-right:15px}.elementor-894 .elementor-element.elementor-element-0f0c6ba .hfe-nav-menu__layout-vertical .menu-item ul ul ul ul a.hfe-sub-menu-item{padding-left:calc(15px + 80px);padding-right:15px}.elementor-894 .elementor-element.elementor-element-0f0c6ba .menu-item a.hfe-menu-item,.elementor-894 .elementor-element.elementor-element-0f0c6ba .menu-item a.hfe-sub-menu-item{padding-top:15px;padding-bottom:15px}.elementor-894 .elementor-element.elementor-element-0f0c6ba ul.sub-menu{width:220px}.elementor-894 .elementor-element.elementor-element-0f0c6ba .sub-menu a.hfe-sub-menu-item,.elementor-894 .elementor-element.elementor-element-0f0c6ba nav.hfe-dropdown li a.hfe-menu-item,.elementor-894 .elementor-element.elementor-element-0f0c6ba nav.hfe-dropdown li a.hfe-sub-menu-item,.elementor-894 .elementor-element.elementor-element-0f0c6ba nav.hfe-dropdown-expandible li a.hfe-menu-item,.elementor-894 .elementor-element.elementor-element-0f0c6ba nav.hfe-dropdown-expandible li a.hfe-sub-menu-item{padding-top:15px;padding-bottom:15px}.elementor-894 .elementor-element.elementor-element-0f0c6ba .hfe-nav-menu__toggle{margin:0 auto}.elementor-894 .elementor-element.elementor-element-0f0c6ba a.hfe-menu-item,.elementor-894 .elementor-element.elementor-element-0f0c6ba a.hfe-sub-menu-item{font-size:14px;font-weight:700}.elementor-894 .elementor-element.elementor-element-0f0c6ba .menu-item a.hfe-menu-item:hover,.elementor-894 .elementor-element.elementor-element-0f0c6ba .sub-menu a.hfe-sub-menu-item:hover,.elementor-894 .elementor-element.elementor-element-0f0c6ba .menu-item.current-menu-item a.hfe-menu-item,.elementor-894 .elementor-element.elementor-element-0f0c6ba .menu-item a.hfe-menu-item.highlighted,.elementor-894 .elementor-element.elementor-element-0f0c6ba .menu-item a.hfe-menu-item:focus{color:#FFD600}.elementor-894 .elementor-element.elementor-element-0f0c6ba .menu-item.current-menu-item a.hfe-menu-item,.elementor-894 .elementor-element.elementor-element-0f0c6ba .menu-item.current-menu-ancestor a.hfe-menu-item{color:#FFD600}.elementor-894 .elementor-element.elementor-element-0f0c6ba .sub-menu,.elementor-894 .elementor-element.elementor-element-0f0c6ba nav.hfe-dropdown,.elementor-894 .elementor-element.elementor-element-0f0c6ba nav.hfe-dropdown-expandible,.elementor-894 .elementor-element.elementor-element-0f0c6ba nav.hfe-dropdown .menu-item a.hfe-menu-item,.elementor-894 .elementor-element.elementor-element-0f0c6ba nav.hfe-dropdown .menu-item a.hfe-sub-menu-item{background-color:#fff}.elementor-894 .elementor-element.elementor-element-0f0c6ba .sub-menu li.menu-item:not(:last-child),.elementor-894 .elemen"
+ },
+ "acc": [
+  {
+   "cls": "elementor-toggle",
+   "items": [
+    {
+     "title": "ProfesionalFinancia adalah layanan jasa penagihan hutang yang didukung oleh tenaga profesional. Kami berkerja dengan cara-cara yang sesuai dengan hukum yang berlaku di Indonesia, sehingga bisa diperta",
+     "content": "Efektif & EfisienFinancia memiliki SOP yang terbukti dan teruji efektif untuk melakukan penagihan utang komersial sehingga piutang/tagihan Anda dibayar oleh mitra bisnis Anda. Sudah banyak perkara utang-piutang yang sukses kami tangani dengan metode kami. Metode kami juga efisien karena Anda hanya membayar biaya komisi (commission fee) jika Anda telah menerima pembayaran atas piutang/tagihan.",
+     "style": "elementor-toggle-item"
+    },
+    {
+     "title": "Profesional",
+     "content": "Financia adalah layanan jasa penagihan hutang yang didukung oleh tenaga profesional. Kami berkerja dengan cara-cara yang sesuai dengan hukum yang berlaku di Indonesia, sehingga bisa dipertanggungjawabkan secara hukum dan aman untuk para klien kami.",
+     "style": "elementor-tab-title"
+    },
+    {
+     "title": "Efektif & EfisienFinancia memiliki SOP yang terbukti dan teruji efektif untuk melakukan penagihan utang komersial sehingga piutang/tagihan Anda dibayar oleh mitra bisnis Anda. Sudah banyak perkara uta",
+     "content": "Biaya Masuk AkalPada dasarnya kami senang membantu Anda mendapatkan apa yang menjadi hak Anda. Oleh karena itu, Financia menggunakan struktur biaya komisi (commission fee) yang masuk akal dan tidak memberatkan secara ekonomi bagi Anda.",
+     "style": "elementor-toggle-item"
+    },
+    {
+     "title": "Efektif & Efisien",
+     "content": "Financia memiliki SOP yang terbukti dan teruji efektif untuk melakukan penagihan utang komersial sehingga piutang/tagihan Anda dibayar oleh mitra bisnis Anda. Sudah banyak perkara utang-piutang yang sukses kami tangani dengan metode kami. Metode kami juga efisien karena Anda hanya membayar biaya komisi (commission fee) jika Anda telah menerima pembayaran atas piutang/tagihan.",
+     "style": "elementor-tab-title"
+    },
+    {
+     "title": "Biaya Masuk AkalPada dasarnya kami senang membantu Anda mendapatkan apa yang menjadi hak Anda. Oleh karena itu, Financia menggunakan struktur biaya komisi (commission fee) yang masuk akal dan tidak me",
+     "content": "Tidak Ada Biaya TersembunyiLayanan jasa penagihan utang Financia dibuat dengan sangat transparan. Kami jamin, tidak ada biaya layanan tersembunyi yang kami tetapkan untuk mengambil keuntungan dari Anda. Setiap biaya kami ungkapkan di awal dan berdasarkan persetujuan Anda.",
+     "style": "elementor-toggle-item"
+    },
+    {
+     "title": "Biaya Masuk Akal",
+     "content": "Pada dasarnya kami senang membantu Anda mendapatkan apa yang menjadi hak Anda. Oleh karena itu, Financia menggunakan struktur biaya komisi (commission fee) yang masuk akal dan tidak memberatkan secara ekonomi bagi Anda.",
+     "style": "elementor-tab-title"
+    },
+    {
+     "title": "Tidak Ada Biaya TersembunyiLayanan jasa penagihan utang Financia dibuat dengan sangat transparan. Kami jamin, tidak ada biaya layanan tersembunyi yang kami tetapkan untuk mengambil keuntungan dari And",
+     "content": "Laporan Up to DateSetiap upaya yang kami lakukan, selalu kami laporkan kepada klien secara berkala dan informatif sehingga klien kami mengetahui dengan jelas perkembangan upaya penagihan yang kami lakukan.",
+     "style": "elementor-toggle-item"
+    },
+    {
+     "title": "Tidak Ada Biaya Tersembunyi",
+     "content": "Layanan jasa penagihan utang Financia dibuat dengan sangat transparan. Kami jamin, tidak ada biaya layanan tersembunyi yang kami tetapkan untuk mengambil keuntungan dari Anda. Setiap biaya kami ungkapkan di awal dan berdasarkan persetujuan Anda.",
+     "style": "elementor-tab-title"
+    },
+    {
+     "title": "Laporan Up to DateSetiap upaya yang kami lakukan, selalu kami laporkan kepada klien secara berkala dan informatif sehingga klien kami mengetahui dengan jelas perkembangan upaya penagihan yang kami lak",
+     "content": "KerahasiaanFinancia sangat berkomitmen untuk menjaga kerahasiaan setiap data atau informasi yang Anda berikan. Kami tidak akan menggunakan atau mengungkapkan kepada pihak manapun data atau informasi tersebut selain untuk tujuan penagihan utang.",
+     "style": "elementor-toggle-item"
+    },
+    {
+     "title": "Laporan Up to Date",
+     "content": "Setiap upaya yang kami lakukan, selalu kami laporkan kepada klien secara berkala dan informatif sehingga klien kami mengetahui dengan jelas perkembangan upaya penagihan yang kami lakukan.",
+     "style": "elementor-tab-title"
+    },
+    {
+     "title": "KerahasiaanFinancia sangat berkomitmen untuk menjaga kerahasiaan setiap data atau informasi yang Anda berikan. Kami tidak akan menggunakan atau mengungkapkan kepada pihak manapun data atau informasi t",
+     "content": "Konsultasi GratisLayanan konsultasi Financia tersedia secara gratis dengan dukungan tenaga profesional. Hubungi kami segera.",
+     "style": "elementor-toggle-item"
+    },
+    {
+     "title": "Kerahasiaan",
+     "content": "Financia sangat berkomitmen untuk menjaga kerahasiaan setiap data atau informasi yang Anda berikan. Kami tidak akan menggunakan atau mengungkapkan kepada pihak manapun data atau informasi tersebut selain untuk tujuan penagihan utang.",
+     "style": "elementor-tab-title"
+    },
+    {
+     "title": "Konsultasi GratisLayanan konsultasi Financia tersedia secara gratis dengan dukungan tenaga profesional. Hubungi kami segera.",
+     "content": "Layanan konsultasi Financia tersedia secara gratis dengan dukungan tenaga profesional. Hubungi kami segera.",
+     "style": "elementor-toggle-item"
+    },
+    {
+     "title": "Konsultasi Gratis",
+     "content": "Layanan konsultasi Financia tersedia secara gratis dengan dukungan tenaga profesional. Hubungi kami segera.",
+     "style": "elementor-tab-title"
+    }
+   ]
+  },
+  {
+   "cls": "elementor-toggle",
+   "items": [
+    {
+     "title": "1. Apa itu Financia? Financia adalah perusahaan yang menyediakan jasa penagihan utang yang praktis, efisien, aman dan tunduk pada hukum yang berlaku di Indonesia. Financia akan menyediakan tim advokat",
+     "content": "2. Utang komersial apa saja yang bisa dilakukan penagihan oleh Financia?Pada dasarnya setiap utang yang lahir dari transaksi komersial/bisnis sepanjang menurut kami sah secara hukum dapat dilakukan penagihan oleh kami. Jika Anda masih ragu apakah utang yang hendak Anda tagih termasuk utang komersial atau tidak, silahkan konsultasikan dengan kami.",
+     "style": "elementor-toggle-item"
+    },
+    {
+     "title": "1. Apa itu Financia?",
+     "content": "Financia adalah perusahaan yang menyediakan jasa penagihan utang yang praktis, efisien, aman dan tunduk pada hukum yang berlaku di Indonesia. Financia akan menyediakan tim advokat (lawyer) yang memiliki keahlian khusus di bidang hukum komersial dalam melakukan penagihan utang. Penagihan utang yang dilakukan bisa melalui jalur non-litigasi maupun litigasi dimana akan diterapkan secara kasuistik.",
+     "style": "elementor-tab-title"
+    },
+    {
+     "title": "2. Utang komersial apa saja yang bisa dilakukan penagihan oleh Financia?Pada dasarnya setiap utang yang lahir dari transaksi komersial/bisnis sepanjang menurut kami sah secara hukum dapat dilakukan pe",
+     "content": "3. Apakah ada nilai minimum utang atau tagihan/piutang (accounts receivable) yang dapat dilakukan penagihannya melalui Financia?Ada, nilai minimum utang atau tagihan/piutang (accounts receivable) yang dapat dilakukan penagihannya melalui Financia adalah sebesar atau setara Rp. 500.000.000,-.",
+     "style": "elementor-toggle-item"
+    },
+    {
+     "title": "2. Utang komersial apa saja yang bisa dilakukan penagihan oleh Financia?",
+     "content": "Pada dasarnya setiap utang yang lahir dari transaksi komersial/bisnis sepanjang menurut kami sah secara hukum dapat dilakukan penagihan oleh kami. Jika Anda masih ragu apakah utang yang hendak Anda tagih termasuk utang komersial atau tidak, silahkan konsultasikan dengan kami.",
+     "style": "elementor-tab-title"
+    },
+    {
+     "title": "3. Apakah ada nilai minimum utang atau tagihan/piutang (accounts receivable) yang dapat dilakukan penagihannya melalui Financia?Ada, nilai minimum utang atau tagihan/piutang (accounts receivable) yang",
+     "content": "4. Kenapa Anda perlu jasa penagihan utang komersial dari Financia? Menagih utang di Indonesia tidak mudah, bahkan termasuk tersulit apabila dibanding dengan banyak negara lain. Masing-masing transaksi komersial memiliki karakteristik dan serta pengaturan yang berbeda. Jika tidak dilakukan dengan cara yang tepat, menagih utang hanya akan menghabiskan biaya lebih besar dari nilai tagihan/piutang Anda.",
+     "style": "elementor-toggle-item"
+    },
+    {
+     "title": "3. Apakah ada nilai minimum utang atau tagihan/piutang (accounts receivable) yang dapat dilakukan penagihannya melalui Financia?",
+     "content": "Ada, nilai minimum utang atau tagihan/piutang (accounts receivable) yang dapat dilakukan penagihannya melalui Financia adalah sebesar atau setara Rp. 500.000.000,-.",
+     "style": "elementor-tab-title"
+    },
+    {
+     "title": "4. Kenapa Anda perlu jasa penagihan utang komersial dari Financia? Menagih utang di Indonesia tidak mudah, bahkan termasuk tersulit apabila dibanding dengan banyak negara lain. Masing-masing transaksi",
+     "content": "5. Berapa lama proses penagihan hutang komersial akan berlangsung? Kami memahami konsep time value of money sehingga kami berusaha Anda bisa mendapatkan pembayaran secepat mungkin. Tetapi hal ini sangat bergantung pada seberapa kompleks permasalahan utang-piutang yang Anda miliki. Pada dasarnya, kami senang membantu Anda untuk segera mendapatkan pembayaran yang menjadi hak Anda.",
+     "style": "elementor-toggle-item"
+    },
+    {
+     "title": "4. Kenapa Anda perlu jasa penagihan utang komersial dari Financia?",
+     "content": "Menagih utang di Indonesia tidak mudah, bahkan termasuk tersulit apabila dibanding dengan banyak negara lain. Masing-masing transaksi komersial memiliki karakteristik dan serta pengaturan yang berbeda. Jika tidak dilakukan dengan cara yang tepat, menagih utang hanya akan menghabiskan biaya lebih besar dari nilai tagihan/piutang Anda.",
+     "style": "elementor-tab-title"
+    },
+    {
+     "title": "5. Berapa lama proses penagihan hutang komersial akan berlangsung? Kami memahami konsep time value of money sehingga kami berusaha Anda bisa mendapatkan pembayaran secepat mungkin. Tetapi hal ini sang",
+     "content": "6. Berapa biaya komisi (commision fee) Financia? Pada dasarnya biaya komisi (commision fee) merupakan komisi keberhasilan (success fee). Dalam menentukan besaran biaya komisi (commision fee), kami menggunakan struktur komisi berkisar 1% s.d. 30% dari jumlah utang yang Anda terima pembayarannya dari pihak yang berutang. Selama Anda belum menerima pembayaran atas utang, Anda tidak perlu membayar biaya komisi.",
+     "style": "elementor-toggle-item"
+    },
+    {
+     "title": "5. Berapa lama proses penagihan hutang komersial akan berlangsung?",
+     "content": "Kami memahami konsep time value of money sehingga kami berusaha Anda bisa mendapatkan pembayaran secepat mungkin. Tetapi hal ini sangat bergantung pada seberapa kompleks permasalahan utang-piutang yang Anda miliki. Pada dasarnya, kami senang membantu Anda untuk segera mendapatkan pembayaran yang menjadi hak Anda.",
+     "style": "elementor-tab-title"
+    },
+    {
+     "title": "6. Berapa biaya komisi (commision fee) Financia? Pada dasarnya biaya komisi (commision fee) merupakan komisi keberhasilan (success fee). Dalam menentukan besaran biaya komisi (commision fee), kami men",
+     "content": "7. Apa saja yang perlu saya persiapkan agar proses penagihan utang melalui Financia bisa dimulai? Anda hanya perlu siapkan data yang berkaitan dengan utang, menghubungi kami, dan kemudian memberikan kuasa kepada kami agar kami yang bisa segera bertindak untuk dan atas nama Anda dalam melakukan penagihan utang.",
+     "style": "elementor-toggle-item"
+    },
+    {
+     "title": "6. Berapa biaya komisi (commision fee) Financia?",
+     "content": "Pada dasarnya biaya komisi (commision fee) merupakan komisi keberhasilan (success fee). Dalam menentukan besaran biaya komisi (commision fee), kami menggunakan struktur komisi berkisar 1% s.d. 30% dari jumlah utang yang Anda terima pembayarannya dari pihak yang berutang. Selama Anda belum menerima pembayaran atas utang, Anda tidak perlu membayar biaya komisi.",
+     "style": "elementor-tab-title"
+    },
+    {
+     "title": "7. Apa saja yang perlu saya persiapkan agar proses penagihan utang melalui Financia bisa dimulai? Anda hanya perlu siapkan data yang berkaitan dengan utang, menghubungi kami, dan kemudian memberikan k",
+     "content": "8. Apakah reputasi perusahaan tetap terjaga baik jika memakai jasa pihak ketiga untuk penagihan utang? Kami memahami bahwa reputasi perusahaan dan hubungan baik dengan mitra bisnis Anda sangat penting. Karena itu, Financia selalu bertindak sesuai dengan koridor hukum yang berlaku di Indonesia dan memperhatikan standar etika bisnis.",
+     "style": "elementor-toggle-item"
+    },
+    {
+     "title": "7. Apa saja yang perlu saya persiapkan agar proses penagihan utang melalui Financia bisa dimulai?",
+     "content": "Anda hanya perlu siapkan data yang berkaitan dengan utang, menghubungi kami, dan kemudian memberikan kuasa kepada kami agar kami yang bisa segera bertindak untuk dan atas nama Anda dalam melakukan penagihan utang.",
+     "style": "elementor-tab-title"
+    },
+    {
+     "title": "8. Apakah reputasi perusahaan tetap terjaga baik jika memakai jasa pihak ketiga untuk penagihan utang? Kami memahami bahwa reputasi perusahaan dan hubungan baik dengan mitra bisnis Anda sangat penting",
+     "content": "9. Apakah menggunakan Financia aman dan terpercaya?Sangat aman karena Anda akan diwakilkan oleh para profesional yang terdiri dari advokat (lawyer) yang berpengalaman khususnya dalam ilmu hukum bisnis. Kami dapat dipercaya karena kami memegang teguh etika profesi dan standar etika bisnis.",
+     "style": "elementor-toggle-item"
+    },
+    {
+     "title": "8. Apakah reputasi perusahaan tetap terjaga baik jika memakai jasa pihak ketiga untuk penagihan utang?",
+     "content": "Kami memahami bahwa reputasi perusahaan dan hubungan baik dengan mitra bisnis Anda sangat penting. Karena itu, Financia selalu bertindak sesuai dengan koridor hukum yang berlaku di Indonesia dan memperhatikan standar etika bisnis.",
+     "style": "elementor-tab-title"
+    },
+    {
+     "title": "9. Apakah menggunakan Financia aman dan terpercaya?Sangat aman karena Anda akan diwakilkan oleh para profesional yang terdiri dari advokat (lawyer) yang berpengalaman khususnya dalam ilmu hukum bisnis",
+     "content": "10. Mencakup wilayah mana saja layanan Financia?Layanan Financia bisa diberikan di seluruh wilayah Indonesia.",
+     "style": "elementor-toggle-item"
+    },
+    {
+     "title": "9. Apakah menggunakan Financia aman dan terpercaya?",
+     "content": "Sangat aman karena Anda akan diwakilkan oleh para profesional yang terdiri dari advokat (lawyer) yang berpengalaman khususnya dalam ilmu hukum bisnis. Kami dapat dipercaya karena kami memegang teguh etika profesi dan standar etika bisnis.",
+     "style": "elementor-tab-title"
+    },
+    {
+     "title": "10. Mencakup wilayah mana saja layanan Financia?Layanan Financia bisa diberikan di seluruh wilayah Indonesia.",
+     "content": "Layanan Financia bisa diberikan di seluruh wilayah Indonesia.",
+     "style": "elementor-toggle-item"
+    },
+    {
+     "title": "10. Mencakup wilayah mana saja layanan Financia?",
+     "content": "Layanan Financia bisa diberikan di seluruh wilayah Indonesia.",
+     "style": "elementor-tab-title"
+    }
+   ]
+  }
+ ],
+ "links": [
+  {
+   "t": "Skip to content",
+   "h": "#content",
+   "c": "skip-link screen-reader-text"
+  },
+  {
+   "t": "FINANCIA – Jasa Penagihan Utang",
+   "h": "https://financia.co.id/",
+   "c": ""
+  },
+  {
+   "t": "<img width=\"300\" height=\"254\" src=\"https://financia.co.id/wp-content/uploads/202",
+   "h": "http://financia.co.id/",
+   "c": ""
+  },
+  {
+   "t": "Home",
+   "h": "https://financia.co.id/",
+   "c": "hfe-menu-item"
+  },
+  {
+   "t": "Tentang Kami",
+   "h": "https://financia.co.id/tentang-kami/",
+   "c": "hfe-menu-item"
+  },
+  {
+   "t": "Cara Kerja Kami",
+   "h": "http://financia.co.id/#cara-kerja",
+   "c": "hfe-menu-item"
+  },
+  {
+   "t": "Biaya Komisi",
+   "h": "http://financia.co.id/biaya-komisi",
+   "c": "hfe-sub-menu-item"
+  },
+  {
+   "t": "FAQ",
+   "h": "http://financia.co.id/#faq",
+   "c": "hfe-sub-menu-item hfe-sub-menu-item-active"
+  },
+  {
+   "t": "Jenis Utang",
+   "h": "http://financia.co.id/#jenis-utang",
+   "c": "hfe-menu-item"
+  },
+  {
+   "t": "Klien/Mitra",
+   "h": "http://financia.co.id/#klien-mitra",
+   "c": "hfe-menu-item"
+  },
+  {
+   "t": "Hubungi Kami",
+   "h": "https://financia.co.id/hubungi-kami/",
+   "c": "hfe-menu-item elementor-button"
+  },
+  {
+   "t": "Konsultasi",
+   "h": "https://api.whatsapp.com/send/?phone=62811176136&text=Terimakasih+telah+menghubungi+financia.co.id+.+Mari+konsultasikan+kebutuhan+Anda+dari+layanan+kami....&app_absent=0",
+   "c": "elementor-button elementor-button-link elementor-size-sm ele"
+  },
+  {
+   "t": "Pelajari lebih lanjut Tentang Financia",
+   "h": "#tentang",
+   "c": "elementor-button elementor-button-link elementor-size-sm ele"
+  },
+  {
+   "t": "Ketahui lebih dalam soal Financia",
+   "h": "https://financia.co.id/tentang-kami",
+   "c": "elementor-button elementor-button-link elementor-size-sm ele"
+  },
+  {
+   "t": "HUBUNGI FINANCIA",
+   "h": "https://api.whatsapp.com/send/?phone=62811176136&text=Terimakasih+telah+menghubungi+financia.co.id+.+Mohon+diinfokan+untuk+kebutuhan+Anda+dari+layanan+kami....&app_absent=0",
+   "c": "elementor-button elementor-button-link elementor-size-sm ele"
+  },
+  {
+   "t": "HUBUNGI KAMI",
+   "h": "https://api.whatsapp.com/send/?phone=62811176136&text=Terimakasih+telah+menghubungi+financia.co.id+.+Mohon+diinfokan+untuk+kebutuhan+Anda+dari+layanan+kami....&app_absent=0",
+   "c": "elementor-button elementor-button-link elementor-size-sm ele"
+  },
+  {
+   "t": "Profesional",
+   "h": null,
+   "c": "elementor-toggle-title"
+  },
+  {
+   "t": "Efektif & Efisien",
+   "h": null,
+   "c": "elementor-toggle-title"
+  },
+  {
+   "t": "Biaya Masuk Akal",
+   "h": null,
+   "c": "elementor-toggle-title"
+  },
+  {
+   "t": "Tidak Ada Biaya Tersembunyi",
+   "h": null,
+   "c": "elementor-toggle-title"
+  },
+  {
+   "t": "Laporan Up to Date",
+   "h": null,
+   "c": "elementor-toggle-title"
+  },
+  {
+   "t": "Kerahasiaan",
+   "h": null,
+   "c": "elementor-toggle-title"
+  },
+  {
+   "t": "Konsultasi Gratis",
+   "h": null,
+   "c": "elementor-toggle-title"
+  },
+  {
+   "t": "HUBUNGI KAMI",
+   "h": "https://api.whatsapp.com/send/?phone=62811176136&text=Terimakasih+telah+menghubungi+financia.co.id+.+Mohon+diinfokan+untuk+kebutuhan+Anda+dari+layanan+kami....&app_absent=0",
+   "c": "elementor-button elementor-button-link elementor-size-sm ele"
+  },
+  {
+   "t": "1. Apa itu Financia?",
+   "h": null,
+   "c": "elementor-toggle-title"
+  },
+  {
+   "t": "2. Utang komersial apa saja yang bisa dilakukan penagihan oleh Financia?",
+   "h": null,
+   "c": "elementor-toggle-title"
+  },
+  {
+   "t": "3. Apakah ada nilai minimum utang atau tagihan/piutang (accounts receivable) yan",
+   "h": null,
+   "c": "elementor-toggle-title"
+  },
+  {
+   "t": "4. Kenapa Anda perlu jasa penagihan utang komersial dari Financia?",
+   "h": null,
+   "c": "elementor-toggle-title"
+  },
+  {
+   "t": "5. Berapa lama proses penagihan hutang komersial akan berlangsung?",
+   "h": null,
+   "c": "elementor-toggle-title"
+  },
+  {
+   "t": "6. Berapa biaya komisi (commision fee) Financia?",
+   "h": null,
+   "c": "elementor-toggle-title"
+  },
+  {
+   "t": "7. Apa saja yang perlu saya persiapkan agar proses penagihan utang melalui Finan",
+   "h": null,
+   "c": "elementor-toggle-title"
+  },
+  {
+   "t": "8. Apakah reputasi perusahaan tetap terjaga baik jika memakai jasa pihak ketiga ",
+   "h": null,
+   "c": "elementor-toggle-title"
+  },
+  {
+   "t": "9. Apakah menggunakan Financia aman dan terpercaya?",
+   "h": null,
+   "c": "elementor-toggle-title"
+  },
+  {
+   "t": "10. Mencakup wilayah mana saja layanan Financia?",
+   "h": null,
+   "c": "elementor-toggle-title"
+  },
+  {
+   "t": "Home",
+   "h": "https://financia.co.id/",
+   "c": "hfe-menu-item"
+  },
+  {
+   "t": "Tentang Kami",
+   "h": "https://financia.co.id/tentang-kami/",
+   "c": "hfe-menu-item"
+  },
+  {
+   "t": "Cara Kerja Kami",
+   "h": "http://financia.co.id/#cara-kerja",
+   "c": "hfe-menu-item"
+  },
+  {
+   "t": "Biaya Komisi",
+   "h": "http://financia.co.id/biaya-komisi",
+   "c": "hfe-sub-menu-item"
+  },
+  {
+   "t": "FAQ",
+   "h": "http://financia.co.id/#faq",
+   "c": "hfe-sub-menu-item hfe-sub-menu-item-active"
+  },
+  {
+   "t": "Jenis Utang",
+   "h": "http://financia.co.id/#jenis-utang",
+   "c": "hfe-menu-item"
+  },
+  {
+   "t": "Klien/Mitra",
+   "h": "http://financia.co.id/#klien-mitra",
+   "c": "hfe-menu-item"
+  },
+  {
+   "t": "Hubungi Kami",
+   "h": "https://financia.co.id/hubungi-kami/",
+   "c": "hfe-menu-item"
+  },
+  {
+   "t": "HUBUNGI KAMI",
+   "h": "https://api.whatsapp.com/send/?phone=62811176136&text=Terimakasih+telah+menghubungi+financia.co.id+.+Mohon+diinfokan+untuk+kebutuhan+Anda+dari+layanan+kami....&app_absent=0",
+   "c": "elementor-button elementor-button-link elementor-size-sm ele"
+  }
+ ]
+}

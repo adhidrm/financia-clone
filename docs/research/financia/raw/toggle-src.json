@@ -1,0 +1,179 @@
+[
+ {
+  "kind": "toggle",
+  "t": "Profesional",
+  "y": 7311,
+  "w": 492,
+  "h": 46,
+  "pad": "15px",
+  "lh": "15px",
+  "fs": "15px"
+ },
+ {
+  "kind": "toggle",
+  "t": "Efektif & Efisien",
+  "y": 7357,
+  "w": 492,
+  "h": 46,
+  "pad": "15px",
+  "lh": "15px",
+  "fs": "15px"
+ },
+ {
+  "kind": "toggle",
+  "t": "Biaya Masuk Akal",
+  "y": 7403,
+  "w": 492,
+  "h": 46,
+  "pad": "15px",
+  "lh": "15px",
+  "fs": "15px"
+ },
+ {
+  "kind": "toggle",
+  "t": "Tidak Ada Biaya Tersembunyi",
+  "y": 7449,
+  "w": 492,
+  "h": 46,
+  "pad": "15px",
+  "lh": "15px",
+  "fs": "15px"
+ },
+ {
+  "kind": "toggle",
+  "t": "Laporan Up to Date",
+  "y": 7495,
+  "w": 492,
+  "h": 46,
+  "pad": "15px",
+  "lh": "15px",
+  "fs": "15px"
+ },
+ {
+  "kind": "toggle",
+  "t": "Kerahasiaan",
+  "y": 7541,
+  "w": 492,
+  "h": 46,
+  "pad": "15px",
+  "lh": "15px",
+  "fs": "15px"
+ },
+ {
+  "kind": "toggle",
+  "t": "Konsultasi Gratis",
+  "y": 7587,
+  "w": 492,
+  "h": 46,
+  "pad": "15px",
+  "lh": "15px",
+  "fs": "15px"
+ },
+ {
+  "kind": "toggle",
+  "t": "1. Apa itu Financia?",
+  "y": 8674,
+  "w": 507,
+  "h": 45,
+  "pad": "15px",
+  "lh": "15px",
+  "fs": "15px"
+ },
+ {
+  "kind": "toggle",
+  "t": "2. Utang komersial apa saja ya",
+  "y": 8719,
+  "w": 507,
+  "h": 60,
+  "pad": "15px",
+  "lh": "15px",
+  "fs": "15px"
+ },
+ {
+  "kind": "toggle",
+  "t": "3. Apakah ada nilai minimum ut",
+  "y": 8779,
+  "w": 507,
+  "h": 75,
+  "pad": "15px",
+  "lh": "15px",
+  "fs": "15px"
+ },
+ {
+  "kind": "toggle",
+  "t": "4. Kenapa Anda perlu jasa pena",
+  "y": 8854,
+  "w": 507,
+  "h": 60,
+  "pad": "15px",
+  "lh": "15px",
+  "fs": "15px"
+ },
+ {
+  "kind": "toggle",
+  "t": "5. Berapa lama proses penagiha",
+  "y": 8914,
+  "w": 507,
+  "h": 60,
+  "pad": "15px",
+  "lh": "15px",
+  "fs": "15px"
+ },
+ {
+  "kind": "toggle",
+  "t": "6. Berapa biaya komisi (commis",
+  "y": 8974,
+  "w": 507,
+  "h": 45,
+  "pad": "15px",
+  "lh": "15px",
+  "fs": "15px"
+ },
+ {
+  "kind": "toggle",
+  "t": "7. Apa saja yang perlu saya pe",
+  "y": 9019,
+  "w": 507,
+  "h": 60,
+  "pad": "15px",
+  "lh": "15px",
+  "fs": "15px"
+ },
+ {
+  "kind": "toggle",
+  "t": "8. Apakah reputasi perusahaan ",
+  "y": 9079,
+  "w": 507,
+  "h": 60,
+  "pad": "15px",
+  "lh": "15px",
+  "fs": "15px"
+ },
+ {
+  "kind": "toggle",
+  "t": "9. Apakah menggunakan Financia",
+  "y": 9139,
+  "w": 507,
+  "h": 45,
+  "pad": "15px",
+  "lh": "15px",
+  "fs": "15px"
+ },
+ {
+  "kind": "toggle",
+  "t": "10. Mencakup wilayah mana saja",
+  "y": 9184,
+  "w": 507,
+  "h": 45,
+  "pad": "15px",
+  "lh": "15px",
+  "fs": "15px"
+ },
+ {
+  "kind": "accbox",
+  "t": "container",
+  "y": 7311,
+  "w": 492,
+  "h": 322
+ }
+]

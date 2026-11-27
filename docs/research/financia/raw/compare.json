@@ -1,0 +1,200 @@
+{
+ "src": {
+  "tentang": {
+   "label": "src-tentang",
+   "H": 4502,
+   "secs": [
+    {
+     "y": 0,
+     "h": 108,
+     "t": ""
+    },
+    {
+     "y": 108,
+     "h": 244,
+     "t": "Tentang Kami"
+    },
+    {
+     "y": 352,
+     "h": 401,
+     "t": "Agensi Penagihan Hutang Terdepan & Terpe"
+    },
+    {
+     "y": 753,
+     "h": 542,
+     "t": "Apa itu Financia?"
+    },
+    {
+     "y": 1295,
+     "h": 530,
+     "t": "FINANCIA, AGENSI PENAGIHAN HUTANG TERDEP"
+    },
+    {
+     "y": 1825,
+     "h": 644,
+     "t": "Tahukah Anda ? Data survei menunjukkan b"
+    },
+    {
+     "y": 2469,
+     "h": 213,
+     "t": "Alasan mengapa banyak perusahaan gagal m"
+    },
+    {
+     "y": 2682,
+     "h": 802,
+     "t": ""
+    },
+    {
+     "y": 3484,
+     "h": 291,
+     "t": "“GRATIS, Jika Hutang Belum Dibayar!”"
+    },
+    {
+     "y": 3775,
+     "h": 727,
+     "t": "Menu"
+    },
+    {
+     "y": 3775,
+     "h": 422,
+     "t": "Menu"
+    },
+    {
+     "y": 4197,
+     "h": 200,
+     "t": ""
+    },
+    {
+     "y": 4397,
+     "h": 61,
+     "t": ""
+    },
+    {
+     "y": 4458,
+     "h": 44,
+     "t": ""
+    }
+   ]
+  },
+  "hubungi": {
+   "label": "src-hubungi",
+   "H": 1665,
+   "secs": [
+    {
+     "y": 0,
+     "h": 108,
+     "t": ""
+    },
+    {
+     "y": 108,
+     "h": 248,
+     "t": "Hubungi Kami"
+    },
+    {
+     "y": 356,
+     "h": 582,
+     "t": "Iya saya mau pakai Financia, bagaimana c"
+    },
+    {
+     "y": 938,
+     "h": 727,
+     "t": "Menu"
+    },
+    {
+     "y": 938,
+     "h": 422,
+     "t": "Menu"
+    },
+    {
+     "y": 1360,
+     "h": 200,
+     "t": ""
+    },
+    {
+     "y": 1560,
+     "h": 61,
+     "t": ""
+    },
+    {
+     "y": 1621,
+     "h": 44,
+     "t": ""
+    }
+   ]
+  }
+ },
+ "loc": {
+  "tentang": {
+   "label": "loc-tentang",
+   "H": 4523,
+   "secs": [
+    {
+     "y": 106,
+     "h": 244,
+     "t": "Tentang Kami"
+    },
+    {
+     "y": 350,
+     "h": 386,
+     "t": "Agensi Penagihan Hutang Terdepan & Terpe"
+    },
+    {
+     "y": 736,
+     "h": 556,
+     "t": "Apa itu Financia?"
+    },
+    {
+     "y": 1372,
+     "h": 534,
+     "t": "FINANCIA, AGENSI PENAGIHAN HUTANGTERDEPA"
+    },
+    {
+     "y": 1906,
+     "h": 702,
+     "t": "Tahukah Anda ? Data survei menunjukkan b"
+    },
+    {
+     "y": 2608,
+     "h": 232,
+     "t": "Alasan mengapa banyak perusahaan gagal m"
+    },
+    {
+     "y": 2840,
+     "h": 772,
+     "t": ""
+    },
+    {
+     "y": 3612,
+     "h": 241,
+     "t": "“GRATIS, Jika Hutang Belum Dibayar!”"
+    },
+    {
+     "y": 3853,
+     "h": 669,
+     "t": "Menu"
+    }
+   ]
+  },
+  "hubungi": {
+   "label": "loc-hubungi",
+   "H": 1557,
+   "secs": [
+    {
+     "y": 106,
+     "h": 248,
+     "t": "Hubungi Kami"
+    },
+    {
+     "y": 354,
+     "h": 534,
+     "t": "Iya saya mau pakai Financia, bagaimana c"
+    },
+    {
+     "y": 888,
+     "h": 669,
+     "t": "Menu"
+    }
+   ]
+  }
+ }
+}

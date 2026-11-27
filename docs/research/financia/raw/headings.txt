@@ -1,0 +1,51 @@
+SEC 0 y=0 h=106 pad=[0px 0px 0px 0px] bg=rgba(0, 0, 0, 0)
+   a y=31 x=917 w=135 fs=14px fw=700 lh=14px ls=normal c=rgb(255, 255, 255) tt=uppercase rad=0px bg=rgb(9, 174, 184) | Hubungi Kami
+   a y=31 x=1126 w=134 fs=15px fw=700 lh=15px ls=normal c=rgb(0, 0, 0) tt=uppercase rad=25px 2px bg=rgb(255, 214, 0) | Konsultasi
+SEC 1 y=106 h=882 pad=[263px 0px 263px 0px] bg=rgba(0, 0, 0, 0)
+   h1 y=369 x=120 w=1200 fs=19px fw=700 lh=26.6px ls=normal c=rgb(58, 58, 58) tt=none rad=0px bg=rgba(0, 0, 0, 0) | JASA PENAGIH HUTANG TERDEPAN DAN TERPERCAYA DI INDONESIA
+   h2 y=466 x=170 w=1100 fs=47px fw=700 lh=61.1px ls=normal c=rgb(58, 58, 58) tt=none rad=0px bg=rgba(0, 0, 0, 0) | Selamat Datang di Website Resmi Financia
+   a y=680 x=518 w=405 fs=15px fw=700 lh=15px ls=normal c=rgb(255, 255, 255) tt=uppercase rad=25px 0px bg=rgb(255, 214, 0) | Pelajari lebih lanjut Tentang Financia
+SEC 2 y=988 h=173 pad=[0px 0px 0px 0px] bg=rgba(0, 0, 0, 0)
+   h2 y=1048 x=160 w=1120 fs=60px fw=700 lh=78px ls=normal c=rgb(58, 58, 58) tt=none rad=0px bg=rgba(0, 0, 0, 0) | Tentang Kami
+SEC 3 y=1161 h=182 pad=[0px 0px 0px 0px] bg=rgba(0, 0, 0, 0)
+SEC 4 y=1343 h=428 pad=[0px 0px 0px 0px] bg=rgba(0, 0, 0, 0)
+SEC 5 y=1771 h=115 pad=[0px 0px 0px 0px] bg=rgba(0, 0, 0, 0)
+   a y=1781 x=538 w=364 fs=15px fw=700 lh=15px ls=normal c=rgb(255, 255, 255) tt=uppercase rad=25px 0px bg=rgb(255, 214, 0) | Ketahui lebih dalam soal Financia
+SEC 6 y=1886 h=1173 pad=[100px 0px 30px 0px] bg=rgb(255, 255, 255)
+   h2 y=1996 x=130 w=1180 fs=60px fw=700 lh=78px ls=normal c=rgb(58, 58, 58) tt=none rad=0px bg=rgba(0, 0, 0, 0) | Cara Kerja Kami
+   h6 y=2269 x=421 w=689 fs=18px fw=700 lh=25px ls=normal c=rgb(58, 58, 58) tt=none rad=0px bg=rgba(0, 0, 0, 0) | Langkah Pertama: Assessment
+   h6 y=2424 x=421 w=689 fs=18px fw=700 lh=25px ls=normal c=rgb(58, 58, 58) tt=none rad=0px bg=rgba(0, 0, 0, 0) | Langkah Kedua: Upaya Non-Litigasi
+   h6 y=2691 x=421 w=689 fs=18px fw=700 lh=25px ls=normal c=rgb(58, 58, 58) tt=none rad=0px bg=rgba(0, 0, 0, 0) | Langkah Ketiga: Upaya Penagihan Secara Litigasi
+SEC 7 y=3059 h=222 pad=[50px 0px 50px 0px] bg=rgb(0, 70, 190)
+   h5 y=3119 x=160 w=1120 fs=31px fw=700 lh=37.2px ls=normal c=rgb(255, 255, 255) tt=none rad=0px bg=rgba(0, 0, 0, 0) | “GRATIS, Jika Hutang Belum Dibayar!”
+   a y=3176 x=607 w=225 fs=15px fw=700 lh=15px ls=normal c=rgb(255, 255, 255) tt=uppercase rad=25px 0px bg=rgb(255, 214, 0) | HUBUNGI FINANCIA
+SEC 8 y=3281 h=666 pad=[0px 0px 0px 0px] bg=rgb(255, 255, 255)
+   h2 y=3391 x=160 w=1120 fs=60px fw=700 lh=78px ls=normal c=rgb(58, 58, 58) tt=none rad=0px bg=rgba(0, 0, 0, 0) | Jenis Hutang
+SEC 9 y=3948 h=223 pad=[0px 0px 0px 0px] bg=rgb(255, 255, 255)
+   h2 y=4058 x=160 w=1120 fs=60px fw=700 lh=78px ls=normal c=rgb(58, 58, 58) tt=none rad=0px bg=rgba(0, 0, 0, 0) | Klien/Mitra
+SEC 10 y=4171 h=177 pad=[50px 0px 50px 0px] bg=rgba(0, 0, 0, 0)
+SEC 11 y=4348 h=312 pad=[50px 0px 50px 0px] bg=rgba(0, 0, 0, 0)
+SEC 12 y=4660 h=280 pad=[50px 0px 50px 0px] bg=rgba(0, 0, 0, 0)
+SEC 13 y=4939 h=278 pad=[50px 0px 50px 0px] bg=rgba(0, 0, 0, 0)
+SEC 14 y=5217 h=290 pad=[50px 0px 50px 0px] bg=rgba(0, 0, 0, 0)
+SEC 15 y=5507 h=301 pad=[50px 0px 50px 0px] bg=rgba(0, 0, 0, 0)
+SEC 16 y=5807 h=577 pad=[150px 0px 150px 0px] bg=rgba(0, 0, 0, 0)
+   h2 y=5967 x=10 w=1420 fs=41px fw=700 lh=53.3px ls=normal c=rgb(255, 255, 255) tt=none rad=0px bg=rgba(0, 0, 0, 0) | FINANCIA, AGENSI JASA PENAGIH HUTANG TERDEPAN DAN TERPERCAYA DI INDONESIA
+   a y=6180 x=624 w=192 fs=15px fw=700 lh=15px ls=normal c=rgb(255, 255, 255) tt=uppercase rad=25px 0px bg=rgb(255, 214, 0) | HUBUNGI KAMI
+SEC 17 y=6385 h=753 pad=[0px 0px 0px 0px] bg=rgba(0, 0, 0, 0)
+   h2 y=6485 x=697 w=492 fs=60px fw=700 lh=78px ls=normal c=rgb(58, 58, 58) tt=none rad=0px bg=rgba(0, 0, 0, 0) | Kenapa Financia?
+   a y=6993 x=697 w=192 fs=15px fw=700 lh=15px ls=normal c=rgb(255, 255, 255) tt=uppercase rad=25px 0px bg=rgb(255, 214, 0) | HUBUNGI KAMI
+SEC 18 y=7138 h=621 pad=[100px 0px 100px 0px] bg=rgb(255, 255, 255)
+   h4 y=7238 x=0 w=1440 fs=45px fw=700 lh=54px ls=normal c=rgb(58, 58, 58) tt=none rad=0px bg=rgba(0, 0, 0, 0) | Tolak Ukur Financia...
+SEC 19 y=7759 h=915 pad=[0px 0px 0px 0px] bg=rgba(0, 0, 0, 0)
+   h2 y=7859 x=683 w=507 fs=60px fw=700 lh=78px ls=normal c=rgb(58, 58, 58) tt=none rad=0px bg=rgba(0, 0, 0, 0) | FAQ
+SEC 20 y=8673 h=550 pad=[50px 0px 30px 0px] bg=rgb(0, 70, 190)
+   h5 y=8733 x=502 w=265 fs=24px fw=700 lh=28.8px ls=normal c=rgb(255, 255, 255) tt=none rad=0px bg=rgba(0, 0, 0, 0) | Menu
+   h5 y=8733 x=787 w=489 fs=24px fw=700 lh=28.8px ls=normal c=rgb(255, 255, 255) tt=none rad=0px bg=rgba(0, 0, 0, 0) | Lokasi Kami :
+   a y=9001 x=936 w=192 fs=15px fw=700 lh=15px ls=normal c=rgb(255, 255, 255) tt=uppercase rad=25px 0px bg=rgb(255, 214, 0) | HUBUNGI KAMI
+SEC 21 y=9223 h=200 pad=[0px 0px 0px 0px] bg=rgb(0, 70, 190)
+   h6 y=9269 x=250 w=280 fs=18px fw=700 lh=22.5px ls=normal c=rgb(255, 255, 255) tt=none rad=0px bg=rgba(0, 0, 0, 0) | Kantor Pusat :
+   h6 y=9297 x=630 w=280 fs=18px fw=700 lh=22.5px ls=normal c=rgb(255, 255, 255) tt=none rad=0px bg=rgba(0, 0, 0, 0) | Email:
+   h6 y=9297 x=1010 w=280 fs=18px fw=700 lh=22.5px ls=normal c=rgb(255, 255, 255) tt=none rad=0px bg=rgba(0, 0, 0, 0) | Open Hours:
+SEC 22 y=9423 h=51 pad=[0px 0px 0px 0px] bg=rgb(0, 70, 190)
+SEC 23 y=9474 h=36 pad=[0px 0px 0px 0px] bg=rgb(0, 70, 190)

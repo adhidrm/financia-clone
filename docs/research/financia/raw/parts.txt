@@ -1,0 +1,162 @@
+SEC 0 y=0 h=106
+  part y=0 x=150 w=122 h=106 pad=[10px 10px 10px 10px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img width="300" height="254" src="https://financia.co.id/wp-content/uploads/2022/10/Logo-
+  part y=10 x=160 w=102 h=86 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img width="300" height="254" src="https://financia.co.id/wp-content/uploads/2022/10/Logo-
+  part y=0 x=272 w=828 h=106 pad=[10px 10px 10px 10px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Menu HomeTentang KamiCara Kerja KamiBiaya KomisiFAQJenis UtangKlien/MitraHubungi Kami
+  part y=31 x=282 w=808 h=44 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Menu HomeTentang KamiCara Kerja KamiBiaya KomisiFAQJenis UtangKlien/MitraHubungi Kami
+  part y=0 x=1100 w=186 h=106 pad=[10px 10px 10px 10px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Konsultasi
+  part y=31 x=1110 w=166 h=45 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | Konsultasi
+SEC 1 y=106 h=882
+  part y=369 x=120 w=1200 h=356 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | JASA PENAGIH HUTANG TERDEPAN DAN TERPERCAYA DI INDONESIA Selamat Datang di Website Resmi F
+  part y=369 x=120 w=1200 h=27 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | JASA PENAGIH HUTANG TERDEPAN DAN TERPERCAYA DI INDONESIA
+  part y=416 x=120 w=1200 h=172 pad=[50px 50px 0px 50px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | Selamat Datang di Website Resmi Financia
+  part y=608 x=120 w=1200 h=28 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | Simpan waktu dan usaha Anda untuk mengelola bisnis, biar kami yang urus penagihan hutang k
+  part y=680 x=120 w=1200 h=45 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | Pelajari lebih lanjut Tentang Financia
+SEC 2 y=988 h=173
+  part y=988 x=150 w=1140 h=173 pad=[10px 10px 10px 10px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Tentang Kami
+  part y=998 x=160 w=1120 h=128 pad=[50px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | Tentang Kami
+  part y=1146 x=160 w=1120 h=5 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | 
+SEC 3 y=1161 h=182
+  part y=1161 x=150 w=1140 h=182 pad=[10px 10px 10px 10px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img decoding="async" width="768" height="317" src="https://financia.co.id/wp-content/uplo
+  part y=1171 x=160 w=1120 h=162 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img decoding="async" width="768" height="317" src="https://financia.co.id/wp-content/uplo
+SEC 4 y=1343 h=428
+  part y=1343 x=120 w=600 h=428 pad=[0px 50px 50px 50px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | Apapun Bisnis Anda, Financia adalah Solusi Penagihan Htang Komersial yang Praktis, Efisien
+  part y=1343 x=170 w=500 h=354 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=justify bg=rgba(0, 0, 0, 0) img=none | Apapun Bisnis Anda, Financia adalah Solusi Penagihan Htang Komersial yang Praktis, Efisien
+  part y=1343 x=720 w=600 h=428 pad=[0px 50px 50px 50px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | Anda Jangan Menyerah Dulu!Financia siap memberikan layanan jasa penagihan hutang yang aman
+  part y=1357 x=770 w=500 h=326 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=justify bg=rgba(0, 0, 0, 0) img=none | Anda Jangan Menyerah Dulu!Financia siap memberikan layanan jasa penagihan hutang yang aman
+SEC 5 y=1771 h=115
+  part y=1771 x=150 w=1140 h=115 pad=[10px 10px 10px 10px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Ketahui lebih dalam soal Financia
+  part y=1781 x=160 w=1120 h=95 pad=[0px 0px 50px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | Ketahui lebih dalam soal Financia
+SEC 6 y=1886 h=1173
+  part y=1986 x=120 w=1200 h=1043 pad=[10px 10px 10px 10px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Cara Kerja Kami Financia Menerapkan Strategi Komprehensif Agar Proses Penagihan Hutang Kom
+  part y=1996 x=130 w=1180 h=78 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Cara Kerja Kami
+  part y=2094 x=130 w=1180 h=5 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | 
+  part y=2119 x=130 w=1180 h=56 pad=[0px 100px 0px 100px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Financia Menerapkan Strategi Komprehensif Agar Proses Penagihan Hutang Komersial Lebih Efe
+  part y=2219 x=130 w=1180 h=136 pad=[50px 200px 0px 200px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Langkah Pertama: Assessment Financia akan memulai dengan melakukan assessment atas informa
+  part y=2374 x=130 w=1180 h=247 pad=[50px 200px 0px 200px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Langkah Kedua: Upaya Non-Litigasi Jika kami menilai bahwa utang adalah valid, secepatnya F
+  part y=2641 x=130 w=1180 h=378 pad=[50px 200px 50px 200px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Langkah Ketiga: Upaya Penagihan Secara Litigasi Apabila penagihan secara non-litigasi tida
+SEC 7 y=3059 h=222
+  part y=3109 x=150 w=1140 h=122 pad=[10px 10px 10px 10px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | “GRATIS, Jika Hutang Belum Dibayar!” HUBUNGI FINANCIA
+  part y=3119 x=160 w=1120 h=37 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | “GRATIS, Jika Hutang Belum Dibayar!”
+  part y=3176 x=160 w=1120 h=45 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | HUBUNGI FINANCIA
+SEC 8 y=3281 h=666
+  part y=3281 x=150 w=1140 h=666 pad=[10px 10px 10px 10px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Jenis Hutang Financia menyediakan jasa penagih hutang komersial yang praktis, efektif dan 
+  part y=3291 x=160 w=1120 h=178 pad=[100px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Jenis Hutang
+  part y=3489 x=160 w=1120 h=5 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | 
+  part y=3514 x=160 w=560 h=423 pad=[10px 10px 10px 10px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Financia menyediakan jasa penagih hutang komersial yang praktis, efektif dan aman. Berbaga
+  part y=3524 x=170 w=540 h=84 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Financia menyediakan jasa penagih hutang komersial yang praktis, efektif dan aman. Berbaga
+  part y=3652 x=170 w=540 h=195 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Kredit atau pinjam meminjam uang (loan transaction) Perdagangan atau piutang dagang (accou
+  part y=3514 x=720 w=560 h=423 pad=[10px 10px 10px 10px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Jasa penagih hutang yang kami berikan bisa diterapkan di hampir semua industri, dan bebera
+  part y=3524 x=730 w=540 h=84 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Jasa penagih hutang yang kami berikan bisa diterapkan di hampir semua industri, dan bebera
+  part y=3652 x=730 w=540 h=276 pad=[25px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Konstruksi Pertambangan Keuangan Properti Informasi & Telekomunikasi Profesional Manufaktu
+SEC 9 y=3948 h=223
+  part y=3948 x=150 w=1140 h=223 pad=[10px 10px 10px 10px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Klien/Mitra
+  part y=3958 x=160 w=1120 h=178 pad=[100px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Klien/Mitra
+  part y=4156 x=160 w=1120 h=5 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | 
+SEC 10 y=4171 h=177
+  part y=4221 x=120 w=300 h=77 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img decoding="async" width="119" height="72" src="https://financia.co.id/wp-content/uploa
+  part y=4223 x=120 w=300 h=72 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img decoding="async" width="119" height="72" src="https://financia.co.id/wp-content/uploa
+  part y=4221 x=420 w=300 h=77 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="144" height="50" src="https://financia.co.id/w
+  part y=4234 x=420 w=300 h=50 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="144" height="50" src="https://financia.co.id/w
+  part y=4221 x=720 w=300 h=77 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="137" height="67" src="https://financia.co.id/w
+  part y=4226 x=720 w=300 h=67 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="137" height="67" src="https://financia.co.id/w
+  part y=4221 x=1020 w=300 h=77 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="1024" height="263" src="https://financia.co.id
+  part y=4221 x=1020 w=300 h=77 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="1024" height="263" src="https://financia.co.id
+SEC 11 y=4348 h=312
+  part y=4398 x=120 w=300 h=212 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="473" height="106" src="https://financia.co.id/
+  part y=4470 x=120 w=300 h=67 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="473" height="106" src="https://financia.co.id/
+  part y=4398 x=420 w=300 h=212 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="100" height="100" src="https://financia.co.id/
+  part y=4454 x=420 w=300 h=100 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="100" height="100" src="https://financia.co.id/
+  part y=4398 x=720 w=300 h=212 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="1024" height="724" src="https://financia.co.id
+  part y=4398 x=720 w=300 h=212 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="1024" height="724" src="https://financia.co.id
+  part y=4398 x=1020 w=300 h=212 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="222" height="72" src="https://financia.co.id/w
+  part y=4468 x=1020 w=300 h=72 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="222" height="72" src="https://financia.co.id/w
+SEC 12 y=4660 h=280
+  part y=4710 x=120 w=300 h=180 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="768" height="177" src="https://financia.co.id/
+  part y=4771 x=145 w=250 h=58 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="768" height="177" src="https://financia.co.id/
+  part y=4710 x=420 w=300 h=180 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="768" height="398" src="https://financia.co.id/
+  part y=4735 x=445 w=250 h=130 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="768" height="398" src="https://financia.co.id/
+  part y=4710 x=720 w=300 h=180 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="800" height="230" src="https://financia.co.id/
+  part y=4764 x=745 w=250 h=72 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="800" height="230" src="https://financia.co.id/
+  part y=4710 x=1020 w=300 h=180 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="918" height="1024" src="https://financia.co.id
+  part y=4742 x=1045 w=250 h=114 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="918" height="1024" src="https://financia.co.id
+SEC 13 y=4939 h=278
+  part y=4989 x=120 w=300 h=178 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="442" height="114" src="https://financia.co.id/
+  part y=5046 x=145 w=250 h=64 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="442" height="114" src="https://financia.co.id/
+  part y=4989 x=420 w=300 h=178 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="1024" height="277" src="https://financia.co.id
+  part y=5044 x=445 w=250 h=68 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="1024" height="277" src="https://financia.co.id
+  part y=4989 x=720 w=300 h=178 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="200" height="200" src="https://financia.co.id/
+  part y=5023 x=745 w=250 h=110 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="200" height="200" src="https://financia.co.id/
+  part y=4989 x=1020 w=300 h=178 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="300" height="300" src="https://financia.co.id/
+  part y=5014 x=1045 w=250 h=128 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="300" height="300" src="https://financia.co.id/
+SEC 14 y=5217 h=290
+  part y=5267 x=120 w=300 h=190 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="512" height="330" src="https://financia.co.id/
+  part y=5305 x=145 w=250 h=114 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="512" height="330" src="https://financia.co.id/
+  part y=5267 x=420 w=300 h=190 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="300" height="300" src="https://financia.co.id/
+  part y=5292 x=445 w=250 h=140 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="300" height="300" src="https://financia.co.id/
+  part y=5267 x=720 w=300 h=190 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="250" height="167" src="https://financia.co.id/
+  part y=5297 x=745 w=250 h=130 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="250" height="167" src="https://financia.co.id/
+  part y=5267 x=1020 w=300 h=190 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="640" height="396" src="https://financia.co.id/
+  part y=5304 x=1045 w=250 h=116 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="640" height="396" src="https://financia.co.id/
+SEC 15 y=5507 h=301
+  part y=5557 x=120 w=180 h=201 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | 
+  part y=5557 x=300 w=300 h=201 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="244" height="213" src="https://financia.co.id/
+  part y=5582 x=325 w=250 h=151 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="244" height="213" src="https://financia.co.id/
+  part y=5557 x=600 w=240 h=201 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="1024" height="1024" src="https://financia.co.i
+  part y=5583 x=625 w=190 h=148 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="1024" height="1024" src="https://financia.co.i
+  part y=5557 x=840 w=300 h=201 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="1024" height="256" src="https://financia.co.id
+  part y=5632 x=865 w=250 h=49 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="1024" height="256" src="https://financia.co.id
+  part y=5557 x=1140 w=180 h=201 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | 
+SEC 16 y=5807 h=577
+  part y=5957 x=0 w=1440 h=277 pad=[10px 10px 10px 10px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | FINANCIA, AGENSI JASA PENAGIH HUTANG TERDEPAN DAN TERPERCAYA DI INDONESIASimpan waktu dan 
+  part y=5967 x=10 w=1420 h=107 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | FINANCIA, AGENSI JASA PENAGIH HUTANG TERDEPAN DAN TERPERCAYA DI INDONESIA
+  part y=6094 x=10 w=1420 h=35 pad=[0px 0px 0px 0px] fs=19px ff=Poppins fw=700 lh=35.2857px c=rgb(255, 255, 255) ta=center bg=rgba(0, 0, 0, 0) img=none | Simpan waktu dan usaha Anda untuk mengelola bisnis, biar kami yang urus penagihan utang ko
+  part y=6180 x=10 w=1420 h=45 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | HUBUNGI KAMI
+SEC 17 y=6385 h=753
+  part y=6385 x=150 w=447 h=753 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img decoding="async" width="768" height="317" src="https://financia.co.id/wp-content/uplo
+  part y=6538 x=150 w=447 h=447 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img decoding="async" width="768" height="317" src="https://financia.co.id/wp-content/uplo
+  part y=6385 x=597 w=692 h=753 pad=[100px 100px 100px 100px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Kenapa Financia? ProfesionalFinancia adalah layanan jasa penagihan hutang yang didukung ol
+  part y=6485 x=697 w=492 h=156 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Kenapa Financia?
+  part y=6656 x=697 w=492 h=322 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | ProfesionalFinancia adalah layanan jasa penagihan hutang yang didukung oleh tenaga profesi
+  part y=6993 x=697 w=492 h=45 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=left bg=rgba(0, 0, 0, 0) img=none | HUBUNGI KAMI
+SEC 18 y=7138 h=621
+  part y=7238 x=0 w=1440 h=421 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Tolak Ukur Financia...Klien Kami Puas atas Layanan yang Kami Berikan 0 %Total Klien Financ
+  part y=7238 x=0 w=1440 h=54 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | Tolak Ukur Financia...
+  part y=7362 x=0 w=480 h=297 pad=[70px 70px 70px 70px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=url("https://financia.co.id/wp-content/uploads/2022/10/pexels-pixabay-327540.jpg") | Klien Kami Puas atas Layanan yang Kami Berikan 0 %
+  part y=7432 x=70 w=340 h=157 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Klien Kami Puas atas Layanan yang Kami Berikan 0 %
+  part y=7362 x=480 w=480 h=297 pad=[70px 70px 70px 70px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=url("https://financia.co.id/wp-content/uploads/2021/07/picture-88.jpg") | Total Klien Financia 0 +
+  part y=7432 x=550 w=340 h=129 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Total Klien Financia 0 +
+  part y=7362 x=960 w=480 h=297 pad=[70px 70px 70px 70px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=url("https://financia.co.id/wp-content/uploads/2022/10/pexels-energepiccom-561458.jpg") | Repeat Order 0
+  part y=7432 x=1030 w=340 h=129 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Repeat Order 0
+SEC 19 y=7759 h=915
+  part y=7759 x=150 w=433 h=915 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="684" height="1024" src="https://financia.co.id
+  part y=8000 x=150 w=433 h=433 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | <img loading="lazy" decoding="async" width="684" height="1024" src="https://financia.co.id
+  part y=7759 x=583 w=707 h=915 pad=[100px 100px 100px 100px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | FAQPertanyaan yang Sering Diajukan (FAQ) <img loading="lazy" decoding="async" width="684" 
+  part y=7859 x=683 w=507 h=78 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | FAQ
+  part y=7952 x=683 w=507 h=28 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Pertanyaan yang Sering Diajukan (FAQ)
+  part y=8018 x=683 w=507 h=555 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | 1. Apa itu Financia? Financia adalah perusahaan yang menyediakan jasa penagihan utang yang
+SEC 20 y=8673 h=550
+  part y=8723 x=150 w=292 h=470 pad=[10px 10px 10px 10px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img width="300" height="124" src="https://financia.co.id/wp-content/uploads/2022/10/Logo-
+  part y=8733 x=160 w=272 h=237 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | <img width="300" height="124" src="https://financia.co.id/wp-content/uploads/2022/10/Logo-
+  part y=8990 x=180 w=252 h=167 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(255, 255, 255) ta=justify bg=rgba(0, 0, 0, 0) img=none | PT Garda Finansial Utama (“Financia”) adalah perusahaan yang menyediakan jasa penagihan ut
+  part y=8723 x=492 w=285 h=470 pad=[10px 10px 10px 10px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Menu MenuHomeTentang KamiCara Kerja KamiBiaya KomisiFAQJenis UtangKlien/MitraHubungi Kami
+  part y=8733 x=502 w=265 h=29 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Menu
+  part y=8782 x=502 w=265 h=271 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | MenuHomeTentang KamiCara Kerja KamiBiaya KomisiFAQJenis UtangKlien/MitraHubungi Kami
+  part y=8723 x=777 w=509 h=470 pad=[10px 10px 10px 10px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Lokasi Kami : HUBUNGI KAMI
+  part y=8733 x=787 w=489 h=29 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Lokasi Kami :
+  part y=8782 x=787 w=489 h=199 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | 
+  part y=9001 x=787 w=489 h=45 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | HUBUNGI KAMI
+SEC 21 y=9223 h=200
+  part y=9269 x=150 w=380 h=109 pad=[0px 0px 0px 50px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | Kantor Pusat : Sudirman Park, Unit A 3 BB. Jl. K.H. Mas Mansyur Kav. 35, Karet Tengsin. Ja
+  part y=9269 x=200 w=330 h=109 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | Kantor Pusat : Sudirman Park, Unit A 3 BB. Jl. K.H. Mas Mansyur Kav. 35, Karet Tengsin. Ja
+  part y=9297 x=530 w=380 h=53 pad=[0px 0px 0px 50px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | Email: office@financia.co.id
+  part y=9297 x=580 w=330 h=53 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | Email: office@financia.co.id
+  part y=9297 x=910 w=380 h=53 pad=[0px 0px 0px 50px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | Open Hours: Senin - Jum'at: 8.00 -6.00 WIB
+  part y=9297 x=960 w=330 h=53 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=center bg=rgba(0, 0, 0, 0) img=none | Open Hours: Senin - Jum'at: 8.00 -6.00 WIB
+SEC 22 y=9423 h=51
+  part y=9423 x=150 w=1140 h=51 pad=[10px 10px 10px 10px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | 
+  part y=9433 x=160 w=1120 h=31 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | 
+SEC 23 y=9474 h=36
+  part y=9474 x=150 w=570 h=36 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Powered by Financia.co.id
+  part y=9474 x=150 w=570 h=19 pad=[0px 0px 0px 0px] fs=10px ff=Poppins fw=400 lh=18.5714px c=rgb(255, 255, 255) ta=start bg=rgba(0, 0, 0, 0) img=none | Powered by Financia.co.id
+  part y=9474 x=720 w=570 h=36 pad=[0px 0px 0px 0px] fs=15px ff=Poppins fw=400 lh=27.8571px c=rgb(75, 79, 88) ta=start bg=rgba(0, 0, 0, 0) img=none | Copyright © 2020-2022. All rights reserved
+  part y=9474 x=720 w=570 h=19 pad=[0px 0px 0px 0px] fs=10px ff=Poppins fw=400 lh=18.5714px c=rgb(255, 255, 255) ta=end bg=rgba(0, 0, 0, 0) img=none | Copyright © 2020-2022. All rights reserved

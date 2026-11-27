@@ -1,0 +1,123 @@
+=== TENTANG H=4502 sections=13 forms=0
+
+--- SEC 0 y=0 h=108 bg=rgba(0, 0, 0, 0) pad=0px 0px bgimg=none
+Home
+Tentang Kami
+Cara Kerja Kami
+Jenis Utang
+Klien/Mitra
+Hubungi Kami
+Konsultasi
+
+--- SEC 1 y=108 h=244 bg=rgb(255, 214, 0) pad=100px 0px bgimg=none
+Tentang Kami
+
+--- SEC 2 y=352 h=401 bg=rgba(0, 0, 0, 0) pad=0px 100px bgimg=none
+Agensi Penagihan Hutang Terdepan & Terpercaya
+
+--- SEC 3 y=753 h=542 bg=rgba(0, 0, 0, 0) pad=0px 0px bgimg=none
+Apa itu Financia?
+
+PT Garda Finansial Utama (“Financia”) adalah perusahaan agensi penagihan hutang komersial yang praktis, efisien dan aman bagi Anda. Kami akan menyediakan tim advokat (lawyer) yang memiliki keahlian khusus di bidang hukum komersial bagi Anda dalam melakukan penagihan utang.
+
+Mengapa dalam penagihan hutang, Anda memerlukan jasa penagihan hutang profesional hukum  yang memiliki keahlian khusus di bidang hukum? Sebab utang-piutang sendiri merupakan suatu masalah hukum sehingga penyelesaiannya harus sesuai dengan dan dilakukan oleh seseorang yang memiliki keahlian ilmu hukum, agar tujuan Anda tercapai tanpa menimbulkan permasalahan hukum baru bagi Anda.
+
+Cara lain yang umumnya dilakukan oleh pihak yang memiliki tagihan/piutang (accounts receivable) adalah menyewa jasa penagihan utang (debt collector) yang kerap kali mengutamakan pendekatan intimidasi dan kekerasan dalam melakukan penagihan. Bukannya mendapatkan pembayaran, melainkan kerap kali yang terjadi justru muncul masalah baru karena si penagih melakukan pelanggaran hukum yang menjurus ke perbuatan pidana.
+
+Karena itu, Financia memberikan jalan keluar terbaik dengan menyediakan layanan penagihan utang yang praktis, efisien dan aman. Layanan yang Financia sediakan khusus untuk menyelesaikan masalah penagihan utang komersial (commercial debt) dimana didasarkan pada dari suatu transaksi bisnis (business-to-business).
+
+Penagihan hutang yang Financia lakukan dikerjakan oleh tim profesional berpengalaman. Kami siap menerapkan berbagai pendekatan hukum, baik non-litigasi (negosiasi dan mediasi) dan litigasi (upaya hukum di pengadilan) yang diterapkan secara kasuistik. Jasa penagihan yang Financia kerjakan mencakup penagihan utang terhadap perusahaan maupun individu/perseorangan.
+
+Anda tidak perlu mengeluarkan biaya komisi (professinal fee) di muka. Besaran biaya komisi yang Financia akan kenakan kepada Anda menggunakan sistem keberhasilan (success fee basis) atas jumlah utang yang Anda terima pembayarannya dari pihak yang berutang.
+
+--- SEC 4 y=1295 h=530 bg=rgba(0, 0, 0, 0) pad=150px 150px bgimg=url("https://financia.proximalab.fyi/wp-content/uploads/2022/10/pexels-pixabay-327540.jpg")
+FINANCIA, AGENSI PENAGIHAN HUTANG
+TERDEPAN DAN TERPERCAYA DI INDONESIA
+
+Simpan waktu dan usaha Anda untuk mengelola bisnis, biar kami yang urus penagihan hutang komersial untuk Anda! 
+
+HUBUNGI KAMI
+
+--- SEC 5 y=1825 h=644 bg=rgba(0, 0, 0, 0) pad=100px 100px bgimg=none
+Tahukah Anda ? Data survei menunjukkan bahwa:
+Kondisi bisnis internal perusahaan menyumbang 27% penyebab utama kebangkrutan, dimana salah satunya adalah karena pengelolaan tagihan/piutang (accounts receivable) yang salah (menurut studi U.S. Small Business Administration).
+Banyak perusahaan menuju kebangkrutan bukan karena bisnis yang tidak menguntungkan, melainkan karena kondisi keuangan perusahaan yang tidak sehat akibat banyak tagihan/piutang perusahaan (accounts receivable) yang macet atau tidak mendapatkan pembayaran dari lawan transaksi.
+Biaya penagihan utang di Indonesia sangat mahal. Nilai rata-ratanya mencapai 74% dari utang (menurut Doing Business 2020 terbitan Bank Dunia).
+Tagihan/piutang (accounts receivable) macet tidak hanya membuat laporan keuangan terlihat buruk, tetapi juga berpotensi mengganggu kelangsungan bisnis.
+
+--- SEC 6 y=2469 h=213 bg=rgb(0, 70, 190) pad=0px 0px bgimg=none
+Alasan mengapa banyak perusahaan gagal menagih utang?
+
+Hutang adalah bagian dari perjanjian atau kontrak yang semestinya harus dipenuhi. Meskipun demikian, sekalipun pihak yang berutang atau debitor sudah berada dalam keadaan tidak membayar utang yang telah jatuh waktu (default), nyatanya banyak perusahaan selaku pemilik tagihan/piutang (accounts receivable) atau kreditor terkendala dalam melakukan penagihan. Mengapa demikian?
+
+--- SEC 7 y=2682 h=802 bg=rgba(0, 0, 0, 0) pad=100px 100px bgimg=none
+Pemilik tagihan/piutang (accounts receivable) atau kreditor tidak mengetahui strategi maupun teknik yang tepat dan efektif;
+Pemilik tagihan/piutang (accounts receivable) atau kreditor tidak memiliki sumber daya manusia yang memiliki keahlian untuk melakukan penagihan utang sesuai dengan ketentuan hukum yang berlaku;
+Harus membayar dimuka biaya profesional yang mahal atau tidak logis secara ekonomi untuk melakukan penagihan, meskipun tidak ada kepastian atas keberhasilan;
+Menyita banyak waktu sehingga mempengaruhi kinerja dan produktivitas perusahaan;
+Khawatir akan implikasi hukum yang negatif bagi perusahaan apabila menggunakan metode penagihan utang yang salah.
+
+--- SEC 8 y=3484 h=291 bg=rgb(0, 70, 190) pad=50px 50px bgimg=none
+“GRATIS, Jika Hutang Belum Dibayar!”
+HUBUNGI FINANCIA
+
+--- SEC 9 y=3775 h=422 bg=rgb(0, 70, 190) pad=50px 30px bgimg=none
+PT Garda Finansial Utama (“Financia”) adalah perusahaan yang menyediakan jasa penagihan utang komersial yang praktis, efisien dan aman bagi Anda.
+
+Menu
+Home
+Tentang Kami
+Cara Kerja Kami
+Jenis Utang
+Klien/Mitra
+Hubungi Kami
+Lokasi Kami :
+HUBUNGI KAMI
+
+--- SEC 10 y=4197 h=200 bg=rgb(0, 70, 190) pad=0px 0px bgimg=none
+Kantor Pusat :
+
+Sudirman Park, Unit A 3 BB. Jl. K.H. Mas Mansyur Kav. 35, Karet Tengsin. Jakarta Pusat. DKI Jakarta.
+
+Email:
+
+office@financia.proximalab.fyi
+
+Open Hours:
+
+Senin - Jum'at: 8.00 -6.00 WIB
+
+--- SEC 11 y=4397 h=61 bg=rgb(0, 70, 190) pad=0px 0px bgimg=none
+
+
+--- SEC 12 y=4458 h=44 bg=rgb(0, 70, 190) pad=0px 0px bgimg=none
+Powered by Financia.co.id
+
+Copyright © 2020-2022. All rights reserved
+
+=== HEADS
+y=31 x=1139 w=108 <a> fs=15px fw=700 lh=15px c=rgb(0, 0, 0) bg=rgb(255, 214, 0) rad=25px 2px tt=none | Konsultasi
+y=208 x=120 w=1200 <h2> fs=30px fw=400 lh=30px c=rgb(34, 37, 41) bg=rgba(0, 0, 0, 0) rad=0px tt=none | Tentang Kami
+y=619 x=450 w=538 <h1> fs=19px fw=400 lh=19px c=rgb(34, 37, 41) bg=rgba(0, 0, 0, 0) rad=0px tt=none | Agensi Penagihan Hutang Terdepan & Terpercaya
+y=753 x=170 w=500 <h2> fs=30px fw=400 lh=40px c=rgb(34, 37, 41) bg=rgba(0, 0, 0, 0) rad=0px tt=none | Apa itu Financia?
+y=1445 x=0 w=1440 <h2> fs=41px fw=400 lh=41px c=rgb(255, 255, 255) bg=rgba(0, 0, 0, 0) rad=0px tt=none | FINANCIA, AGENSI PENAGIHAN HUTANG TERDEPAN DAN TERPERCAYA DI INDONESIA
+y=1631 x=617 w=205 <a> fs=20px fw=700 lh=20px c=rgb(255, 255, 255) bg=rgb(255, 214, 0) rad=25px 0px tt=none | HUBUNGI KAMI
+y=1935 x=790 w=530 <h2> fs=30px fw=400 lh=40px c=rgb(34, 37, 41) bg=rgba(0, 0, 0, 0) rad=0px tt=none | Tahukah Anda ? Data survei menunjukkan bahwa:
+y=2514 x=165 w=1110 <h2> fs=30px fw=400 lh=40px c=rgb(255, 255, 255) bg=rgba(0, 0, 0, 0) rad=0px tt=none | Alasan mengapa banyak perusahaan gagal menagih utang?
+y=3549 x=165 w=1110 <h5> fs=31px fw=400 lh=31px c=rgb(255, 255, 255) bg=rgba(0, 0, 0, 0) rad=0px tt=none | “GRATIS, Jika Hutang Belum Dibayar!”
+y=3610 x=621 w=198 <a> fs=15px fw=700 lh=15px c=rgb(255, 255, 255) bg=rgb(255, 214, 0) rad=25px 0px tt=none | HUBUNGI FINANCIA
+y=3840 x=507 w=255 <h5> fs=14px fw=400 lh=14px c=rgb(255, 255, 255) bg=rgba(0, 0, 0, 0) rad=0px tt=none | Menu
+y=3840 x=792 w=479 <h5> fs=14px fw=400 lh=14px c=rgb(255, 255, 255) bg=rgba(0, 0, 0, 0) rad=0px tt=none | Lokasi Kami :
+y=4113 x=949 w=166 <a> fs=15px fw=700 lh=15px c=rgb(255, 255, 255) bg=rgb(255, 214, 0) rad=25px 0px tt=none | HUBUNGI KAMI
+y=4250 x=265 w=270 <h6> fs=14px fw=400 lh=18px c=rgb(255, 255, 255) bg=rgba(0, 0, 0, 0) rad=0px tt=none | Kantor Pusat :
+y=4274 x=635 w=270 <h6> fs=14px fw=400 lh=18px c=rgb(255, 255, 255) bg=rgba(0, 0, 0, 0) rad=0px tt=none | Email:
+y=4274 x=1005 w=270 <h6> fs=14px fw=400 lh=18px c=rgb(255, 255, 255) bg=rgba(0, 0, 0, 0) rad=0px tt=none | Open Hours:
+
+=== IMGS
+y=15 x=165 92x78 nat=300x254 https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-14-1-300x254.png
+y=367 x=450 538x222 nat=800x330 https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-13-2.png
+y=1957 x=135 570x380 nat=640x427 https://financia.proximalab.fyi/wp-content/uploads/2022/11/pexels-pavel-danilyuk-8111881.jpg
+y=2797 x=829 382x572 nat=640x959 https://financia.proximalab.fyi/wp-content/uploads/2022/11/pexels-pavel-danilyuk-8111810.jpg
+y=3840 x=165 228x94 nat=300x124 https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-13-2-300x124.png
+
+=== FORMS []

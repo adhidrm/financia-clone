@@ -1,0 +1,430 @@
+{
+ "overlays": [
+  {
+   "sec": "d498539",
+   "y": 106,
+   "h": 882,
+   "bg": "rgb(232, 232, 232)",
+   "opacity": "0.7",
+   "bgimg": "none"
+  },
+  {
+   "sec": "48c3c7f",
+   "y": 1886,
+   "h": 1173,
+   "bg": "rgb(232, 232, 232)",
+   "opacity": "0.5",
+   "bgimg": "none"
+  },
+  {
+   "sec": "064a5b8",
+   "y": 3948,
+   "h": 223,
+   "bg": "rgb(232, 232, 232)",
+   "opacity": "0.5",
+   "bgimg": "none"
+  },
+  {
+   "sec": "4647970",
+   "y": 4171,
+   "h": 400,
+   "bg": "rgb(232, 232, 232)",
+   "opacity": "0.5",
+   "bgimg": "none"
+  },
+  {
+   "sec": "cf4c275",
+   "y": 4571,
+   "h": 400,
+   "bg": "rgb(232, 232, 232)",
+   "opacity": "0.5",
+   "bgimg": "none"
+  },
+  {
+   "sec": "9424f08",
+   "y": 4971,
+   "h": 400,
+   "bg": "rgb(232, 232, 232)",
+   "opacity": "0.5",
+   "bgimg": "none"
+  },
+  {
+   "sec": "4ee3507",
+   "y": 5371,
+   "h": 400,
+   "bg": "rgb(232, 232, 232)",
+   "opacity": "0.5",
+   "bgimg": "none"
+  },
+  {
+   "sec": "8600e7d",
+   "y": 5771,
+   "h": 345,
+   "bg": "rgb(232, 232, 232)",
+   "opacity": "0.5",
+   "bgimg": "none"
+  },
+  {
+   "sec": "51a564c",
+   "y": 6116,
+   "h": 348,
+   "bg": "rgb(232, 232, 232)",
+   "opacity": "0.5",
+   "bgimg": "none"
+  },
+  {
+   "sec": "fcd0463",
+   "y": 6463,
+   "h": 577,
+   "bg": "rgb(0, 0, 0)",
+   "opacity": "0.5",
+   "bgimg": "none"
+  },
+  {
+   "sec": "8ea02ce",
+   "y": 7793,
+   "h": 621,
+   "bg": "rgb(232, 232, 232)",
+   "opacity": "0.5",
+   "bgimg": "none"
+  },
+  {
+   "sec": "b8d21c4",
+   "y": 8017,
+   "h": 297,
+   "bg": "rgb(255, 255, 255)",
+   "opacity": "0.8",
+   "bgimg": "none"
+  },
+  {
+   "sec": "374149b",
+   "y": 8017,
+   "h": 297,
+   "bg": "rgb(255, 255, 255)",
+   "opacity": "0.8",
+   "bgimg": "none"
+  },
+  {
+   "sec": "0d8c3e4",
+   "y": 8017,
+   "h": 297,
+   "bg": "rgb(255, 255, 255)",
+   "opacity": "0.8",
+   "bgimg": "none"
+  }
+ ],
+ "navLinks": [
+  {
+   "t": "Home",
+   "fs": "14px",
+   "fw": "700",
+   "color": "rgb(255, 214, 0)",
+   "pad": "15px",
+   "bg": "rgba(0, 0, 0, 0)",
+   "radius": "0px",
+   "tt": "none",
+   "ff": "Poppins"
+  },
+  {
+   "t": "Tentang Kami",
+   "fs": "14px",
+   "fw": "700",
+   "color": "rgb(58, 58, 58)",
+   "pad": "15px",
+   "bg": "rgba(0, 0, 0, 0)",
+   "radius": "0px",
+   "tt": "none",
+   "ff": "Poppins"
+  },
+  {
+   "t": "Cara Kerja Kami",
+   "fs": "14px",
+   "fw": "700",
+   "color": "rgb(255, 214, 0)",
+   "pad": "15px",
+   "bg": "rgba(0, 0, 0, 0)",
+   "radius": "0px",
+   "tt": "none",
+   "ff": "Poppins"
+  },
+  {
+   "t": "Biaya Komisi",
+   "fs": "14px",
+   "fw": "700",
+   "color": "rgb(58, 58, 58)",
+   "pad": "15px 15px 15px 35px",
+   "bg": "rgba(0, 0, 0, 0)",
+   "radius": "0px",
+   "tt": "none",
+   "ff": "Poppins"
+  },
+  {
+   "t": "FAQ",
+   "fs": "14px",
+   "fw": "700",
+   "color": "rgb(58, 58, 58)",
+   "pad": "15px 15px 15px 35px",
+   "bg": "rgba(0, 0, 0, 0)",
+   "radius": "0px",
+   "tt": "none",
+   "ff": "Poppins"
+  },
+  {
+   "t": "Jenis Utang",
+   "fs": "14px",
+   "fw": "700",
+   "color": "rgb(58, 58, 58)",
+   "pad": "15px",
+   "bg": "rgba(0, 0, 0, 0)",
+   "radius": "0px",
+   "tt": "none",
+   "ff": "Poppins"
+  },
+  {
+   "t": "Klien/Mitra",
+   "fs": "14px",
+   "fw": "700",
+   "color": "rgb(58, 58, 58)",
+   "pad": "15px",
+   "bg": "rgba(0, 0, 0, 0)",
+   "radius": "0px",
+   "tt": "none",
+   "ff": "Poppins"
+  },
+  {
+   "t": "Hubungi Kami",
+   "fs": "14px",
+   "fw": "700",
+   "color": "rgb(255, 255, 255)",
+   "pad": "15px",
+   "bg": "rgb(9, 174, 184)",
+   "radius": "0px",
+   "tt": "uppercase",
+   "ff": "Poppins"
+  }
+ ],
+ "btns": [
+  {
+   "t": "Hubungi Kami",
+   "y": 31,
+   "w": 135,
+   "h": 44,
+   "fs": "14px",
+   "fw": "700",
+   "lh": "14px",
+   "pad": "15px",
+   "radius": "0px",
+   "bg": "rgb(9, 174, 184)",
+   "color": "rgb(255, 255, 255)",
+   "tt": "uppercase",
+   "href": "https://financia.co.id/hubungi-kami/"
+  },
+  {
+   "t": "Konsultasi",
+   "y": 31,
+   "w": 134,
+   "h": 45,
+   "fs": "15px",
+   "fw": "700",
+   "lh": "15px",
+   "pad": "15px 20px",
+   "radius": "25px 2px",
+   "bg": "rgb(255, 214, 0)",
+   "color": "rgb(0, 0, 0)",
+   "tt": "uppercase",
+   "href": "https://api.whatsapp.com/send/?phone=62811176136&text=Terimakasih+telah+menghubungi+financia.co.id+.+Mari+konsultasikan+kebutuhan+Anda+dari+layanan+kami....&app_absent=0"
+  },
+  {
+   "t": "Pelajari lebih lanjut Tentang Financia",
+   "y": 680,
+   "w": 405,
+   "h": 45,
+   "fs": "15px",
+   "fw": "700",
+   "lh": "15px",
+   "pad": "15px 40px",
+   "radius": "25px 0px",
+   "bg": "rgb(255, 214, 0)",
+   "color": "rgb(255, 255, 255)",
+   "tt": "uppercase",
+   "href": "https://financia.co.id/#tentang"
+  },
+  {
+   "t": "Ketahui lebih dalam soal Financia",
+   "y": 1781,
+   "w": 364,
+   "h": 45,
+   "fs": "15px",
+   "fw": "700",
+   "lh": "15px",
+   "pad": "15px 40px",
+   "radius": "25px 0px",
+   "bg": "rgb(255, 214, 0)",
+   "color": "rgb(255, 255, 255)",
+   "tt": "uppercase",
+   "href": "https://financia.co.id/tentang-kami"
+  },
+  {
+   "t": "HUBUNGI FINANCIA",
+   "y": 3176,
+   "w": 225,
+   "h": 45,
+   "fs": "15px",
+   "fw": "700",
+   "lh": "15px",
+   "pad": "15px 40px",
+   "radius": "25px 0px",
+   "bg": "rgb(255, 214, 0)",
+   "color": "rgb(255, 255, 255)",
+   "tt": "uppercase",
+   "href": "https://api.whatsapp.com/send/?phone=62811176136&text=Terimakasih+telah+menghubungi+financia.co.id+.+Mohon+diinfokan+untuk+kebutuhan+Anda+dari+layanan+kami....&app_absent=0"
+  },
+  {
+   "t": "HUBUNGI KAMI",
+   "y": 6835,
+   "w": 192,
+   "h": 45,
+   "fs": "15px",
+   "fw": "700",
+   "lh": "15px",
+   "pad": "15px 40px",
+   "radius": "25px 0px",
+   "bg": "rgb(255, 214, 0)",
+   "color": "rgb(255, 255, 255)",
+   "tt": "uppercase",
+   "href": "https://api.whatsapp.com/send/?phone=62811176136&text=Terimakasih+telah+menghubungi+financia.co.id+.+Mohon+diinfokan+untuk+kebutuhan+Anda+dari+layanan+kami....&app_absent=0"
+  },
+  {
+   "t": "HUBUNGI KAMI",
+   "y": 7648,
+   "w": 192,
+   "h": 45,
+   "fs": "15px",
+   "fw": "700",
+   "lh": "15px",
+   "pad": "15px 40px",
+   "radius": "25px 0px",
+   "bg": "rgb(255, 214, 0)",
+   "color": "rgb(255, 255, 255)",
+   "tt": "uppercase",
+   "href": "https://api.whatsapp.com/send/?phone=62811176136&text=Terimakasih+telah+menghubungi+financia.co.id+.+Mohon+diinfokan+untuk+kebutuhan+Anda+dari+layanan+kami....&app_absent=0"
+  },
+  {
+   "t": "HUBUNGI KAMI",
+   "y": 9657,
+   "w": 192,
+   "h": 45,
+   "fs": "15px",
+   "fw": "700",
+   "lh": "15px",
+   "pad": "15px 40px",
+   "radius": "25px 0px",
+   "bg": "rgb(255, 214, 0)",
+   "color": "rgb(255, 255, 255)",
+   "tt": "uppercase",
+   "href": "https://api.whatsapp.com/send/?phone=62811176136&text=Terimakasih+telah+menghubungi+financia.co.id+.+Mohon+diinfokan+untuk+kebutuhan+Anda+dari+layanan+kami....&app_absent=0"
+  }
+ ],
+ "icons": [
+  {
+   "cls": "elementor-icon",
+   "w": 76,
+   "h": 76,
+   "y": 2269,
+   "svg": null,
+   "iconCls": "far fa-edit",
+   "img": null
+  },
+  {
+   "cls": "elementor-icon",
+   "w": 76,
+   "h": 76,
+   "y": 2424,
+   "svg": null,
+   "iconCls": "far fa-envelope",
+   "img": null
+  },
+  {
+   "cls": "elementor-icon",
+   "w": 76,
+   "h": 76,
+   "y": 2691,
+   "svg": null,
+   "iconCls": "fas fa-hand-holding-usd",
+   "img": null
+  },
+  {
+   "cls": "elementor-icon",
+   "w": 35,
+   "h": 35,
+   "y": 9962,
+   "svg": null,
+   "iconCls": "fas fa-location-arrow",
+   "img": null
+  },
+  {
+   "cls": "elementor-icon",
+   "w": 35,
+   "h": 35,
+   "y": 9962,
+   "svg": null,
+   "iconCls": "fas fa-mail-bulk",
+   "img": null
+  },
+  {
+   "cls": "elementor-icon",
+   "w": 35,
+   "h": 35,
+   "y": 9962,
+   "svg": null,
+   "iconCls": "fas fa-clock",
+   "img": null
+  }
+ ],
+ "header": {
+  "bg": "rgba(0, 0, 0, 0)",
+  "position": "relative",
+  "zIndex": "99",
+  "h": 106.3125,
+  "secPad": "0px",
+  "secBg": "rgba(0, 0, 0, 0)",
+  "secHeight": 106.3125
+ },
+ "logo": {
+  "src": "https://financia.co.id/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-14-1-300x254.png",
+  "w": 101.953125,
+  "h": 86.3125
+ },
+ "fontsLoaded": [
+  "Josefin Sans 700 normal",
+  "Open Sans 400 normal",
+  "eicons 400 normal",
+  "eicons 400 normal",
+  "Font Awesome 5 Brands 400 normal",
+  "Font Awesome 5 Free 900 normal",
+  "Poppins 100 italic",
+  "Poppins 200 italic",
+  "Poppins 300 italic",
+  "Poppins 400 italic",
+  "Poppins 500 italic",
+  "Poppins 600 italic",
+  "Poppins 700 italic",
+  "Poppins 800 italic",
+  "Poppins 900 italic",
+  "Poppins 100 normal",
+  "Poppins 200 normal",
+  "Poppins 300 normal",
+  "Poppins 400 normal",
+  "Poppins 500 normal",
+  "Poppins 600 normal",
+  "Poppins 700 normal",
+  "Poppins 800 normal",
+  "Poppins 900 normal",
+  "Josefin Sans 100 italic",
+  "Josefin Sans 200 italic",
+  "Josefin Sans 300 italic",
+  "Josefin Sans 400 italic",
+  "Josefin Sans 500 italic",
+  "Josefin Sans 600 italic"
+ ]
+}

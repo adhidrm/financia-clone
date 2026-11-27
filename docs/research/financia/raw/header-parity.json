@@ -1,0 +1,1395 @@
+[
+  {
+    "label": "live-home",
+    "url": "https://financia.co.id/home/",
+    "d": {
+      "header": null,
+      "title": "Checking your browser before accessing. Just a moment..."
+    }
+  },
+  {
+    "label": "live-tentang",
+    "url": "https://financia.co.id/tentang-kami/",
+    "d": {
+      "title": "Agensi Penagihan Hutang - FINANCIA",
+      "header": {
+        "t": "FINANCIA – Jasa Penagiha",
+        "box": [
+          0,
+          0,
+          1178,
+          106
+        ],
+        "f": "400 15px/27.8571px",
+        "col": "rgb(75, 79, 88)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rad": "0px",
+        "pad": "0px 0px 0px 0px",
+        "tt": "none"
+      },
+      "headerBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1178,
+        "height": 106.3125,
+        "top": 0,
+        "right": 1178,
+        "bottom": 106.3125,
+        "left": 0
+      },
+      "kids": [
+        {
+          "t": "FINANCIA – Jasa Penagiha",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 15px/27.8571px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "0px 0px 0px 0px",
+          "tt": "none"
+        },
+        {
+          "t": "<img width=\"300\" height=",
+          "box": [
+            29,
+            10,
+            102,
+            86
+          ],
+          "f": "400 15px/27.8571px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "0px 0px 0px 0px",
+          "tt": "none"
+        },
+        {
+          "t": "Home",
+          "box": [
+            190,
+            31,
+            73,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Tentang Kami",
+          "box": [
+            262,
+            31,
+            132,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(255, 214, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Cara Kerja Kami",
+          "box": [
+            394,
+            31,
+            167,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Biaya Komisi",
+          "box": [
+            394,
+            93,
+            220,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 35px",
+          "tt": "none"
+        },
+        {
+          "t": "FAQ",
+          "box": [
+            394,
+            138,
+            220,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 35px",
+          "tt": "none"
+        },
+        {
+          "t": "Jenis Utang",
+          "box": [
+            560,
+            31,
+            115,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Klien/Mitra",
+          "box": [
+            675,
+            31,
+            111,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Hubungi Kami",
+          "box": [
+            786,
+            31,
+            135,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(255, 255, 255)",
+          "bg": "rgb(9, 174, 184)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "uppercase"
+        },
+        {
+          "t": "Konsultasi",
+          "box": [
+            995,
+            31,
+            134,
+            45
+          ],
+          "f": "700 15px/15px",
+          "col": "rgb(0, 0, 0)",
+          "bg": "rgb(255, 214, 0)",
+          "rad": "25px 2px",
+          "pad": "15px 20px 15px 20px",
+          "tt": "uppercase"
+        }
+      ],
+      "logo": {
+        "t": "",
+        "box": [
+          29,
+          10,
+          102,
+          86
+        ],
+        "f": "400 15px/27.8571px",
+        "col": "rgb(58, 58, 58)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rad": "0px",
+        "pad": "0px 0px 0px 0px",
+        "tt": "none"
+      }
+    }
+  },
+  {
+    "label": "live-hubungi",
+    "url": "https://financia.co.id/hubungi-kami/",
+    "d": {
+      "title": "Hubungi Kami - FINANCIA Jasa Penagih Hut",
+      "header": {
+        "t": "FINANCIA – Jasa Penagiha",
+        "box": [
+          0,
+          0,
+          1178,
+          106
+        ],
+        "f": "400 15px/27.8571px",
+        "col": "rgb(75, 79, 88)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rad": "0px",
+        "pad": "0px 0px 0px 0px",
+        "tt": "none"
+      },
+      "headerBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1178,
+        "height": 106.3125,
+        "top": 0,
+        "right": 1178,
+        "bottom": 106.3125,
+        "left": 0
+      },
+      "kids": [
+        {
+          "t": "FINANCIA – Jasa Penagiha",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 15px/27.8571px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "0px 0px 0px 0px",
+          "tt": "none"
+        },
+        {
+          "t": "<img width=\"300\" height=",
+          "box": [
+            29,
+            10,
+            102,
+            86
+          ],
+          "f": "400 15px/27.8571px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "0px 0px 0px 0px",
+          "tt": "none"
+        },
+        {
+          "t": "Home",
+          "box": [
+            190,
+            31,
+            73,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Tentang Kami",
+          "box": [
+            262,
+            31,
+            132,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Cara Kerja Kami",
+          "box": [
+            394,
+            31,
+            167,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Biaya Komisi",
+          "box": [
+            394,
+            93,
+            220,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 35px",
+          "tt": "none"
+        },
+        {
+          "t": "FAQ",
+          "box": [
+            394,
+            138,
+            220,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 35px",
+          "tt": "none"
+        },
+        {
+          "t": "Jenis Utang",
+          "box": [
+            560,
+            31,
+            115,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Klien/Mitra",
+          "box": [
+            675,
+            31,
+            111,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Hubungi Kami",
+          "box": [
+            786,
+            31,
+            135,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(255, 214, 0)",
+          "bg": "rgb(9, 174, 184)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "uppercase"
+        },
+        {
+          "t": "Konsultasi",
+          "box": [
+            995,
+            31,
+            134,
+            45
+          ],
+          "f": "700 15px/15px",
+          "col": "rgb(0, 0, 0)",
+          "bg": "rgb(255, 214, 0)",
+          "rad": "25px 2px",
+          "pad": "15px 20px 15px 20px",
+          "tt": "uppercase"
+        }
+      ],
+      "logo": {
+        "t": "",
+        "box": [
+          29,
+          10,
+          102,
+          86
+        ],
+        "f": "400 15px/27.8571px",
+        "col": "rgb(58, 58, 58)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rad": "0px",
+        "pad": "0px 0px 0px 0px",
+        "tt": "none"
+      }
+    }
+  },
+  {
+    "label": "loc-home",
+    "url": "http://localhost:3100/",
+    "d": {
+      "title": "Jasa Penagih Hutang - FINANCIA",
+      "header": {
+        "t": "HomeTentang KamiCara Ker",
+        "box": [
+          0,
+          0,
+          1178,
+          106
+        ],
+        "f": "400 16px/24px",
+        "col": "rgb(75, 79, 88)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rad": "0px",
+        "pad": "0px 0px 0px 0px",
+        "tt": "none"
+      },
+      "headerBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1178,
+        "height": 106,
+        "top": 0,
+        "right": 1178,
+        "bottom": 106,
+        "left": 0
+      },
+      "kids": [
+        {
+          "t": "",
+          "box": [
+            14,
+            0,
+            102,
+            106
+          ],
+          "f": "400 16px/24px",
+          "col": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "0px 0px 0px 0px",
+          "tt": "none"
+        },
+        {
+          "t": "Home",
+          "box": [
+            194,
+            31,
+            73,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(255, 214, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Tentang Kami",
+          "box": [
+            266,
+            31,
+            132,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Cara Kerja Kami",
+          "box": [
+            398,
+            31,
+            164,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(255, 214, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Biaya Komisi",
+          "box": [
+            398,
+            75,
+            220,
+            51
+          ],
+          "f": "700 14px/21px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 35px 15px 35px",
+          "tt": "none"
+        },
+        {
+          "t": "FAQ",
+          "box": [
+            398,
+            126,
+            220,
+            51
+          ],
+          "f": "700 14px/21px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 35px 15px 35px",
+          "tt": "none"
+        },
+        {
+          "t": "Jenis Utang",
+          "box": [
+            562,
+            31,
+            115,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Klien/Mitra",
+          "box": [
+            677,
+            31,
+            111,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Hubungi Kami",
+          "box": [
+            803,
+            31,
+            135,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(255, 255, 255)",
+          "bg": "rgb(9, 174, 184)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "uppercase"
+        },
+        {
+          "t": "Konsultasi",
+          "box": [
+            1030,
+            31,
+            134,
+            45
+          ],
+          "f": "700 15px/15px",
+          "col": "rgb(0, 0, 0)",
+          "bg": "rgb(255, 214, 0)",
+          "rad": "25px 2px",
+          "pad": "15px 20px 15px 20px",
+          "tt": "uppercase"
+        },
+        {
+          "t": "Home",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 15px 10px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Tentang Kami",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 15px 10px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Cara Kerja Kami",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 15px 10px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Biaya Komisi",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 30px 10px 30px",
+          "tt": "none"
+        },
+        {
+          "t": "FAQ",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 30px 10px 30px",
+          "tt": "none"
+        },
+        {
+          "t": "Jenis Utang",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 15px 10px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Klien/Mitra",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 15px 10px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Hubungi Kami",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 15px 10px 15px",
+          "tt": "none"
+        }
+      ],
+      "logo": {
+        "t": "",
+        "box": [
+          14,
+          10,
+          102,
+          86
+        ],
+        "f": "400 16px/24px",
+        "col": "rgba(0, 0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rad": "0px",
+        "pad": "0px 0px 0px 0px",
+        "tt": "none"
+      }
+    }
+  },
+  {
+    "label": "loc-tentang",
+    "url": "http://localhost:3100/tentang-kami/",
+    "d": {
+      "title": "Tentang Kami - FINANCIA",
+      "header": {
+        "t": "HomeTentang KamiCara Ker",
+        "box": [
+          0,
+          0,
+          1178,
+          106
+        ],
+        "f": "400 16px/24px",
+        "col": "rgb(75, 79, 88)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rad": "0px",
+        "pad": "0px 0px 0px 0px",
+        "tt": "none"
+      },
+      "headerBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1178,
+        "height": 106,
+        "top": 0,
+        "right": 1178,
+        "bottom": 106,
+        "left": 0
+      },
+      "kids": [
+        {
+          "t": "",
+          "box": [
+            14,
+            0,
+            102,
+            106
+          ],
+          "f": "400 16px/24px",
+          "col": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "0px 0px 0px 0px",
+          "tt": "none"
+        },
+        {
+          "t": "Home",
+          "box": [
+            194,
+            31,
+            73,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Tentang Kami",
+          "box": [
+            266,
+            31,
+            132,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(255, 214, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Cara Kerja Kami",
+          "box": [
+            398,
+            31,
+            164,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Biaya Komisi",
+          "box": [
+            398,
+            75,
+            220,
+            51
+          ],
+          "f": "700 14px/21px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 35px 15px 35px",
+          "tt": "none"
+        },
+        {
+          "t": "FAQ",
+          "box": [
+            398,
+            126,
+            220,
+            51
+          ],
+          "f": "700 14px/21px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 35px 15px 35px",
+          "tt": "none"
+        },
+        {
+          "t": "Jenis Utang",
+          "box": [
+            562,
+            31,
+            115,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Klien/Mitra",
+          "box": [
+            677,
+            31,
+            111,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Hubungi Kami",
+          "box": [
+            803,
+            31,
+            135,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(255, 255, 255)",
+          "bg": "rgb(9, 174, 184)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "uppercase"
+        },
+        {
+          "t": "Konsultasi",
+          "box": [
+            1030,
+            31,
+            134,
+            45
+          ],
+          "f": "700 15px/15px",
+          "col": "rgb(0, 0, 0)",
+          "bg": "rgb(255, 214, 0)",
+          "rad": "25px 2px",
+          "pad": "15px 20px 15px 20px",
+          "tt": "uppercase"
+        },
+        {
+          "t": "Home",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 15px 10px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Tentang Kami",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 15px 10px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Cara Kerja Kami",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 15px 10px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Biaya Komisi",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 30px 10px 30px",
+          "tt": "none"
+        },
+        {
+          "t": "FAQ",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 30px 10px 30px",
+          "tt": "none"
+        },
+        {
+          "t": "Jenis Utang",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 15px 10px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Klien/Mitra",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 15px 10px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Hubungi Kami",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 15px 10px 15px",
+          "tt": "none"
+        }
+      ],
+      "logo": {
+        "t": "",
+        "box": [
+          14,
+          10,
+          102,
+          86
+        ],
+        "f": "400 16px/24px",
+        "col": "rgba(0, 0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rad": "0px",
+        "pad": "0px 0px 0px 0px",
+        "tt": "none"
+      }
+    }
+  },
+  {
+    "label": "loc-hubungi",
+    "url": "http://localhost:3100/hubungi-kami/",
+    "d": {
+      "title": "Hubungi Kami - FINANCIA",
+      "header": {
+        "t": "HomeTentang KamiCara Ker",
+        "box": [
+          0,
+          0,
+          1178,
+          106
+        ],
+        "f": "400 16px/24px",
+        "col": "rgb(75, 79, 88)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rad": "0px",
+        "pad": "0px 0px 0px 0px",
+        "tt": "none"
+      },
+      "headerBox": {
+        "x": 0,
+        "y": 0,
+        "width": 1178,
+        "height": 106,
+        "top": 0,
+        "right": 1178,
+        "bottom": 106,
+        "left": 0
+      },
+      "kids": [
+        {
+          "t": "",
+          "box": [
+            14,
+            0,
+            102,
+            106
+          ],
+          "f": "400 16px/24px",
+          "col": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "0px 0px 0px 0px",
+          "tt": "none"
+        },
+        {
+          "t": "Home",
+          "box": [
+            194,
+            31,
+            73,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Tentang Kami",
+          "box": [
+            266,
+            31,
+            132,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Cara Kerja Kami",
+          "box": [
+            398,
+            31,
+            164,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Biaya Komisi",
+          "box": [
+            398,
+            75,
+            220,
+            51
+          ],
+          "f": "700 14px/21px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 35px 15px 35px",
+          "tt": "none"
+        },
+        {
+          "t": "FAQ",
+          "box": [
+            398,
+            126,
+            220,
+            51
+          ],
+          "f": "700 14px/21px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 35px 15px 35px",
+          "tt": "none"
+        },
+        {
+          "t": "Jenis Utang",
+          "box": [
+            562,
+            31,
+            115,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Klien/Mitra",
+          "box": [
+            677,
+            31,
+            111,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Hubungi Kami",
+          "box": [
+            803,
+            31,
+            135,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(255, 255, 255)",
+          "bg": "rgb(9, 174, 184)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "uppercase"
+        },
+        {
+          "t": "Konsultasi",
+          "box": [
+            1030,
+            31,
+            134,
+            45
+          ],
+          "f": "700 15px/15px",
+          "col": "rgb(0, 0, 0)",
+          "bg": "rgb(255, 214, 0)",
+          "rad": "25px 2px",
+          "pad": "15px 20px 15px 20px",
+          "tt": "uppercase"
+        },
+        {
+          "t": "Home",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 15px 10px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Tentang Kami",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 15px 10px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Cara Kerja Kami",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 15px 10px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Biaya Komisi",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 30px 10px 30px",
+          "tt": "none"
+        },
+        {
+          "t": "FAQ",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 30px 10px 30px",
+          "tt": "none"
+        },
+        {
+          "t": "Jenis Utang",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 15px 10px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Klien/Mitra",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 15px 10px 15px",
+          "tt": "none"
+        },
+        {
+          "t": "Hubungi Kami",
+          "box": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "f": "400 16px/29.76px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "10px 15px 10px 15px",
+          "tt": "none"
+        }
+      ],
+      "logo": {
+        "t": "",
+        "box": [
+          14,
+          10,
+          102,
+          86
+        ],
+        "f": "400 16px/24px",
+        "col": "rgba(0, 0, 0, 0)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rad": "0px",
+        "pad": "0px 0px 0px 0px",
+        "tt": "none"
+      }
+    }
+  }
+]

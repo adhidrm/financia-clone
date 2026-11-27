@@ -1,0 +1,1071 @@
+{
+ "tentang": {
+  "navTexts": [
+   {
+    "t": "Home",
+    "color": "rgb(0, 136, 204)",
+    "font": "Poppins",
+    "weight": "700",
+    "size": "14px",
+    "display": "flex"
+   },
+   {
+    "t": "Tentang Kami",
+    "color": "rgb(255, 214, 0)",
+    "font": "Poppins",
+    "weight": "700",
+    "size": "14px",
+    "display": "flex"
+   },
+   {
+    "t": "Cara Kerja Kami",
+    "color": "rgb(0, 136, 204)",
+    "font": "Poppins",
+    "weight": "700",
+    "size": "14px",
+    "display": "flex"
+   },
+   {
+    "t": "Biaya Komisi",
+    "color": "rgb(0, 136, 204)",
+    "font": "Poppins",
+    "weight": "700",
+    "size": "14px",
+    "display": "flex"
+   },
+   {
+    "t": "FAQ",
+    "color": "rgb(0, 136, 204)",
+    "font": "Poppins",
+    "weight": "700",
+    "size": "14px",
+    "display": "flex"
+   },
+   {
+    "t": "Jenis Utang",
+    "color": "rgb(0, 136, 204)",
+    "font": "Poppins",
+    "weight": "700",
+    "size": "14px",
+    "display": "flex"
+   },
+   {
+    "t": "Klien/Mitra",
+    "color": "rgb(0, 136, 204)",
+    "font": "Poppins",
+    "weight": "700",
+    "size": "14px",
+    "display": "flex"
+   },
+   {
+    "t": "Hubungi Kami",
+    "color": "rgb(0, 136, 204)",
+    "font": "Poppins",
+    "weight": "700",
+    "size": "14px",
+    "display": "flex"
+   }
+  ],
+  "bandKids": [
+   {
+    "tag": "div",
+    "cls": "elementor-container elementor-column-gap-no",
+    "rect": [
+     120,
+     208,
+     1200,
+     144
+    ],
+    "text": "Tentang Kami",
+    "html": "<div class=\"elementor-container elementor-column-gap-no\"><div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-614125b9\" data-id=\"614125b9\" data-element_type=\"column\" data-e-type=\"column\"><div class=\"elementor-widget-wrap elementor-element-populated\"><div class=\"elementor-element elementor-element-6",
+    "fs": "14px",
+    "ff": "Poppins",
+    "fw": "400",
+    "c": "rgb(119, 119, 119)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "anim": "none",
+    "pseudo": null
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-column elementor-col-100 elementor-top-column elem",
+    "rect": [
+     120,
+     208,
+     1200,
+     144
+    ],
+    "text": "Tentang Kami",
+    "html": "<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-614125b9\" data-id=\"614125b9\" data-element_type=\"column\" data-e-type=\"column\"><div class=\"elementor-widget-wrap elementor-element-populated\"><div class=\"elementor-element elementor-element-6a65fdd3 elementor-widget elementor-widget-heading\" data-i",
+    "fs": "14px",
+    "ff": "Poppins",
+    "fw": "400",
+    "c": "rgb(119, 119, 119)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "anim": "none",
+    "pseudo": null
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-widget-wrap elementor-element-populated",
+    "rect": [
+     120,
+     208,
+     1200,
+     144
+    ],
+    "text": "Tentang Kami",
+    "html": "<div class=\"elementor-widget-wrap elementor-element-populated\"><div class=\"elementor-element elementor-element-6a65fdd3 elementor-widget elementor-widget-heading\" data-id=\"6a65fdd3\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\"><div class=\"elementor-widget-container\"><h2 class=\"elementor-heading-title elementor-",
+    "fs": "14px",
+    "ff": "Poppins",
+    "fw": "400",
+    "c": "rgb(119, 119, 119)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "anim": "none",
+    "pseudo": null
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-element elementor-element-6a65fdd3 elementor-widge",
+    "rect": [
+     120,
+     208,
+     1200,
+     30
+    ],
+    "text": "Tentang Kami",
+    "html": "<div class=\"elementor-element elementor-element-6a65fdd3 elementor-widget elementor-widget-heading\" data-id=\"6a65fdd3\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\"><div class=\"elementor-widget-container\"><h2 class=\"elementor-heading-title elementor-size-default\">Tentang Kami</h2></div></div>",
+    "fs": "14px",
+    "ff": "Poppins",
+    "fw": "400",
+    "c": "rgb(119, 119, 119)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "anim": "none",
+    "pseudo": null
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-widget-container",
+    "rect": [
+     120,
+     208,
+     1200,
+     30
+    ],
+    "text": "Tentang Kami",
+    "html": "<div class=\"elementor-widget-container\"><h2 class=\"elementor-heading-title elementor-size-default\">Tentang Kami</h2></div>",
+    "fs": "14px",
+    "ff": "Poppins",
+    "fw": "400",
+    "c": "rgb(119, 119, 119)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "anim": "none",
+    "pseudo": null
+   },
+   {
+    "tag": "h2",
+    "cls": "elementor-heading-title elementor-size-default",
+    "rect": [
+     120,
+     208,
+     1200,
+     30
+    ],
+    "text": "Tentang Kami",
+    "html": "<h2 class=\"elementor-heading-title elementor-size-default\">Tentang Kami</h2>",
+    "fs": "30px",
+    "ff": "Poppins",
+    "fw": "400",
+    "c": "rgb(34, 37, 41)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "anim": "none",
+    "pseudo": null
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-element elementor-element-7584df20 elementor-hidde",
+    "rect": [
+     120,
+     268,
+     1200,
+     84
+    ],
+    "text": "",
+    "html": "<div class=\"elementor-element elementor-element-7584df20 elementor-hidden-mobile elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"7584df20\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"divider.default\"><div class=\"elementor-widget-container\"><div class=\"elementor-divider\">\n<span class=\"ele",
+    "fs": "14px",
+    "ff": "Poppins",
+    "fw": "400",
+    "c": "rgb(119, 119, 119)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "anim": "none",
+    "pseudo": null
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-widget-container",
+    "rect": [
+     120,
+     268,
+     1200,
+     84
+    ],
+    "text": "",
+    "html": "<div class=\"elementor-widget-container\"><div class=\"elementor-divider\">\n<span class=\"elementor-divider-separator\">\n</span></div></div>",
+    "fs": "14px",
+    "ff": "Poppins",
+    "fw": "400",
+    "c": "rgb(119, 119, 119)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "anim": "none",
+    "pseudo": null
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-divider",
+    "rect": [
+     120,
+     268,
+     1200,
+     54
+    ],
+    "text": "",
+    "html": "<div class=\"elementor-divider\">\n<span class=\"elementor-divider-separator\">\n</span></div>",
+    "fs": "14px",
+    "ff": "Poppins",
+    "fw": "400",
+    "c": "rgb(119, 119, 119)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "anim": "none",
+    "pseudo": null
+   },
+   {
+    "tag": "span",
+    "cls": "elementor-divider-separator",
+    "rect": [
+     719,
+     270,
+     3,
+     50
+    ],
+    "text": "",
+    "html": "<span class=\"elementor-divider-separator\">\n</span>",
+    "fs": "14px",
+    "ff": "Poppins",
+    "fw": "400",
+    "c": "rgb(119, 119, 119)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "anim": "none",
+    "pseudo": null
+   }
+  ],
+  "animated": [],
+  "sections": [
+   {
+    "i": 0,
+    "y": 0,
+    "h": 108,
+    "cols": [
+     {
+      "x": 150,
+      "y": 0,
+      "w": 122,
+      "h": 108,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     },
+     {
+      "x": 272,
+      "y": 0,
+      "w": 828,
+      "h": 108,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     },
+     {
+      "x": 1100,
+      "y": 0,
+      "w": 186,
+      "h": 108,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "y": 108,
+    "h": 244,
+    "cols": [
+     {
+      "x": 120,
+      "y": 208,
+      "w": 1200,
+      "h": 144,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "y": 352,
+    "h": 401,
+    "cols": [
+     {
+      "x": 150,
+      "y": 352,
+      "w": 285,
+      "h": 301,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     },
+     {
+      "x": 435,
+      "y": 352,
+      "w": 568,
+      "h": 301,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     },
+     {
+      "x": 1003,
+      "y": 352,
+      "w": 285,
+      "h": 301,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "y": 753,
+    "h": 542,
+    "cols": [
+     {
+      "x": 120,
+      "y": 753,
+      "w": 600,
+      "h": 542,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     },
+     {
+      "x": 720,
+      "y": 753,
+      "w": 600,
+      "h": 542,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "y": 1295,
+    "h": 530,
+    "cols": [
+     {
+      "x": 0,
+      "y": 1445,
+      "w": 1440,
+      "h": 230,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "y": 1825,
+    "h": 644,
+    "cols": [
+     {
+      "x": 120,
+      "y": 1925,
+      "w": 600,
+      "h": 444,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     },
+     {
+      "x": 720,
+      "y": 1925,
+      "w": 600,
+      "h": 444,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "y": 2469,
+    "h": 213,
+    "cols": [
+     {
+      "x": 150,
+      "y": 2469,
+      "w": 1140,
+      "h": 213,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     }
+    ]
+   },
+   {
+    "i": 7,
+    "y": 2682,
+    "h": 802,
+    "cols": [
+     {
+      "x": 120,
+      "y": 2782,
+      "w": 600,
+      "h": 602,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     },
+     {
+      "x": 720,
+      "y": 2782,
+      "w": 600,
+      "h": 602,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     }
+    ]
+   },
+   {
+    "i": 8,
+    "y": 3484,
+    "h": 291,
+    "cols": [
+     {
+      "x": 150,
+      "y": 3534,
+      "w": 1140,
+      "h": 191,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     }
+    ]
+   },
+   {
+    "i": 9,
+    "y": 3775,
+    "h": 422,
+    "cols": [
+     {
+      "x": 150,
+      "y": 3825,
+      "w": 292,
+      "h": 342,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     },
+     {
+      "x": 442,
+      "y": 3825,
+      "w": 335,
+      "h": 342,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     },
+     {
+      "x": 777,
+      "y": 3825,
+      "w": 509,
+      "h": 342,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     }
+    ]
+   },
+   {
+    "i": 10,
+    "y": 4197,
+    "h": 200,
+    "cols": [
+     {
+      "x": 165,
+      "y": 4250,
+      "w": 370,
+      "h": 93,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     },
+     {
+      "x": 535,
+      "y": 4274,
+      "w": 370,
+      "h": 45,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     },
+     {
+      "x": 905,
+      "y": 4274,
+      "w": 370,
+      "h": 45,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     }
+    ]
+   },
+   {
+    "i": 11,
+    "y": 4397,
+    "h": 61,
+    "cols": [
+     {
+      "x": 150,
+      "y": 4397,
+      "w": 1140,
+      "h": 61,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     }
+    ]
+   },
+   {
+    "i": 12,
+    "y": 4458,
+    "h": 44,
+    "cols": [
+     {
+      "x": 165,
+      "y": 4458,
+      "w": 555,
+      "h": 44,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     },
+     {
+      "x": 720,
+      "y": 4458,
+      "w": 555,
+      "h": 44,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     }
+    ]
+   }
+  ],
+  "iconList": [
+   {
+    "t": "Kondisi bisnis internal perusahaan menyumbang 27% penyebab u",
+    "x": 790,
+    "y": 2072,
+    "w": 530,
+    "fs": "14px",
+    "lh": "24px",
+    "c": "rgb(119, 119, 119)",
+    "icon": "fas fa-check-circle"
+   },
+   {
+    "t": "Banyak perusahaan menuju kebangkrutan bukan karena bisnis ya",
+    "x": 790,
+    "y": 2155,
+    "w": 530,
+    "fs": "14px",
+    "lh": "24px",
+    "c": "rgb(119, 119, 119)",
+    "icon": "fas fa-check-circle"
+   },
+   {
+    "t": "Biaya penagihan utang di Indonesia sangat mahal. Nilai rata-",
+    "x": 790,
+    "y": 2262,
+    "w": 530,
+    "fs": "14px",
+    "lh": "24px",
+    "c": "rgb(119, 119, 119)",
+    "icon": "fas fa-check-circle"
+   },
+   {
+    "t": "Tagihan/piutang (accounts receivable) macet tidak hanya memb",
+    "x": 790,
+    "y": 2321,
+    "w": 530,
+    "fs": "14px",
+    "lh": "24px",
+    "c": "rgb(119, 119, 119)",
+    "icon": "fas fa-check-circle"
+   },
+   {
+    "t": "Pemilik tagihan/piutang (accounts receivable) atau kreditor ",
+    "x": 120,
+    "y": 2941,
+    "w": 530,
+    "fs": "14px",
+    "lh": "24px",
+    "c": "rgb(119, 119, 119)",
+    "icon": "fas fa-check-circle"
+   },
+   {
+    "t": "Pemilik tagihan/piutang (accounts receivable) atau kreditor ",
+    "x": 120,
+    "y": 3000,
+    "w": 530,
+    "fs": "14px",
+    "lh": "24px",
+    "c": "rgb(119, 119, 119)",
+    "icon": "fas fa-check-circle"
+   },
+   {
+    "t": "Harus membayar dimuka biaya profesional yang mahal atau tida",
+    "x": 120,
+    "y": 3083,
+    "w": 530,
+    "fs": "14px",
+    "lh": "24px",
+    "c": "rgb(119, 119, 119)",
+    "icon": "fas fa-check-circle"
+   },
+   {
+    "t": "Menyita banyak waktu sehingga mempengaruhi kinerja dan produ",
+    "x": 120,
+    "y": 3142,
+    "w": 530,
+    "fs": "14px",
+    "lh": "24px",
+    "c": "rgb(119, 119, 119)",
+    "icon": "fas fa-check-circle"
+   }
+  ]
+ },
+ "hubungi": {
+  "navTexts": [
+   {
+    "t": "Home",
+    "color": "rgb(0, 136, 204)",
+    "font": "Poppins",
+    "weight": "700",
+    "size": "14px",
+    "display": "flex"
+   },
+   {
+    "t": "Tentang Kami",
+    "color": "rgb(0, 136, 204)",
+    "font": "Poppins",
+    "weight": "700",
+    "size": "14px",
+    "display": "flex"
+   },
+   {
+    "t": "Cara Kerja Kami",
+    "color": "rgb(0, 136, 204)",
+    "font": "Poppins",
+    "weight": "700",
+    "size": "14px",
+    "display": "flex"
+   },
+   {
+    "t": "Biaya Komisi",
+    "color": "rgb(0, 136, 204)",
+    "font": "Poppins",
+    "weight": "700",
+    "size": "14px",
+    "display": "flex"
+   },
+   {
+    "t": "FAQ",
+    "color": "rgb(0, 136, 204)",
+    "font": "Poppins",
+    "weight": "700",
+    "size": "14px",
+    "display": "flex"
+   },
+   {
+    "t": "Jenis Utang",
+    "color": "rgb(0, 136, 204)",
+    "font": "Poppins",
+    "weight": "700",
+    "size": "14px",
+    "display": "flex"
+   },
+   {
+    "t": "Klien/Mitra",
+    "color": "rgb(0, 136, 204)",
+    "font": "Poppins",
+    "weight": "700",
+    "size": "14px",
+    "display": "flex"
+   },
+   {
+    "t": "Hubungi Kami",
+    "color": "rgb(255, 214, 0)",
+    "font": "Poppins",
+    "weight": "700",
+    "size": "14px",
+    "display": "inline-flex"
+   }
+  ],
+  "bandKids": [
+   {
+    "tag": "div",
+    "cls": "elementor-container elementor-column-gap-no",
+    "rect": [
+     120,
+     208,
+     1200,
+     148
+    ],
+    "text": "Hubungi Kami",
+    "html": "<div class=\"elementor-container elementor-column-gap-no\"><div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e754ba0\" data-id=\"e754ba0\" data-element_type=\"column\" data-e-type=\"column\"><div class=\"elementor-widget-wrap elementor-element-populated\"><div class=\"elementor-element elementor-element-ec0",
+    "fs": "14px",
+    "ff": "Poppins",
+    "fw": "400",
+    "c": "rgb(119, 119, 119)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "anim": "none",
+    "pseudo": null
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-column elementor-col-100 elementor-top-column elem",
+    "rect": [
+     120,
+     208,
+     1200,
+     148
+    ],
+    "text": "Hubungi Kami",
+    "html": "<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e754ba0\" data-id=\"e754ba0\" data-element_type=\"column\" data-e-type=\"column\"><div class=\"elementor-widget-wrap elementor-element-populated\"><div class=\"elementor-element elementor-element-ec04015 elementor-widget elementor-widget-heading\" data-id=\"",
+    "fs": "14px",
+    "ff": "Poppins",
+    "fw": "400",
+    "c": "rgb(119, 119, 119)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "anim": "none",
+    "pseudo": null
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-widget-wrap elementor-element-populated",
+    "rect": [
+     120,
+     208,
+     1200,
+     148
+    ],
+    "text": "Hubungi Kami",
+    "html": "<div class=\"elementor-widget-wrap elementor-element-populated\"><div class=\"elementor-element elementor-element-ec04015 elementor-widget elementor-widget-heading\" data-id=\"ec04015\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\"><div class=\"elementor-widget-container\"><h1 class=\"elementor-heading-title elementor-si",
+    "fs": "14px",
+    "ff": "Poppins",
+    "fw": "400",
+    "c": "rgb(119, 119, 119)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "anim": "none",
+    "pseudo": null
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-element elementor-element-ec04015 elementor-widget",
+    "rect": [
+     120,
+     208,
+     1200,
+     59
+    ],
+    "text": "Hubungi Kami",
+    "html": "<div class=\"elementor-element elementor-element-ec04015 elementor-widget elementor-widget-heading\" data-id=\"ec04015\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\"><div class=\"elementor-widget-container\"><h1 class=\"elementor-heading-title elementor-size-xxl\">Hubungi Kami</h1></div></div>",
+    "fs": "14px",
+    "ff": "Poppins",
+    "fw": "400",
+    "c": "rgb(119, 119, 119)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "anim": "none",
+    "pseudo": null
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-widget-container",
+    "rect": [
+     120,
+     208,
+     1200,
+     59
+    ],
+    "text": "Hubungi Kami",
+    "html": "<div class=\"elementor-widget-container\"><h1 class=\"elementor-heading-title elementor-size-xxl\">Hubungi Kami</h1></div>",
+    "fs": "14px",
+    "ff": "Poppins",
+    "fw": "400",
+    "c": "rgb(119, 119, 119)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "anim": "none",
+    "pseudo": null
+   },
+   {
+    "tag": "h1",
+    "cls": "elementor-heading-title elementor-size-xxl",
+    "rect": [
+     120,
+     208,
+     1200,
+     59
+    ],
+    "text": "Hubungi Kami",
+    "html": "<h1 class=\"elementor-heading-title elementor-size-xxl\">Hubungi Kami</h1>",
+    "fs": "59px",
+    "ff": "Poppins",
+    "fw": "400",
+    "c": "rgb(34, 37, 41)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "anim": "none",
+    "pseudo": null
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-element elementor-element-2a3cb04 elementor-widget",
+    "rect": [
+     120,
+     297,
+     1200,
+     59
+    ],
+    "text": "",
+    "html": "<div class=\"elementor-element elementor-element-2a3cb04 elementor-widget-divider--view-line elementor-widget elementor-widget-divider\" data-id=\"2a3cb04\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"divider.default\"><div class=\"elementor-widget-container\"><div class=\"elementor-divider\">\n<span class=\"elementor-divider-separator\">",
+    "fs": "14px",
+    "ff": "Poppins",
+    "fw": "400",
+    "c": "rgb(119, 119, 119)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "anim": "none",
+    "pseudo": null
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-widget-container",
+    "rect": [
+     120,
+     297,
+     1200,
+     59
+    ],
+    "text": "",
+    "html": "<div class=\"elementor-widget-container\"><div class=\"elementor-divider\">\n<span class=\"elementor-divider-separator\">\n</span></div></div>",
+    "fs": "14px",
+    "ff": "Poppins",
+    "fw": "400",
+    "c": "rgb(119, 119, 119)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "anim": "none",
+    "pseudo": null
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-divider",
+    "rect": [
+     120,
+     297,
+     1200,
+     29
+    ],
+    "text": "",
+    "html": "<div class=\"elementor-divider\">\n<span class=\"elementor-divider-separator\">\n</span></div>",
+    "fs": "14px",
+    "ff": "Poppins",
+    "fw": "400",
+    "c": "rgb(119, 119, 119)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "anim": "none",
+    "pseudo": null
+   },
+   {
+    "tag": "span",
+    "cls": "elementor-divider-separator",
+    "rect": [
+     719,
+     299,
+     3,
+     25
+    ],
+    "text": "",
+    "html": "<span class=\"elementor-divider-separator\">\n</span>",
+    "fs": "14px",
+    "ff": "Poppins",
+    "fw": "400",
+    "c": "rgb(119, 119, 119)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "anim": "none",
+    "pseudo": null
+   }
+  ],
+  "animated": [],
+  "sections": [
+   {
+    "i": 0,
+    "y": 0,
+    "h": 108,
+    "cols": [
+     {
+      "x": 150,
+      "y": 0,
+      "w": 122,
+      "h": 108,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     },
+     {
+      "x": 272,
+      "y": 0,
+      "w": 828,
+      "h": 108,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     },
+     {
+      "x": 1100,
+      "y": 0,
+      "w": 186,
+      "h": 108,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     }
+    ]
+   },
+   {
+    "i": 1,
+    "y": 108,
+    "h": 248,
+    "cols": [
+     {
+      "x": 120,
+      "y": 208,
+      "w": 1200,
+      "h": 148,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     }
+    ]
+   },
+   {
+    "i": 2,
+    "y": 356,
+    "h": 582,
+    "cols": [
+     {
+      "x": 165,
+      "y": 356,
+      "w": 498,
+      "h": 582,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     },
+     {
+      "x": 663,
+      "y": 356,
+      "w": 611,
+      "h": 582,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     }
+    ]
+   },
+   {
+    "i": 3,
+    "y": 938,
+    "h": 422,
+    "cols": [
+     {
+      "x": 150,
+      "y": 988,
+      "w": 292,
+      "h": 342,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     },
+     {
+      "x": 442,
+      "y": 988,
+      "w": 335,
+      "h": 342,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     },
+     {
+      "x": 777,
+      "y": 988,
+      "w": 509,
+      "h": 342,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     }
+    ]
+   },
+   {
+    "i": 4,
+    "y": 1360,
+    "h": 200,
+    "cols": [
+     {
+      "x": 165,
+      "y": 1413,
+      "w": 370,
+      "h": 93,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     },
+     {
+      "x": 535,
+      "y": 1437,
+      "w": 370,
+      "h": 45,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     },
+     {
+      "x": 905,
+      "y": 1437,
+      "w": 370,
+      "h": 45,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     }
+    ]
+   },
+   {
+    "i": 5,
+    "y": 1560,
+    "h": 61,
+    "cols": [
+     {
+      "x": 150,
+      "y": 1560,
+      "w": 1140,
+      "h": 61,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     }
+    ]
+   },
+   {
+    "i": 6,
+    "y": 1621,
+    "h": 44,
+    "cols": [
+     {
+      "x": 165,
+      "y": 1621,
+      "w": 555,
+      "h": 44,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     },
+     {
+      "x": 720,
+      "y": 1621,
+      "w": 555,
+      "h": 44,
+      "pad": "0px",
+      "bg": "rgba(0, 0, 0, 0)"
+     }
+    ]
+   }
+  ],
+  "iconList": []
+ }
+}

@@ -1,0 +1,948 @@
+[
+  {
+    "label": "src-home",
+    "url": "https://financia.proximalab.fyi/",
+    "data": {
+      "header": {
+        "text": "FINANCIA – Jasa Penagihan Utang\n\n\t\t\t\t\t\t\t",
+        "tag": "HEADER",
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 1178,
+          "h": 106
+        },
+        "font": "400 15px/27.8571px Poppins",
+        "color": "rgb(75, 79, 88)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "radius": "0px",
+        "pad": "0px 0px 0px 0px",
+        "margin": "0px 0px 0px 0px",
+        "ls": "normal",
+        "tt": "none",
+        "border": ""
+      },
+      "headerKids": [
+        {
+          "cls": "elementor-column elementor-col-33 elementor-top-column eleme",
+          "text": "",
+          "tag": "DIV",
+          "box": {
+            "x": 19,
+            "y": 0,
+            "w": 122,
+            "h": 106
+          },
+          "font": "400 15px/27.8571px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "attachment-medium size-medium wp-image-1634 entered litespee",
+          "text": "",
+          "tag": "IMG",
+          "box": {
+            "x": 29,
+            "y": 10,
+            "w": 102,
+            "h": 86
+          },
+          "font": "400 15px/27.8571px Poppins",
+          "color": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "elementor-column elementor-col-33 elementor-top-column eleme",
+          "text": "Menu\nHomeTentang KamiCara Kerja KamiBiay",
+          "tag": "DIV",
+          "box": {
+            "x": 141,
+            "y": 0,
+            "w": 828,
+            "h": 106
+          },
+          "font": "400 15px/27.8571px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "hfe-nav-menu hfe-layout-horizontal hfe-nav-menu-layout horiz",
+          "text": "Menu\nHomeTentang KamiCara Kerja KamiBiay",
+          "tag": "DIV",
+          "box": {
+            "x": 151,
+            "y": 31,
+            "w": 808,
+            "h": 44
+          },
+          "font": "400 15px/27.8571px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "hfe-nav-menu__layout-horizontal hfe-nav-menu__submenu-arrow",
+          "text": "HomeTentang KamiCara Kerja KamiBiaya Kom",
+          "tag": "NAV",
+          "box": {
+            "x": 151,
+            "y": 31,
+            "w": 808,
+            "h": 44
+          },
+          "font": "400 0px/0px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "hfe-nav-menu",
+          "text": "HomeTentang KamiCara Kerja KamiBiaya Kom",
+          "tag": "UL",
+          "box": {
+            "x": 231,
+            "y": 31,
+            "w": 649,
+            "h": 44
+          },
+          "font": "400 0px/0px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 79.6875px 0px 79.6875px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "menu-item menu-item-type-post_type menu-item-object-page men",
+          "text": "Home",
+          "tag": "LI",
+          "box": {
+            "x": 231,
+            "y": 31,
+            "w": 66,
+            "h": 44
+          },
+          "font": "400 16px/29.7143px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "menu-item menu-item-type-post_type menu-item-object-page par",
+          "text": "Tentang Kami",
+          "tag": "LI",
+          "box": {
+            "x": 296,
+            "y": 31,
+            "w": 115,
+            "h": 44
+          },
+          "font": "400 16px/29.7143px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "menu-item menu-item-type-custom menu-item-object-custom curr",
+          "text": "Cara Kerja KamiBiaya KomisiFAQ",
+          "tag": "LI",
+          "box": {
+            "x": 412,
+            "y": 31,
+            "w": 146,
+            "h": 44
+          },
+          "font": "400 16px/29.7143px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "sub-menu",
+          "text": "Biaya KomisiFAQ",
+          "tag": "UL",
+          "box": {
+            "x": 412,
+            "y": 93,
+            "w": 220,
+            "h": 89
+          },
+          "font": "400 16px/29.7143px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgb(255, 255, 255)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "menu-item menu-item-type-custom menu-item-object-custom hfe-",
+          "text": "Biaya Komisi",
+          "tag": "LI",
+          "box": {
+            "x": 412,
+            "y": 93,
+            "w": 220,
+            "h": 45
+          },
+          "font": "400 16px/29.7143px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgb(255, 255, 255)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "menu-item menu-item-type-custom menu-item-object-custom curr",
+          "text": "FAQ",
+          "tag": "LI",
+          "box": {
+            "x": 412,
+            "y": 138,
+            "w": 220,
+            "h": 44
+          },
+          "font": "400 16px/29.7143px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgb(255, 255, 255)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "menu-item menu-item-type-custom menu-item-object-custom curr",
+          "text": "Jenis Utang",
+          "tag": "LI",
+          "box": {
+            "x": 558,
+            "y": 31,
+            "w": 100,
+            "h": 44
+          },
+          "font": "400 16px/29.7143px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "menu-item menu-item-type-custom menu-item-object-custom curr",
+          "text": "Klien/Mitra",
+          "tag": "LI",
+          "box": {
+            "x": 658,
+            "y": 31,
+            "w": 102,
+            "h": 44
+          },
+          "font": "400 16px/29.7143px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "menu-item menu-item-type-post_type menu-item-object-page par",
+          "text": "Hubungi Kami",
+          "tag": "LI",
+          "box": {
+            "x": 760,
+            "y": 31,
+            "w": 120,
+            "h": 44
+          },
+          "font": "400 16px/29.7143px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "elementor-column elementor-col-33 elementor-top-column eleme",
+          "text": "Konsultasi",
+          "tag": "DIV",
+          "box": {
+            "x": 969,
+            "y": 0,
+            "w": 186,
+            "h": 106
+          },
+          "font": "400 15px/27.8571px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "elementor-button elementor-button-link elementor-size-sm ele",
+          "text": "Konsultasi",
+          "tag": "A",
+          "box": {
+            "x": 994,
+            "y": 31,
+            "w": 136,
+            "h": 45
+          },
+          "font": "700 15px/15px Poppins",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgb(255, 214, 0)",
+          "radius": "25px 2px",
+          "pad": "15px 20px 15px 20px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "uppercase",
+          "border": ""
+        }
+      ],
+      "menu": {
+        "text": "Menu\nHomeTentang KamiCara Kerja KamiBiay",
+        "tag": "DIV",
+        "box": {
+          "x": 151,
+          "y": 31,
+          "w": 808,
+          "h": 44
+        },
+        "font": "400 15px/27.8571px Poppins",
+        "color": "rgb(75, 79, 88)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "radius": "0px",
+        "pad": "0px 0px 0px 0px",
+        "margin": "0px 0px 0px 0px",
+        "ls": "normal",
+        "tt": "none",
+        "border": ""
+      },
+      "items": [
+        {
+          "text": "Home",
+          "tag": "A",
+          "box": {
+            "x": 231,
+            "y": 31,
+            "w": 66,
+            "h": 44
+          },
+          "font": "700 14px/14px Poppins",
+          "color": "rgb(255, 214, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "15px 15px 15px 15px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "text": "Tentang Kami",
+          "tag": "A",
+          "box": {
+            "x": 296,
+            "y": 31,
+            "w": 115,
+            "h": 44
+          },
+          "font": "700 14px/14px Poppins",
+          "color": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "15px 15px 15px 15px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "text": "Cara Kerja Kami",
+          "tag": "A",
+          "box": {
+            "x": 412,
+            "y": 31,
+            "w": 146,
+            "h": 44
+          },
+          "font": "700 14px/14px Poppins",
+          "color": "rgb(255, 214, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "15px 15px 15px 15px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "text": "Biaya Komisi",
+          "tag": "A",
+          "box": {
+            "x": 412,
+            "y": 93,
+            "w": 220,
+            "h": 44
+          },
+          "font": "700 14px/14px Poppins",
+          "color": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "15px 15px 15px 35px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "text": "FAQ",
+          "tag": "A",
+          "box": {
+            "x": 412,
+            "y": 138,
+            "w": 220,
+            "h": 44
+          },
+          "font": "700 14px/14px Poppins",
+          "color": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "15px 15px 15px 35px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "text": "Jenis Utang",
+          "tag": "A",
+          "box": {
+            "x": 558,
+            "y": 31,
+            "w": 100,
+            "h": 44
+          },
+          "font": "700 14px/14px Poppins",
+          "color": "rgb(255, 214, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "15px 15px 15px 15px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "text": "Klien/Mitra",
+          "tag": "A",
+          "box": {
+            "x": 658,
+            "y": 31,
+            "w": 102,
+            "h": 44
+          },
+          "font": "700 14px/14px Poppins",
+          "color": "rgb(255, 214, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "15px 15px 15px 15px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "text": "Hubungi Kami",
+          "tag": "A",
+          "box": {
+            "x": 760,
+            "y": 31,
+            "w": 120,
+            "h": 44
+          },
+          "font": "700 14px/14px Poppins",
+          "color": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "15px 15px 15px 15px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        }
+      ],
+      "navRoots": [
+        {
+          "cls": "hfe-nav-menu hfe-layout-horizontal hfe-nav-menu-la",
+          "text": "Menu\nHomeTentang KamiCara Kerja KamiBiay",
+          "tag": "DIV",
+          "box": {
+            "x": 151,
+            "y": 31,
+            "w": 808,
+            "h": 44
+          },
+          "font": "400 15px/27.8571px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "hfe-nav-menu__layout-horizontal hfe-nav-menu__subm",
+          "text": "HomeTentang KamiCara Kerja KamiBiaya Kom",
+          "tag": "NAV",
+          "box": {
+            "x": 151,
+            "y": 31,
+            "w": 808,
+            "h": 44
+          },
+          "font": "400 0px/0px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "hfe-nav-menu",
+          "text": "HomeTentang KamiCara Kerja KamiBiaya Kom",
+          "tag": "UL",
+          "box": {
+            "x": 231,
+            "y": 31,
+            "w": 649,
+            "h": 44
+          },
+          "font": "400 0px/0px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 79.6875px 0px 79.6875px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "hfe-nav-menu hfe-layout-vertical hfe-nav-menu-layo",
+          "text": "MenuHomeTentang KamiCara Kerja KamiBiaya",
+          "tag": "DIV",
+          "box": {
+            "x": 371,
+            "y": 8683,
+            "w": 265,
+            "h": 270
+          },
+          "font": "400 15px/27.8571px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "hfe-nav-menu__layout-vertical hfe-nav-menu__submen",
+          "text": "HomeTentang KamiCara Kerja KamiBiaya Kom",
+          "tag": "NAV",
+          "box": {
+            "x": 371,
+            "y": 8683,
+            "w": 265,
+            "h": 270
+          },
+          "font": "400 15px/27.8571px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "hfe-nav-menu",
+          "text": "HomeTentang KamiCara Kerja KamiBiaya Kom",
+          "tag": "UL",
+          "box": {
+            "x": 371,
+            "y": 8683,
+            "w": 265,
+            "h": 270
+          },
+          "font": "400 15px/27.8571px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        }
+      ],
+      "bodyW": 1178
+    }
+  },
+  {
+    "label": "local-home",
+    "url": "http://localhost:3100/",
+    "data": {
+      "header": {
+        "text": "HomeTentang KamiCara Kerja KamiBiaya Kom",
+        "tag": "HEADER",
+        "box": {
+          "x": 0,
+          "y": 0,
+          "w": 1178,
+          "h": 106
+        },
+        "font": "400 16px/24px Poppins",
+        "color": "rgb(75, 79, 88)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "radius": "0px",
+        "pad": "0px 0px 0px 0px",
+        "margin": "0px 0px 0px 0px",
+        "ls": "normal",
+        "tt": "none",
+        "border": ""
+      },
+      "headerKids": [
+        {
+          "cls": "h-[88px] w-[104px] object-contain md:h-[86px] md:w-[102px]",
+          "text": "",
+          "tag": "IMG",
+          "box": {
+            "x": 14,
+            "y": 10,
+            "w": 102,
+            "h": 86
+          },
+          "font": "400 16px/24px Poppins",
+          "color": "rgba(0, 0, 0, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "hidden items-center lg:flex",
+          "text": "HomeTentang KamiCara Kerja KamiBiaya Kom",
+          "tag": "NAV",
+          "box": {
+            "x": 202,
+            "y": 31,
+            "w": 727,
+            "h": 44
+          },
+          "font": "400 16px/24px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "cls": "ml-[15px] hidden rounded-[25px_2px] bg-[#FFD600] px-[20px] p",
+          "text": "Konsultasi",
+          "tag": "A",
+          "box": {
+            "x": 1030,
+            "y": 31,
+            "w": 134,
+            "h": 45
+          },
+          "font": "700 15px/15px Poppins",
+          "color": "rgb(0, 0, 0)",
+          "bg": "rgb(255, 214, 0)",
+          "radius": "25px 2px",
+          "pad": "15px 20px 15px 20px",
+          "margin": "0px 0px 0px 15px",
+          "ls": "normal",
+          "tt": "uppercase",
+          "border": ""
+        }
+      ],
+      "menu": {
+        "text": "HomeTentang KamiCara Kerja KamiBiaya Kom",
+        "tag": "NAV",
+        "box": {
+          "x": 202,
+          "y": 31,
+          "w": 727,
+          "h": 44
+        },
+        "font": "400 16px/24px Poppins",
+        "color": "rgb(75, 79, 88)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "radius": "0px",
+        "pad": "0px 0px 0px 0px",
+        "margin": "0px 0px 0px 0px",
+        "ls": "normal",
+        "tt": "none",
+        "border": ""
+      },
+      "items": [
+        {
+          "text": "Home",
+          "tag": "A",
+          "box": {
+            "x": 202,
+            "y": 31,
+            "w": 73,
+            "h": 44
+          },
+          "font": "700 14px/14px Poppins",
+          "color": "rgb(255, 214, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "15px 15px 15px 15px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "text": "Tentang Kami",
+          "tag": "A",
+          "box": {
+            "x": 275,
+            "y": 31,
+            "w": 132,
+            "h": 44
+          },
+          "font": "700 14px/14px Poppins",
+          "color": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "15px 15px 15px 15px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "text": "Cara Kerja Kami",
+          "tag": "A",
+          "box": {
+            "x": 406,
+            "y": 31,
+            "w": 164,
+            "h": 44
+          },
+          "font": "700 14px/14px Poppins",
+          "color": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "15px 15px 15px 15px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "text": "Biaya Komisi",
+          "tag": "A",
+          "box": {
+            "x": 406,
+            "y": 75,
+            "w": 220,
+            "h": 51
+          },
+          "font": "700 14px/21px Poppins",
+          "color": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "15px 35px 15px 35px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "text": "FAQ",
+          "tag": "A",
+          "box": {
+            "x": 406,
+            "y": 126,
+            "w": 220,
+            "h": 51
+          },
+          "font": "700 14px/21px Poppins",
+          "color": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "15px 35px 15px 35px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "text": "Jenis Utang",
+          "tag": "A",
+          "box": {
+            "x": 570,
+            "y": 31,
+            "w": 115,
+            "h": 44
+          },
+          "font": "700 14px/14px Poppins",
+          "color": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "15px 15px 15px 15px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "text": "Klien/Mitra",
+          "tag": "A",
+          "box": {
+            "x": 685,
+            "y": 31,
+            "w": 111,
+            "h": 44
+          },
+          "font": "700 14px/14px Poppins",
+          "color": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "15px 15px 15px 15px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        },
+        {
+          "text": "Hubungi Kami",
+          "tag": "A",
+          "box": {
+            "x": 796,
+            "y": 31,
+            "w": 133,
+            "h": 44
+          },
+          "font": "700 14px/14px Poppins",
+          "color": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "15px 15px 15px 15px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        }
+      ],
+      "navRoots": [
+        {
+          "cls": "hidden items-center lg:flex",
+          "text": "HomeTentang KamiCara Kerja KamiBiaya Kom",
+          "tag": "NAV",
+          "box": {
+            "x": 202,
+            "y": 31,
+            "w": 727,
+            "h": 44
+          },
+          "font": "400 16px/24px Poppins",
+          "color": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "radius": "0px",
+          "pad": "0px 0px 0px 0px",
+          "margin": "0px 0px 0px 0px",
+          "ls": "normal",
+          "tt": "none",
+          "border": ""
+        }
+      ],
+      "bodyW": 1178
+    }
+  }
+]

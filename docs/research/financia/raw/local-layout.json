@@ -1,0 +1,214 @@
+{
+ "secs": [
+  {
+   "i": 0,
+   "y": 106,
+   "h": 882
+  },
+  {
+   "i": 1,
+   "y": 988,
+   "h": 898
+  },
+  {
+   "i": 2,
+   "y": 1886,
+   "h": 1084
+  },
+  {
+   "i": 3,
+   "y": 2970,
+   "h": 202
+  },
+  {
+   "i": 4,
+   "y": 3172,
+   "h": 656
+  },
+  {
+   "i": 5,
+   "y": 3829,
+   "h": 1787
+  },
+  {
+   "i": 6,
+   "y": 5616,
+   "h": 558
+  },
+  {
+   "i": 7,
+   "y": 6174,
+   "h": 768
+  },
+  {
+   "i": 8,
+   "y": 6942,
+   "h": 626
+  },
+  {
+   "i": 9,
+   "y": 7568,
+   "h": 1030
+  },
+  {
+   "i": 10,
+   "y": 8598,
+   "h": 669
+  }
+ ],
+ "heads": [
+  {
+   "t": "JASA PENAGIH HUTANG TERDEPAN DAN TERPERC",
+   "y": 369,
+   "fs": "19px",
+   "ff": "Poppins",
+   "fw": "700",
+   "lh": "26.6px"
+  },
+  {
+   "t": "Selamat Datang di Website Resmi Financia",
+   "y": 466,
+   "fs": "47px",
+   "ff": "Poppins",
+   "fw": "700",
+   "lh": "61.1px"
+  },
+  {
+   "t": "Tentang Kami",
+   "y": 1038,
+   "fs": "60px",
+   "ff": "Poppins",
+   "fw": "700",
+   "lh": "78px"
+  },
+  {
+   "t": "Cara Kerja Kami",
+   "y": 1986,
+   "fs": "60px",
+   "ff": "Poppins",
+   "fw": "700",
+   "lh": "78px"
+  },
+  {
+   "t": "Langkah Pertama: Assessment",
+   "y": 2259,
+   "fs": "18px",
+   "ff": "Poppins",
+   "fw": "700",
+   "lh": "25px"
+  },
+  {
+   "t": "Langkah Kedua: Upaya Non-Litigasi",
+   "y": 2395,
+   "fs": "18px",
+   "ff": "Poppins",
+   "fw": "700",
+   "lh": "25px"
+  },
+  {
+   "t": "Langkah Ketiga:Upaya Penagihan Secara Li",
+   "y": 2642,
+   "fs": "18px",
+   "ff": "Poppins",
+   "fw": "700",
+   "lh": "25px"
+  },
+  {
+   "t": "“GRATIS, Jika Hutang Belum Dibayar!”",
+   "y": 3020,
+   "fs": "31px",
+   "ff": "Poppins",
+   "fw": "700",
+   "lh": "37.2px"
+  },
+  {
+   "t": "Jenis Hutang",
+   "y": 3272,
+   "fs": "60px",
+   "ff": "Poppins",
+   "fw": "700",
+   "lh": "78px"
+  },
+  {
+   "t": "Klien/Mitra",
+   "y": 3929,
+   "fs": "60px",
+   "ff": "Poppins",
+   "fw": "700",
+   "lh": "78px"
+  },
+  {
+   "t": "FINANCIA, AGENSI JASA PENAGIH HUTANG TER",
+   "y": 5766,
+   "fs": "41px",
+   "ff": "Poppins",
+   "fw": "700",
+   "lh": "53.3px"
+  },
+  {
+   "t": "KenapaFinancia?",
+   "y": 6274,
+   "fs": "60px",
+   "ff": "Poppins",
+   "fw": "700",
+   "lh": "78px"
+  },
+  {
+   "t": "Tolak Ukur Financia...",
+   "y": 7042,
+   "fs": "45px",
+   "ff": "Poppins",
+   "fw": "700",
+   "lh": "54px"
+  },
+  {
+   "t": "FAQ",
+   "y": 7668,
+   "fs": "60px",
+   "ff": "Poppins",
+   "fw": "700",
+   "lh": "78px"
+  },
+  {
+   "t": "Menu",
+   "y": 8648,
+   "fs": "24px",
+   "ff": "Poppins",
+   "fw": "700",
+   "lh": "28.8px"
+  },
+  {
+   "t": "Lokasi Kami :",
+   "y": 8648,
+   "fs": "24px",
+   "ff": "Poppins",
+   "fw": "700",
+   "lh": "28.8px"
+  },
+  {
+   "t": "Kantor Pusat :",
+   "y": 9080,
+   "fs": "18px",
+   "ff": "Poppins",
+   "fw": "700",
+   "lh": "22.5px"
+  },
+  {
+   "t": "Email:",
+   "y": 9080,
+   "fs": "18px",
+   "ff": "Poppins",
+   "fw": "700",
+   "lh": "22.5px"
+  },
+  {
+   "t": "Open Hours:",
+   "y": 9080,
+   "fs": "18px",
+   "ff": "Poppins",
+   "fw": "700",
+   "lh": "22.5px"
+  }
+ ],
+ "H": 9267
+}

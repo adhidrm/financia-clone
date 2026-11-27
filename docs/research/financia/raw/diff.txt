@@ -1,0 +1,78 @@
+srcH=9380 locH=9425
+dY=    0 dX=   4 dH=   0 src=   31 | Home
+dY=    0 dX=   4 dH=   0 src=   31 | Tentang Kami
+dY=    0 dX=   4 dH=   0 src=   31 | Cara Kerja Kami
+dY=  -18 dX=   4 dH=   6 src=   93 | Biaya Komisi
+dY=    0 dX=   2 dH=   0 src=   31 | Jenis Utang
+dY=    0 dX=   2 dH=   0 src=   31 | Klien/Mitra
+dY=    0 dX=  17 dH=   0 src=   31 | Hubungi Kami
+dY=    0 dX=  35 dH=   0 src=   31 | Konsultasi
+dY=    0 dX=   0 dH=   0 src=  369 | JASA PENAGIH HUTANG TERDEPAN
+dY=    0 dX=  60 dH=   0 src=  466 | Selamat Datang di Website Re
+dY=    0 dX=   0 dH=   0 src=  608 | Simpan waktu dan usaha Anda 
+dY=    0 dX=   0 dH=   0 src=  680 | Pelajari lebih lanjut Tentan
+dY=  -11 dX=  40 dH=   0 src= 1343 | Apapun Bisnis Anda, Financia
+dY=  -10 dX=  40 dH=  28 src= 1422 | Kami paham bahwa utang yang 
+dY=   17 dX=  40 dH=  28 src= 1558 | Tetapi jika Anda melakukan p
+dY=  -25 dX=   0 dH=   0 src= 1357 | Anda Jangan Menyerah Dulu!
+dY=  -25 dX=   0 dH=   0 src= 1409 | Financia siap memberikan lay
+dY=  -24 dX=   0 dH=   0 src= 1572 | Anda tidak perlu mengeluarka
+dY=   -8 dX=   0 dH=   0 src= 1781 | Ketahui lebih dalam soal Fin
+dY=  -47 dX=   0 dH=   0 src= 2119 | Financia Menerapkan Strategi
+dY=  -42 dX=   0 dH=   0 src= 2269 | Langkah Pertama: Assessment
+dY=  -42 dX=   0 dH=   0 src= 2299 | Financia akan memulai dengan
+dY=  -11 dX=   0 dH=   0 src= 2424 | Langkah Kedua: Upaya Non-Lit
+dY=  -11 dX=   0 dH=   0 src= 2454 | Jika kami menilai bahwa utan
+dY=   19 dX=   0 dH=   0 src= 2746 | Apabila penagihan secara non
+dY=  -31 dX=   0 dH=   0 src= 3119 | “GRATIS, Jika Hutang Belum D
+dY=  -31 dX=   0 dH=   0 src= 3176 | HUBUNGI FINANCIA
+dY=  -31 dX= -10 dH=   0 src= 3391 | Jenis Hutang
+dY=  -39 dX= -20 dH=   0 src= 3524 | Financia menyediakan jasa pe
+dY=  -39 dX= -20 dH=   0 src= 3652 | Kredit atau pinjam meminjam 
+dY=  -39 dX= -20 dH=   0 src= 3680 | Perdagangan atau piutang dag
+dY=  -39 dX= -20 dH=   0 src= 3708 | Penyediaan jasa (service sup
+dY=  -39 dX= -20 dH=   0 src= 3735 | Pembelian properti (property
+dY=  -39 dX= -20 dH=   0 src= 3763 | Sewa menyewa properti dan ba
+dY=  -39 dX= -20 dH=   0 src= 3791 | Penempatan dana dalam bentuk
+dY=  -39 dX= -20 dH=   0 src= 3819 | Klaim asuransi (insurance cl
+dY=  -39 dX=   0 dH= -28 src= 3524 | Jasa penagih hutang yang kam
+dY=  -41 dX=   0 dH=   0 src= 3677 | Konstruksi
+dY=  -41 dX=   0 dH=   0 src= 3705 | Pertambangan
+dY=  -41 dX=   0 dH=   0 src= 3733 | Keuangan
+dY=  -40 dX=   0 dH=   0 src= 3760 | Properti
+dY=  -41 dX=   0 dH=   0 src= 3788 | Informasi & Telekomunikasi
+dY=  -41 dX=   0 dH=   0 src= 3816 | Profesional
+dY=  -41 dX=   0 dH=   0 src= 3844 | Manufaktur
+dY=  -41 dX=   0 dH=   0 src= 3872 | Perhotelan
+dY=  -41 dX=   0 dH=   0 src= 3900 | Retail
+dY=  -43 dX= -10 dH=   0 src= 5967 | FINANCIA, AGENSI JASA PENAGI
+dY=  -43 dX=   0 dH=   0 src= 6180 | HUBUNGI KAMI
+dY=  -60 dX= -30 dH=  24 src= 6714 | Efektif & Efisien
+dY=  -60 dX= -30 dH=  24 src= 6760 | Biaya Masuk Akal
+dY=  -60 dX= -30 dH=  24 src= 6806 | Tidak Ada Biaya Tersembunyi
+dY=  -60 dX= -30 dH=  24 src= 6852 | Laporan Up to Date
+dY=  -60 dX= -30 dH=  24 src= 6898 | Kerahasiaan
+dY=  -60 dX= -30 dH=  24 src= 6944 | Konsultasi Gratis
+dY=  -38 dX=   0 dH=   0 src= 7238 | Tolak Ukur Financia...
+dY=  -34 dX=   0 dH=   0 src= 7952 | Pertanyaan yang Sering Diaju
+dY=  -40 dX= -30 dH=  24 src= 8030 | 1. Apa itu Financia?
+dY=  -39 dX= -15 dH=  24 src= 8075 | 2. Utang komersial apa saja 
+dY=  -38 dX= -15 dH=  24 src= 8135 | 3. Apakah ada nilai minimum 
+dY=  -37 dX= -15 dH=  24 src= 8210 | 4. Kenapa Anda perlu jasa pe
+dY=  -36 dX= -15 dH=  24 src= 8270 | 5. Berapa lama proses penagi
+dY=  -35 dX= -30 dH=  24 src= 8330 | 6. Berapa biaya komisi (comm
+dY=  -34 dX= -15 dH=  24 src= 8375 | 7. Apa saja yang perlu saya 
+dY=  -33 dX= -15 dH=  24 src= 8435 | 8. Apakah reputasi perusahaa
+dY=  -32 dX= -30 dH=  24 src= 8495 | 9. Apakah menggunakan Financ
+dY=  -31 dX= -30 dH=  24 src= 8540 | 10. Mencakup wilayah mana sa
+dY=   73 dX= -10 dH= -28 src= 8851 | PT Garda Finansial Utama (“F
+dY=   72 dX=   0 dH=   0 src= 8733 | Menu
+dY=   72 dX=  90 dH=   0 src= 8733 | Lokasi Kami :
+dY=   99 dX= -40 dH=   0 src= 9139 | Kantor Pusat :
+dY=   97 dX= -40 dH= -56 src= 9164 | Sudirman Park, Unit A 3 BB. 
+dY=   71 dX= -33 dH=   0 src= 9167 | Email:
+dY=   69 dX= -33 dH=   0 src= 9192 | office@financia.co.id
+dY=   71 dX= -27 dH=   0 src= 9167 | Open Hours:
+dY=   69 dX= -27 dH=   0 src= 9192 | Senin - Jum'at: 8.00 -6.00 W
+dY=   56 dX=  10 dH=   0 src= 9344 | Powered by Financia.co.id
+dY=   56 dX= 351 dH=   0 src= 9344 | Copyright © 2020-2022. All r

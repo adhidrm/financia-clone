@@ -1,0 +1,279 @@
+{
+ "tentang": {
+  "buttons": [
+   {
+    "sel": "a.elementor-button",
+    "t": "Konsultasi",
+    "transition": "0.3s",
+    "transform": "none",
+    "animation": "none",
+    "opacity": "1",
+    "boxShadow": "none",
+    "filter": "none",
+    "animDuration": "0s"
+   },
+   {
+    "sel": "a.elementor-button",
+    "t": "HUBUNGI KAMI",
+    "transition": "0.3s",
+    "transform": "none",
+    "animation": "none",
+    "opacity": "1",
+    "boxShadow": "none",
+    "filter": "none",
+    "animDuration": "0s"
+   },
+   {
+    "sel": "a.elementor-button",
+    "t": "HUBUNGI FINANCIA",
+    "transition": "0.3s",
+    "transform": "none",
+    "animation": "none",
+    "opacity": "1",
+    "boxShadow": "none",
+    "filter": "none",
+    "animDuration": "0s"
+   },
+   {
+    "sel": "a.elementor-button",
+    "t": "HUBUNGI KAMI",
+    "transition": "0.3s",
+    "transform": "none",
+    "animation": "none",
+    "opacity": "1",
+    "boxShadow": "none",
+    "filter": "none",
+    "animDuration": "0s"
+   }
+  ],
+  "navLinks": [
+   {
+    "sel": "header .hfe-menu-item",
+    "t": "Home",
+    "transition": "all",
+    "transform": "none",
+    "animation": "none",
+    "opacity": "1",
+    "boxShadow": "none",
+    "filter": "none",
+    "animDuration": "0s"
+   },
+   {
+    "sel": "header .hfe-menu-item",
+    "t": "Tentang Kami",
+    "transition": "all",
+    "transform": "none",
+    "animation": "none",
+    "opacity": "1",
+    "boxShadow": "none",
+    "filter": "none",
+    "animDuration": "0s"
+   },
+   {
+    "sel": "header .hfe-menu-item",
+    "t": "Cara Kerja Kami",
+    "transition": "all",
+    "transform": "none",
+    "animation": "none",
+    "opacity": "1",
+    "boxShadow": "none",
+    "filter": "none",
+    "animDuration": "0s"
+   }
+  ],
+  "toggleTitle": [],
+  "images": [
+   {
+    "sel": ".elementor-widget-image img",
+    "t": "",
+    "transition": "0.4s ease-in-out",
+    "transform": "none",
+    "animation": "none",
+    "opacity": "1",
+    "boxShadow": "none",
+    "filter": "none",
+    "animDuration": "0s"
+   },
+   {
+    "sel": ".elementor-widget-image img",
+    "t": "",
+    "transition": "all",
+    "transform": "none",
+    "animation": "none",
+    "opacity": "1",
+    "boxShadow": "none",
+    "filter": "none",
+    "animDuration": "0s"
+   }
+  ],
+  "stickyHeader": {
+   "position": "relative",
+   "top": "0px",
+   "transition": "all",
+   "cls": ""
+  },
+  "motion": [],
+  "hoverRules": [
+   ".hfe-nav-menu a.hfe-menu-item:hover, .hfe-nav-menu a.hfe-sub-menu-item:hover { text-decoration: none; }",
+   ".hfe-has-submenu-container a.hfe-menu-item:focus, .hfe-has-submenu-container a.hfe-sub-men { outline: 0px; }",
+   ".hfe-nav-menu__layout-vertical .hfe-menu-toggle:hover, .hfe-nav-menu__layout-expandible .h { border: 1px dotted; }",
+   ".hfe-nav-menu .menu-item a.hfe-menu-item:not(:hover):not(:focus):not(.current-menu-item):n { opacity: 0; }",
+   ".hfe-nav-menu .menu-item a.hfe-menu-item:hover::before, .hfe-nav-menu .menu-item a.hfe-men { transform: scale(1); }",
+   ".hfe-pointer__double-line.hfe-animation__grow .menu-item.parent a.hfe-menu-item:not(:hover { height: 0px; width: 0px; left: 50%; }",
+   ".hfe-pointer__double-line.hfe-animation__drop-out .menu-item.parent a.hfe-menu-item:not(:h { top: 10px; }",
+   ".hfe-pointer__double-line.hfe-animation__drop-out .menu-item.parent a.hfe-menu-item:not(:h { bottom: 10px; }",
+   ".hfe-pointer__double-line.hfe-animation__drop-in .menu-item.parent a.hfe-menu-item:not(:ho { top: -10px; }",
+   ".hfe-pointer__double-line.hfe-animation__drop-in .menu-item.parent a.hfe-menu-item:not(:ho { bottom: -10px; }"
+  ]
+ },
+ "hubungi": {
+  "buttons": [
+   {
+    "sel": "a.elementor-button",
+    "t": "Hubungi Kami",
+    "transition": "0.3s",
+    "transform": "none",
+    "animation": "none",
+    "opacity": "1",
+    "boxShadow": "none",
+    "filter": "none",
+    "animDuration": "0s"
+   },
+   {
+    "sel": "a.elementor-button",
+    "t": "Konsultasi",
+    "transition": "0.3s",
+    "transform": "none",
+    "animation": "none",
+    "opacity": "1",
+    "boxShadow": "none",
+    "filter": "none",
+    "animDuration": "0s"
+   },
+   {
+    "sel": "a.elementor-button",
+    "t": "HUBUNGI KAMI",
+    "transition": "0.3s",
+    "transform": "none",
+    "animation": "none",
+    "opacity": "1",
+    "boxShadow": "none",
+    "filter": "none",
+    "animDuration": "0s"
+   },
+   {
+    "sel": "a.elementor-button",
+    "t": "HUBUNGI KAMI",
+    "transition": "0.3s",
+    "transform": "none",
+    "animation": "none",
+    "opacity": "1",
+    "boxShadow": "none",
+    "filter": "none",
+    "animDuration": "0s"
+   }
+  ],
+  "navLinks": [
+   {
+    "sel": "header .hfe-menu-item",
+    "t": "Home",
+    "transition": "all",
+    "transform": "none",
+    "animation": "none",
+    "opacity": "1",
+    "boxShadow": "none",
+    "filter": "none",
+    "animDuration": "0s"
+   },
+   {
+    "sel": "header .hfe-menu-item",
+    "t": "Tentang Kami",
+    "transition": "all",
+    "transform": "none",
+    "animation": "none",
+    "opacity": "1",
+    "boxShadow": "none",
+    "filter": "none",
+    "animDuration": "0s"
+   },
+   {
+    "sel": "header .hfe-menu-item",
+    "t": "Cara Kerja Kami",
+    "transition": "all",
+    "transform": "none",
+    "animation": "none",
+    "opacity": "1",
+    "boxShadow": "none",
+    "filter": "none",
+    "animDuration": "0s"
+   }
+  ],
+  "toggleTitle": [
+   {
+    "sel": ".elementor-tab-title",
+    "t": "Pertama, HUBUNGI KAMI",
+    "transition": "all",
+    "transform": "none",
+    "animation": "none",
+    "opacity": "1",
+    "boxShadow": "none",
+    "filter": "none",
+    "animDuration": "0s"
+   },
+   {
+    "sel": ".elementor-tab-title",
+    "t": "Kedua, SIAPKAN DATA",
+    "transition": "all",
+    "transform": "none",
+    "animation": "none",
+    "opacity": "1",
+    "boxShadow": "none",
+    "filter": "none",
+    "animDuration": "0s"
+   }
+  ],
+  "images": [
+   {
+    "sel": ".elementor-widget-image img",
+    "t": "",
+    "transition": "0.4s ease-in-out",
+    "transform": "none",
+    "animation": "none",
+    "opacity": "1",
+    "boxShadow": "none",
+    "filter": "none",
+    "animDuration": "0s"
+   },
+   {
+    "sel": ".elementor-widget-image img",
+    "t": "",
+    "transition": "all",
+    "transform": "none",
+    "animation": "none",
+    "opacity": "1",
+    "boxShadow": "none",
+    "filter": "none",
+    "animDuration": "0s"
+   }
+  ],
+  "stickyHeader": {
+   "position": "relative",
+   "top": "0px",
+   "transition": "all",
+   "cls": ""
+  },
+  "motion": [],
+  "hoverRules": [
+   ".hfe-nav-menu a.hfe-menu-item:hover, .hfe-nav-menu a.hfe-sub-menu-item:hover { text-decoration: none; }",
+   ".hfe-has-submenu-container a.hfe-menu-item:focus, .hfe-has-submenu-container a.hfe-sub-men { outline: 0px; }",
+   ".hfe-nav-menu__layout-vertical .hfe-menu-toggle:hover, .hfe-nav-menu__layout-expandible .h { border: 1px dotted; }",
+   ".hfe-nav-menu .menu-item a.hfe-menu-item:not(:hover):not(:focus):not(.current-menu-item):n { opacity: 0; }",
+   ".hfe-nav-menu .menu-item a.hfe-menu-item:hover::before, .hfe-nav-menu .menu-item a.hfe-men { transform: scale(1); }",
+   ".hfe-pointer__double-line.hfe-animation__grow .menu-item.parent a.hfe-menu-item:not(:hover { height: 0px; width: 0px; left: 50%; }",
+   ".hfe-pointer__double-line.hfe-animation__drop-out .menu-item.parent a.hfe-menu-item:not(:h { top: 10px; }",
+   ".hfe-pointer__double-line.hfe-animation__drop-out .menu-item.parent a.hfe-menu-item:not(:h { bottom: 10px; }",
+   ".hfe-pointer__double-line.hfe-animation__drop-in .menu-item.parent a.hfe-menu-item:not(:ho { top: -10px; }",
+   ".hfe-pointer__double-line.hfe-animation__drop-in .menu-item.parent a.hfe-menu-item:not(:ho { bottom: -10px; }"
+  ]
+ }
+}

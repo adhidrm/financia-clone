@@ -1,0 +1,146 @@
+{
+ "tentang": {
+  "h1": {
+   "sel": "h1",
+   "text": "Agensi Penagihan Hutang Terdepan & Terpercaya",
+   "ff": "Poppins, Poppins",
+   "fs": "19px",
+   "fw": "400",
+   "lh": "19px",
+   "ls": "-0.95px",
+   "color": "rgb(34, 37, 41)"
+  },
+  "h2": {
+   "sel": "section h2",
+   "text": "Tentang Kami",
+   "ff": "Poppins, Poppins",
+   "fs": "30px",
+   "fw": "400",
+   "lh": "30px",
+   "ls": "-1.5px",
+   "color": "rgb(34, 37, 41)"
+  },
+  "band": {
+   "sel": "section.elementor-top-section:nth-of-type(2)",
+   "text": "Agensi Penagihan Hutang Terdepan & Terpercaya",
+   "ff": "Poppins, Poppins",
+   "fs": "14px",
+   "fw": "400",
+   "lh": "24px",
+   "ls": "normal",
+   "color": "rgb(119, 119, 119)"
+  },
+  "navColor": "rgb(0, 136, 204)",
+  "fontsFaces": [
+   "@font-face { font-family: eicons; src: url(\"/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.57.0\") format(\"woff2\"), url(\"/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.57.0\") for",
+   "@font-face { font-family: eicons; src: url(\"/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.57.0\") format(\"woff2\"), url(\"/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.57.0\") for",
+   "@font-face { font-family: \"Font Awesome 5 Brands\"; font-style: normal; font-weight: 400; font-display: block; src: url(\"/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2\") format(\"woff2\")",
+   "@font-face { font-family: \"Font Awesome 5 Free\"; font-style: normal; font-weight: 900; font-display: block; src: url(\"/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2\") format(\"woff2\"), u",
+   "@font-face { font-family: Simple-Line-Icons; src: url(\"/wp-content/themes/porto/css/Simple-Line-Icons/Simple-Line-Icons.woff2\") format(\"woff2\"), url(\"/wp-content/themes/porto/css/Simple-Line-Icons/Simple-Line-Icons.ttf\")",
+   "@font-face { font-family: \"Font Awesome 6 Brands\"; font-style: normal; font-weight: 400; font-display: block; src: url(\"/wp-content/themes/porto/fonts/fontawesome/fa-brands-400.woff2\") format(\"woff2\"), url(\"/wp-content/t",
+   "@font-face { font-family: \"Font Awesome 6 Free\"; font-style: normal; font-weight: 400; font-display: block; src: url(\"/wp-content/themes/porto/fonts/fontawesome/fa-regular-400.woff2\") format(\"woff2\"), url(\"/wp-content/th",
+   "@font-face { font-family: \"Font Awesome 6 Free\"; font-style: normal; font-weight: 900; font-display: block; src: url(\"/wp-content/themes/porto/fonts/fontawesome/fa-solid-900.woff2\") format(\"woff2\"), url(\"/wp-content/them",
+   "@font-face { font-family: porto; src: url(\"/wp-content/themes/porto/fonts/porto-font/porto.woff2\") format(\"woff2\"), url(\"/wp-content/themes/porto/fonts/porto-font/porto.woff\") format(\"woff\"), url(\"/wp-content/themes/port",
+   "@font-face { font-family: \"Font Awesome 5 Free\"; font-style: normal; font-weight: 900; font-display: block; src: url(\"/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2\") format(\"woff2\"), u",
+   "@font-face { font-family: \"Font Awesome 5 Free\"; font-style: normal; font-weight: 400; font-display: block; src: url(\"/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2\") format(\"woff2\"),"
+  ],
+  "fontLinks": []
+ },
+ "hubungi": {
+  "h1": {
+   "sel": "h1",
+   "text": "Hubungi Kami",
+   "ff": "Poppins, Poppins",
+   "fs": "59px",
+   "fw": "400",
+   "lh": "59px",
+   "ls": "-2.95px",
+   "color": "rgb(34, 37, 41)"
+  },
+  "h2": {
+   "sel": "section h2",
+   "text": "Iya saya mau pakai Financia, bagaimana caranya?",
+   "ff": "Poppins, Poppins",
+   "fs": "39px",
+   "fw": "400",
+   "lh": "39px",
+   "ls": "-1.95px",
+   "color": "rgb(34, 37, 41)"
+  },
+  "band": {
+   "sel": "section.elementor-top-section:nth-of-type(2)",
+   "text": "<img decoding=\"async\" width=\"1024\" height=\"682\" src=\"https:/",
+   "ff": "Poppins, Poppins",
+   "fs": "14px",
+   "fw": "400",
+   "lh": "24px",
+   "ls": "normal",
+   "color": "rgb(119, 119, 119)"
+  },
+  "navColor": "rgb(0, 136, 204)",
+  "fontsFaces": [
+   "@font-face { font-family: eicons; src: url(\"/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.57.0\") format(\"woff2\"), url(\"/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.57.0\") for",
+   "@font-face { font-family: eicons; src: url(\"/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.57.0\") format(\"woff2\"), url(\"/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.57.0\") for",
+   "@font-face { font-family: \"Font Awesome 5 Brands\"; font-style: normal; font-weight: 400; font-display: block; src: url(\"/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2\") format(\"woff2\")",
+   "@font-face { font-family: \"Font Awesome 5 Free\"; font-style: normal; font-weight: 900; font-display: block; src: url(\"/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2\") format(\"woff2\"), u",
+   "@font-face { font-family: Simple-Line-Icons; src: url(\"/wp-content/themes/porto/css/Simple-Line-Icons/Simple-Line-Icons.woff2\") format(\"woff2\"), url(\"/wp-content/themes/porto/css/Simple-Line-Icons/Simple-Line-Icons.ttf\")",
+   "@font-face { font-family: \"Font Awesome 6 Brands\"; font-style: normal; font-weight: 400; font-display: block; src: url(\"/wp-content/themes/porto/fonts/fontawesome/fa-brands-400.woff2\") format(\"woff2\"), url(\"/wp-content/t",
+   "@font-face { font-family: \"Font Awesome 6 Free\"; font-style: normal; font-weight: 400; font-display: block; src: url(\"/wp-content/themes/porto/fonts/fontawesome/fa-regular-400.woff2\") format(\"woff2\"), url(\"/wp-content/th",
+   "@font-face { font-family: \"Font Awesome 6 Free\"; font-style: normal; font-weight: 900; font-display: block; src: url(\"/wp-content/themes/porto/fonts/fontawesome/fa-solid-900.woff2\") format(\"woff2\"), url(\"/wp-content/them",
+   "@font-face { font-family: porto; src: url(\"/wp-content/themes/porto/fonts/porto-font/porto.woff2\") format(\"woff2\"), url(\"/wp-content/themes/porto/fonts/porto-font/porto.woff\") format(\"woff\"), url(\"/wp-content/themes/port",
+   "@font-face { font-family: Poppins; font-style: italic; font-weight: 100; src: url(\"https://fonts.gstatic.com/s/poppins/v24/pxiAyp8kv8JHgFVrJJLmE0tCMPc.ttf\") format(\"truetype\"); }",
+   "@font-face { font-family: Poppins; font-style: italic; font-weight: 200; src: url(\"https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLmv1pVF9eL.ttf\") format(\"truetype\"); }",
+   "@font-face { font-family: Poppins; font-style: italic; font-weight: 300; src: url(\"https://fonts.gstatic.com/s/poppins/v24/pxiDyp8kv8JHgFVrJJLm21lVF9eL.ttf\") format(\"truetype\"); }"
+  ],
+  "fontLinks": [
+   "https://fonts.googleapis.com/css?family=Poppins:400,500,600,700%7CShadows+Into+Light:400,700%7CPlayfair+Display:400,700"
+  ]
+ },
+ "home": {
+  "h1": {
+   "sel": "h1",
+   "text": "JASA PENAGIH HUTANG TERDEPAN DAN TERPERCAYA DI INDONESIA",
+   "ff": "Poppins, Poppins",
+   "fs": "19px",
+   "fw": "400",
+   "lh": "19px",
+   "ls": "-0.95px",
+   "color": "rgb(34, 37, 41)"
+  },
+  "h2": {
+   "sel": "section h2",
+   "text": "Selamat Datang di Website Resmi Financia",
+   "ff": "Poppins, Poppins",
+   "fs": "47px",
+   "fw": "400",
+   "lh": "40px",
+   "ls": "-2.35px",
+   "color": "rgb(34, 37, 41)"
+  },
+  "band": {
+   "sel": "section.elementor-top-section:nth-of-type(2)",
+   "text": "Tentang Kami",
+   "ff": "Poppins, Poppins",
+   "fs": "14px",
+   "fw": "400",
+   "lh": "24px",
+   "ls": "normal",
+   "color": "rgb(119, 119, 119)"
+  },
+  "navColor": "rgb(255, 214, 0)",
+  "fontsFaces": [
+   "@font-face { font-family: eicons; src: url(\"/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.57.0\") format(\"woff2\"), url(\"/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.57.0\") for",
+   "@font-face { font-family: eicons; src: url(\"/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff2?5.57.0\") format(\"woff2\"), url(\"/wp-content/plugins/elementor/assets/lib/eicons/fonts/eicons.woff?5.57.0\") for",
+   "@font-face { font-family: \"Font Awesome 5 Brands\"; font-style: normal; font-weight: 400; font-display: block; src: url(\"/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-brands-400.woff2\") format(\"woff2\")",
+   "@font-face { font-family: \"Font Awesome 5 Free\"; font-style: normal; font-weight: 900; font-display: block; src: url(\"/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2\") format(\"woff2\"), u",
+   "@font-face { font-family: Simple-Line-Icons; src: url(\"/wp-content/themes/porto/css/Simple-Line-Icons/Simple-Line-Icons.woff2\") format(\"woff2\"), url(\"/wp-content/themes/porto/css/Simple-Line-Icons/Simple-Line-Icons.ttf\")",
+   "@font-face { font-family: \"Font Awesome 6 Brands\"; font-style: normal; font-weight: 400; font-display: block; src: url(\"/wp-content/themes/porto/fonts/fontawesome/fa-brands-400.woff2\") format(\"woff2\"), url(\"/wp-content/t",
+   "@font-face { font-family: \"Font Awesome 6 Free\"; font-style: normal; font-weight: 400; font-display: block; src: url(\"/wp-content/themes/porto/fonts/fontawesome/fa-regular-400.woff2\") format(\"woff2\"), url(\"/wp-content/th",
+   "@font-face { font-family: \"Font Awesome 6 Free\"; font-style: normal; font-weight: 900; font-display: block; src: url(\"/wp-content/themes/porto/fonts/fontawesome/fa-solid-900.woff2\") format(\"woff2\"), url(\"/wp-content/them",
+   "@font-face { font-family: porto; src: url(\"/wp-content/themes/porto/fonts/porto-font/porto.woff2\") format(\"woff2\"), url(\"/wp-content/themes/porto/fonts/porto-font/porto.woff\") format(\"woff\"), url(\"/wp-content/themes/port",
+   "@font-face { font-family: \"Font Awesome 5 Free\"; font-style: normal; font-weight: 400; font-display: block; src: url(\"/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-regular-400.woff2\") format(\"woff2\"),",
+   "@font-face { font-family: \"Font Awesome 5 Free\"; font-style: normal; font-weight: 900; font-display: block; src: url(\"/wp-content/plugins/elementor/assets/lib/font-awesome/webfonts/fa-solid-900.woff2\") format(\"woff2\"), u"
+  ],
+  "fontLinks": []
+ }
+}

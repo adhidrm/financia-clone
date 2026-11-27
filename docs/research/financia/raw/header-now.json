@@ -1,0 +1,261 @@
+[
+  {
+    "label": "home",
+    "url": "https://financia.proximalab.fyi/",
+    "d": {
+      "header": null,
+      "nav": [],
+      "cta": null,
+      "ctaWrap": null,
+      "cols": [],
+      "overflow": 0
+    }
+  },
+  {
+    "label": "tentang",
+    "url": "https://financia.proximalab.fyi/tentang-kami/",
+    "d": {
+      "header": {
+        "t": "FINANCIA – Jasa Penagiha",
+        "box": [
+          0,
+          0,
+          1178,
+          106
+        ],
+        "f": "400 15px/27.8571px",
+        "col": "rgb(75, 79, 88)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rad": "0px",
+        "pad": "0px 0px 0px 0px",
+        "tt": "none",
+        "disp": "block"
+      },
+      "nav": [
+        {
+          "t": "Home",
+          "box": [
+            231,
+            31,
+            66,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none",
+          "disp": "flex"
+        },
+        {
+          "t": "Tentang Kami",
+          "box": [
+            296,
+            31,
+            115,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(255, 214, 0)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none",
+          "disp": "flex"
+        },
+        {
+          "t": "Cara Kerja Kami",
+          "box": [
+            412,
+            31,
+            146,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none",
+          "disp": "flex"
+        },
+        {
+          "t": "Biaya Komisi",
+          "box": [
+            412,
+            93,
+            220,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 35px",
+          "tt": "none",
+          "disp": "flex"
+        },
+        {
+          "t": "FAQ",
+          "box": [
+            412,
+            138,
+            220,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 35px",
+          "tt": "none",
+          "disp": "flex"
+        },
+        {
+          "t": "Jenis Utang",
+          "box": [
+            558,
+            31,
+            100,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none",
+          "disp": "flex"
+        },
+        {
+          "t": "Klien/Mitra",
+          "box": [
+            658,
+            31,
+            102,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none",
+          "disp": "flex"
+        },
+        {
+          "t": "Hubungi Kami",
+          "box": [
+            760,
+            31,
+            120,
+            44
+          ],
+          "f": "700 14px/14px",
+          "col": "rgb(58, 58, 58)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "15px 15px 15px 15px",
+          "tt": "none",
+          "disp": "flex"
+        }
+      ],
+      "cta": {
+        "t": "Konsultasi",
+        "box": [
+          994,
+          31,
+          136,
+          45
+        ],
+        "f": "700 15px/15px",
+        "col": "rgb(0, 0, 0)",
+        "bg": "rgb(255, 214, 0)",
+        "rad": "25px 2px",
+        "pad": "15px 20px 15px 20px",
+        "tt": "uppercase",
+        "disp": "inline-block"
+      },
+      "ctaWrap": {
+        "t": "Konsultasi",
+        "box": [
+          979,
+          31,
+          166,
+          45
+        ],
+        "f": "400 15px/27.8571px",
+        "col": "rgb(75, 79, 88)",
+        "bg": "rgba(0, 0, 0, 0)",
+        "rad": "0px",
+        "pad": "0px 0px 0px 0px",
+        "tt": "none",
+        "disp": "block"
+      },
+      "cols": [
+        {
+          "t": "",
+          "box": [
+            19,
+            0,
+            122,
+            106
+          ],
+          "f": "400 15px/27.8571px",
+          "col": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "0px 0px 0px 0px",
+          "tt": "none",
+          "disp": "flex"
+        },
+        {
+          "t": "Menu\nHomeTentang KamiCar",
+          "box": [
+            141,
+            0,
+            828,
+            106
+          ],
+          "f": "400 15px/27.8571px",
+          "col": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "0px 0px 0px 0px",
+          "tt": "none",
+          "disp": "flex"
+        },
+        {
+          "t": "Konsultasi",
+          "box": [
+            969,
+            0,
+            186,
+            106
+          ],
+          "f": "400 15px/27.8571px",
+          "col": "rgb(75, 79, 88)",
+          "bg": "rgba(0, 0, 0, 0)",
+          "rad": "0px",
+          "pad": "0px 0px 0px 0px",
+          "tt": "none",
+          "disp": "flex"
+        }
+      ],
+      "overflow": 0
+    }
+  },
+  {
+    "label": "hubungi",
+    "url": "https://financia.proximalab.fyi/hubungi-kami/",
+    "d": {
+      "header": null,
+      "nav": [],
+      "cta": null,
+      "ctaWrap": null,
+      "cols": [],
+      "overflow": 0
+    }
+  }
+]

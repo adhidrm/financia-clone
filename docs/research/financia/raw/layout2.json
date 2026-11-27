@@ -1,0 +1,359 @@
+{
+ "out": [
+  {
+   "idx": 0,
+   "y": 0,
+   "h": 106
+  },
+  {
+   "idx": 1,
+   "y": 106,
+   "h": 882
+  },
+  {
+   "idx": 2,
+   "y": 988,
+   "h": 173
+  },
+  {
+   "idx": 3,
+   "y": 1161,
+   "h": 182
+  },
+  {
+   "idx": 4,
+   "y": 1343,
+   "h": 428
+  },
+  {
+   "idx": 5,
+   "y": 1771,
+   "h": 115
+  },
+  {
+   "idx": 6,
+   "y": 1886,
+   "h": 1173
+  },
+  {
+   "idx": 7,
+   "y": 3059,
+   "h": 222
+  },
+  {
+   "idx": 8,
+   "y": 3281,
+   "h": 666
+  },
+  {
+   "idx": 9,
+   "y": 3948,
+   "h": 223
+  },
+  {
+   "idx": 10,
+   "y": 4171,
+   "h": 177
+  },
+  {
+   "idx": 11,
+   "y": 4348,
+   "h": 312
+  },
+  {
+   "idx": 12,
+   "y": 4660,
+   "h": 280
+  },
+  {
+   "idx": 13,
+   "y": 4939,
+   "h": 278
+  },
+  {
+   "idx": 14,
+   "y": 5217,
+   "h": 290
+  },
+  {
+   "idx": 15,
+   "y": 5507,
+   "h": 301
+  },
+  {
+   "idx": 16,
+   "y": 5807,
+   "h": 577
+  },
+  {
+   "idx": 17,
+   "y": 6385,
+   "h": 2050
+  },
+  {
+   "idx": 18,
+   "y": 8434,
+   "h": 621
+  },
+  {
+   "idx": 19,
+   "y": 9055,
+   "h": 2791
+  },
+  {
+   "idx": 20,
+   "y": 11847,
+   "h": 420
+  },
+  {
+   "idx": 21,
+   "y": 12267,
+   "h": 200
+  },
+  {
+   "idx": 22,
+   "y": 12467,
+   "h": 51
+  },
+  {
+   "idx": 23,
+   "y": 12518,
+   "h": 36
+  }
+ ],
+ "imgs": [
+  {
+   "src": "Logo-Financia-Logo-OK-14-1-300x254.png",
+   "w": 102,
+   "h": 86,
+   "nat": "300x254",
+   "fit": "fill",
+   "pos": "160,10"
+  },
+  {
+   "src": "Logo-Financia-Logo-OK-13-2-768x317.png",
+   "w": 392,
+   "h": 162,
+   "nat": "768x317",
+   "fit": "fill",
+   "pos": "524,1171"
+  },
+  {
+   "src": "qingjian.png",
+   "w": 119,
+   "h": 72,
+   "nat": "119x72",
+   "fit": "fill",
+   "pos": "211,4223"
+  },
+  {
+   "src": "PT-BAtubara-Selaras-Sapta.png",
+   "w": 144,
+   "h": 50,
+   "nat": "144x50",
+   "fit": "fill",
+   "pos": "498,4234"
+  },
+  {
+   "src": "wagely.jpg",
+   "w": 137,
+   "h": 67,
+   "nat": "137x67",
+   "fit": "fill",
+   "pos": "802,4226"
+  },
+  {
+   "src": "Logo-BPR-MANGUN-PUNDIYASA-transparent-big-2048x526-1-1024x263.png",
+   "w": 300,
+   "h": 77,
+   "nat": "1024x263",
+   "fit": "fill",
+   "pos": "1020,4221"
+  },
+  {
+   "src": "PT-Mangun-Pundiyasa-Capital.jpg",
+   "w": 300,
+   "h": 67,
+   "nat": "473x106",
+   "fit": "fill",
+   "pos": "120,4470"
+  },
+  {
+   "src": "cropped-LOGO-MBS-100x100px.png",
+   "w": 100,
+   "h": 100,
+   "nat": "100x100",
+   "fit": "fill",
+   "pos": "520,4454"
+  },
+  {
+   "src": "PT-Mahadata-asia-internasional-1024x724.png",
+   "w": 300,
+   "h": 212,
+   "nat": "1024x724",
+   "fit": "fill",
+   "pos": "720,4398"
+  },
+  {
+   "src": "Loesche-GmbH.jpg",
+   "w": 222,
+   "h": 72,
+   "nat": "222x72",
+   "fit": "fill",
+   "pos": "1059,4468"
+  },
+  {
+   "src": "bunge-768x177.png",
+   "w": 250,
+   "h": 58,
+   "nat": "768x177",
+   "fit": "fill",
+   "pos": "145,4771"
+  },
+  {
+   "src": "Chec-Logo-768x398.jpg",
+   "w": 250,
+   "h": 130,
+   "nat": "768x398",
+   "fit": "fill",
+   "pos": "445,4735"
+  },
+  {
+   "src": "deme.jpg",
+   "w": 250,
+   "h": 72,
+   "nat": "800x230",
+   "fit": "fill",
+   "pos": "745,4764"
+  },
+  {
+   "src": "dockwise.png",
+   "w": 103,
+   "h": 114,
+   "nat": "918x1024",
+   "fit": "fill",
+   "pos": "1119,4742"
+  },
+  {
+   "src": "gardline.png",
+   "w": 250,
+   "h": 64,
+   "nat": "442x114",
+   "fit": "fill",
+   "pos": "145,5046"
+  },
+  {
+   "src": "keda-1024x277.png",
+   "w": 250,
+   "h": 68,
+   "nat": "1024x277",
+   "fit": "fill",
+   "pos": "445,5044"
+  },
+  {
+   "src": "khansaheb.jpeg",
+   "w": 110,
+   "h": 110,
+   "nat": "200x200",
+   "fit": "fill",
+   "pos": "815,5023"
+  },
+  {
+   "src": "KhansahebLogo5e8b263b38013.jpg",
+   "w": 128,
+   "h": 128,
+   "nat": "300x300",
+   "fit": "fill",
+   "pos": "1106,5014"
+  },
+  {
+   "src": "lunar.jpg",
+   "w": 178,
+   "h": 114,
+   "nat": "512x330",
+   "fit": "fill",
+   "pos": "181,5305"
+  },
+  {
+   "src": "standard-oil.png",
+   "w": 140,
+   "h": 140,
+   "nat": "300x300",
+   "fit": "fill",
+   "pos": "500,5292"
+  },
+  {
+   "src": "uralkali.png",
+   "w": 195,
+   "h": 130,
+   "nat": "250x167",
+   "fit": "fill",
+   "pos": "773,5297"
+  },
+  {
+   "src": "veliche.jpg",
+   "w": 188,
+   "h": 116,
+   "nat": "640x396",
+   "fit": "fill",
+   "pos": "1076,5304"
+  },
+  {
+   "src": "wakachiku.jpg",
+   "w": 173,
+   "h": 151,
+   "nat": "244x213",
+   "fit": "fill",
+   "pos": "364,5582"
+  },
+  {
+   "src": "Yara_International_emblem.svg-1024x1024.png",
+   "w": 148,
+   "h": 148,
+   "nat": "1024x1024",
+   "fit": "fill",
+   "pos": "646,5583"
+  },
+  {
+   "src": "Ambev_logo_2015.svg-1024x256.png",
+   "w": 198,
+   "h": 49,
+   "nat": "1024x256",
+   "fit": "fill",
+   "pos": "891,5632"
+  },
+  {
+   "src": "Logo-Financia-Logo-OK-13-2-768x317.png",
+   "w": 447,
+   "h": 184,
+   "nat": "768x317",
+   "fit": "fill",
+   "pos": "150,7317"
+  },
+  {
+   "src": "pexels-olya-kobruseva-5428824-684x1024.jpg",
+   "w": 433,
+   "h": 648,
+   "nat": "684x1024",
+   "fit": "fill",
+   "pos": "150,10127"
+  },
+  {
+   "src": "pexels-olya-kobruseva-5428824-684x1024.jpg",
+   "w": 0,
+   "h": 0,
+   "nat": "684x1024",
+   "fit": "fill",
+   "pos": "0,0"
+  },
+  {
+   "src": "Logo-Financia-Logo-OK-13-2-300x124.png",
+   "w": 237,
+   "h": 98,
+   "nat": "300x124",
+   "fit": "fill",
+   "pos": "160,11907"
+  }
+ ],
+ "height": 12554
+}

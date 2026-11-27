@@ -1,0 +1,124 @@
+SEC 0 y=0 h=108 bg=rgba(0, 0, 0, 0) pad=0px 0px hidden=false
+SEC 1 y=108 h=666 bg=rgba(0, 0, 0, 0) pad=170px 100px hidden=false
+SEC 2 y=774 h=121 bg=rgba(0, 0, 0, 0) pad=0px 0px hidden=false
+SEC 3 y=895 h=173 bg=rgba(0, 0, 0, 0) pad=0px 0px hidden=false
+SEC 4 y=1068 h=867 bg=rgba(0, 0, 0, 0) pad=0px 50px hidden=false
+SEC 5 y=1935 h=115 bg=rgba(0, 0, 0, 0) pad=0px 0px hidden=false
+SEC 6 y=2050 h=1605 bg=rgb(255, 255, 255) pad=0px 50px hidden=false
+SEC 7 y=3655 h=259 bg=rgb(0, 70, 190) pad=50px 50px hidden=false
+SEC 8 y=3914 h=976 bg=rgb(255, 255, 255) pad=0px 0px hidden=false
+SEC 9 y=4890 h=171 bg=rgb(255, 255, 255) pad=0px 0px hidden=false
+SEC 10 y=0 h=0 bg=rgba(0, 0, 0, 0) pad=0px 0px hidden=true
+SEC 11 y=0 h=0 bg=rgba(0, 0, 0, 0) pad=0px 0px hidden=true
+SEC 12 y=0 h=0 bg=rgba(0, 0, 0, 0) pad=0px 0px hidden=true
+SEC 13 y=0 h=0 bg=rgba(0, 0, 0, 0) pad=0px 0px hidden=true
+SEC 14 y=0 h=0 bg=rgba(0, 0, 0, 0) pad=0px 0px hidden=true
+SEC 15 y=0 h=0 bg=rgba(0, 0, 0, 0) pad=0px 0px hidden=true
+SEC 16 y=5061 h=357 bg=rgba(0, 0, 0, 0) pad=0px 0px hidden=false
+SEC 17 y=5419 h=624 bg=rgba(0, 0, 0, 0) pad=0px 0px hidden=false
+SEC 18 y=6042 h=530 bg=rgb(255, 255, 255) pad=70px 50px hidden=false
+SEC 19 y=6573 h=1113 bg=rgba(0, 0, 0, 0) pad=0px 0px hidden=false
+SEC 20 y=7686 h=1161 bg=rgb(0, 70, 190) pad=50px 30px hidden=false
+SEC 21 y=8847 h=494 bg=rgb(0, 70, 190) pad=50px 50px hidden=false
+SEC 22 y=9341 h=51 bg=rgb(0, 70, 190) pad=0px 0px hidden=false
+SEC 23 y=9392 h=72 bg=rgb(0, 70, 190) pad=0px 0px hidden=false
+t y=73 x=283 w=97 h=45 fs=16px lh=29.7143px fw=400 ta=start pad=0px | Home
+t y=118 x=283 w=97 h=59 fs=16px lh=29.7143px fw=400 ta=start pad=0px | Tentang Kami
+t y=177 x=283 w=97 h=73 fs=16px lh=29.7143px fw=400 ta=start pad=0px | Cara Kerja KamiBiaya KomisiFAQ
+t y=249 x=283 w=97 h=59 fs=16px lh=29.7143px fw=400 ta=left pad=0px | Biaya Komisi
+t y=308 x=283 w=97 h=44 fs=16px lh=29.7143px fw=400 ta=left pad=0px | FAQ
+t y=250 x=283 w=97 h=59 fs=16px lh=29.7143px fw=400 ta=start pad=0px | Jenis Utang
+t y=309 x=283 w=97 h=45 fs=16px lh=29.7143px fw=400 ta=start pad=0px | Klien/Mitra
+t y=354 x=283 w=97 h=58 fs=16px lh=29.7143px fw=400 ta=start pad=0px | Hubungi Kami
+t y=278 x=20 w=350 h=53 fs=19px lh=26.6px fw=700 ta=center pad=0px | JASA PENAGIH HUTANG TERDEPAN DAN TERPERCAY
+t y=351 x=20 w=350 h=125 fs=32px lh=41.6px fw=700 ta=center pad=0px | Selamat Datang di Website Resmi Financia
+t y=496 x=20 w=350 h=76 fs=13.68px lh=25.4057px fw=400 ta=center pad=0px | Simpan waktu dan usaha Anda untuk mengelol
+t y=614 x=20 w=350 h=60 fs=15px lh=15px fw=700 ta=center pad=15px 40px | Pelajari lebih lanjut Tentang Financia
+t y=834 x=10 w=370 h=26 fs=20px lh=26px fw=700 ta=center pad=0px | Tentang Kami
+t y=1068 x=20 w=350 h=76 fs=13.68px lh=25.4057px fw=400 ta=justify pad=0px | Apapun Bisnis Anda, Financia adalah Solusi
+t y=1166 x=20 w=350 h=127 fs=13.68px lh=25.4057px fw=400 ta=justify pad=0px | Kami paham bahwa utang yang telah jatuh wa
+t y=1315 x=20 w=350 h=178 fs=13.68px lh=25.4057px fw=400 ta=justify pad=0px | Tetapi jika Anda melakukan penagihan hutan
+t y=1514 x=20 w=350 h=25 fs=13.68px lh=25.4057px fw=400 ta=justify pad=0px | Anda Jangan Menyerah Dulu!
+t y=1562 x=20 w=350 h=152 fs=13.68px lh=25.4057px fw=400 ta=justify pad=0px | Financia siap memberikan layanan jasa pena
+t y=1736 x=20 w=350 h=127 fs=13.68px lh=25.4057px fw=400 ta=justify pad=0px | Anda tidak perlu mengeluarkan biaya penagi
+t y=1945 x=13 w=364 h=45 fs=15px lh=15px fw=700 ta=center pad=15px 40px | Ketahui lebih dalam soal Financia
+t y=2100 x=0 w=390 h=26 fs=20px lh=26px fw=700 ta=center pad=0px | Cara Kerja Kami
+t y=2171 x=20 w=350 h=76 fs=13.68px lh=25.4057px fw=400 ta=center pad=0px | Financia Menerapkan Strategi Komprehensif 
+t y=2380 x=30 w=330 h=50 fs=24px lh=25px fw=700 ta=center pad=0px | Langkah Pertama: Assessment
+t y=2435 x=30 w=330 h=102 fs=13.68px lh=25.4057px fw=400 ta=center pad=0px | Financia akan memulai dengan melakukan ass
+t y=2648 x=30 w=330 h=50 fs=24px lh=25px fw=700 ta=center pad=0px | Langkah Kedua: Upaya Non-Litigasi
+t y=2703 x=30 w=330 h=305 fs=13.68px lh=25.4057px fw=400 ta=center pad=0px | Jika kami menilai bahwa utang adalah valid
+t y=3118 x=30 w=330 h=75 fs=24px lh=25px fw=700 ta=center pad=0px | Langkah Ketiga: Upaya Penagihan Secara Lit
+t y=3198 x=30 w=330 h=407 fs=13.68px lh=25.4057px fw=400 ta=center pad=0px | Apabila penagihan secara non-litigasi tida
+t y=3715 x=10 w=370 h=74 fs=31px lh=37.2px fw=700 ta=center pad=0px | “GRATIS, Jika Hutang Belum Dibayar!”
+t y=3809 x=82 w=225 h=45 fs=15px lh=15px fw=700 ta=center pad=15px 40px | HUBUNGI FINANCIA
+t y=3974 x=10 w=370 h=26 fs=20px lh=26px fw=700 ta=center pad=0px | Jenis Hutang
+t y=4055 x=20 w=350 h=102 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Financia menyediakan jasa penagih hutang k
+t y=4199 x=20 w=350 h=51 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Kredit atau pinjam meminjam uang (loan tra
+t y=4199 x=38 w=333 h=51 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px 0px 0px 5px | Kredit atau pinjam meminjam uang (loan tra
+t y=4250 x=20 w=350 h=51 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Perdagangan atau piutang dagang (accounts 
+t y=4250 x=38 w=333 h=51 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px 0px 0px 5px | Perdagangan atau piutang dagang (accounts 
+t y=4300 x=20 w=350 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Penyediaan jasa (service supply contract)
+t y=4300 x=38 w=295 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px 0px 0px 5px | Penyediaan jasa (service supply contract)
+t y=4326 x=20 w=350 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Pembelian properti (property acquisition)
+t y=4326 x=38 w=290 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px 0px 0px 5px | Pembelian properti (property acquisition)
+t y=4351 x=20 w=350 h=51 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Sewa menyewa properti dan barang (lease of
+t y=4351 x=38 w=333 h=51 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px 0px 0px 5px | Sewa menyewa properti dan barang (lease of
+t y=4402 x=20 w=350 h=51 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Penempatan dana dalam bentuk simpanan (sav
+t y=4402 x=38 w=333 h=51 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px 0px 0px 5px | Penempatan dana dalam bentuk simpanan (sav
+t y=4453 x=20 w=350 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Klaim asuransi (insurance claim)
+t y=4453 x=38 w=232 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px 0px 0px 5px | Klaim asuransi (insurance claim)
+t y=4498 x=20 w=350 h=102 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Jasa penagih hutang yang kami berikan bisa
+t y=4642 x=20 w=350 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Konstruksi
+t y=4642 x=38 w=74 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px 0px 0px 5px | Konstruksi
+t y=4667 x=20 w=350 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Pertambangan
+t y=4667 x=38 w=109 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px 0px 0px 5px | Pertambangan
+t y=4693 x=20 w=350 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Keuangan
+t y=4693 x=38 w=76 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px 0px 0px 5px | Keuangan
+t y=4718 x=20 w=350 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Properti
+t y=4718 x=38 w=58 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px 0px 0px 5px | Properti
+t y=4743 x=20 w=350 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Informasi & Telekomunikasi
+t y=4743 x=38 w=192 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px 0px 0px 5px | Informasi & Telekomunikasi
+t y=4769 x=20 w=350 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Profesional
+t y=4769 x=38 w=80 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px 0px 0px 5px | Profesional
+t y=4794 x=20 w=350 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Manufaktur
+t y=4794 x=38 w=83 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px 0px 0px 5px | Manufaktur
+t y=4820 x=20 w=350 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Perhotelan
+t y=4820 x=38 w=79 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px 0px 0px 5px | Perhotelan
+t y=4845 x=20 w=350 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Retail
+t y=4845 x=38 w=43 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px 0px 0px 5px | Retail
+t y=5000 x=10 w=370 h=26 fs=20px lh=26px fw=700 ta=center pad=0px | Klien/Mitra
+t y=5121 x=10 w=370 h=94 fs=18px lh=23.4px fw=700 ta=center pad=0px | FINANCIA, AGENSI JASA PENAGIH HUTANG TERDE
+t y=5235 x=10 w=370 h=41 fs=11px lh=20.4286px fw=700 ta=center pad=0px | Simpan waktu dan usaha Anda untuk mengelol
+t y=5314 x=99 w=192 h=45 fs=15px lh=15px fw=700 ta=center pad=15px 40px | HUBUNGI KAMI
+t y=5620 x=25 w=340 h=26 fs=20px lh=26px fw=700 ta=center pad=0px | Kenapa Financia?
+t y=5947 x=99 w=192 h=45 fs=15px lh=15px fw=700 ta=center pad=15px 40px | HUBUNGI KAMI
+t y=6112 x=30 w=330 h=27 fs=22.8px lh=27.36px fw=700 ta=center pad=0px | Tolak Ukur Financia...
+t y=6623 x=25 w=340 h=26 fs=20px lh=26px fw=700 ta=center pad=0px | FAQ
+t y=6664 x=25 w=340 h=25 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Pertanyaan yang Sering Diajukan (FAQ)
+t y=7999 x=30 w=350 h=102 fs=13.68px lh=25.4057px fw=400 ta=justify pad=0px | PT Garda Finansial Utama (“Financia”) adal
+t y=8144 x=10 w=370 h=22 fs=18.24px lh=21.888px fw=700 ta=start pad=0px | Menu
+t y=8186 x=10 w=370 h=44 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Home
+t y=8230 x=10 w=370 h=44 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Tentang Kami
+t y=8274 x=10 w=370 h=46 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Cara Kerja KamiBiaya KomisiFAQ
+t y=8320 x=10 w=370 h=45 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Biaya Komisi
+t y=8364 x=10 w=370 h=44 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | FAQ
+t y=8320 x=10 w=370 h=44 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Jenis Utang
+t y=8363 x=10 w=370 h=44 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Klien/Mitra
+t y=8407 x=10 w=370 h=44 fs=13.68px lh=25.4057px fw=400 ta=start pad=0px | Hubungi Kami
+t y=8501 x=10 w=370 h=22 fs=18.24px lh=21.888px fw=700 ta=start pad=0px | Lokasi Kami :
+t y=8762 x=99 w=192 h=45 fs=15px lh=15px fw=700 ta=center pad=15px 40px | HUBUNGI KAMI
+t y=8947 x=50 w=290 h=23 fs=18.24px lh=22.8px fw=700 ta=center pad=0px | Kantor Pusat :
+t y=8972 x=50 w=290 h=76 fs=13.68px lh=25.4057px fw=400 ta=center pad=0px | Sudirman Park, Unit A 3 BB. Jl. K.H. Mas M
+t y=9119 x=50 w=290 h=23 fs=18.24px lh=22.8px fw=700 ta=center pad=0px | Email:
+t y=9144 x=50 w=290 h=25 fs=13.68px lh=25.4057px fw=400 ta=center pad=0px | office@financia.co.id
+t y=9240 x=50 w=290 h=23 fs=18.24px lh=22.8px fw=700 ta=center pad=0px | Open Hours:
+t y=9266 x=50 w=290 h=25 fs=13.68px lh=25.4057px fw=400 ta=center pad=0px | Senin - Jum'at: 8.00 -6.00 WIB
+t y=9392 x=0 w=390 h=19 fs=10px lh=18.5714px fw=400 ta=center pad=0px | Powered by Financia.co.id
+t y=9428 x=0 w=390 h=19 fs=10px lh=18.5714px fw=400 ta=center pad=0px | Copyright © 2020-2022. All rights reserved
+img y=10 x=10 104x88 Logo-Financia-Logo-OK-14-1-300x254.png
+img y=905 x=10 370x153 Logo-Financia-Logo-OK-13-2-768x317.png
+img y=5419 x=0 390x152 gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=
+img y=6726 x=25 340x340 gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=
+img y=7746 x=10 233x233 gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs=
+TOTAL H=9464

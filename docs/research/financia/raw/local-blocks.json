@@ -1,0 +1,325 @@
+{
+ "blocks": [
+  {
+   "i": 0,
+   "y": 106,
+   "h": 882,
+   "kids": [
+    {
+     "t": "H1:JASA PENAGIH HUTANG TE",
+     "y": 369,
+     "h": 27
+    },
+    {
+     "t": "H2:Selamat Datang di Webs",
+     "y": 466,
+     "h": 122
+    },
+    {
+     "t": "P:Simpan waktu dan usaha",
+     "y": 608,
+     "h": 28
+    },
+    {
+     "t": "A:Pelajari lebih lanjut ",
+     "y": 680,
+     "h": 45
+    }
+   ]
+  },
+  {
+   "i": 1,
+   "y": 988,
+   "h": 920,
+   "kids": [
+    {
+     "t": "H2:Tentang Kami",
+     "y": 1048,
+     "h": 78
+    },
+    {
+     "t": "IMG:",
+     "y": 1171,
+     "h": 162
+    },
+    {
+     "t": "P:Apapun Bisnis Anda, Fi",
+     "y": 1342,
+     "h": 56
+    },
+    {
+     "t": "P:Kami paham bahwa utang",
+     "y": 1422,
+     "h": 139
+    },
+    {
+     "t": "P:Tetapi jika Anda melak",
+     "y": 1585,
+     "h": 167
+    },
+    {
+     "t": "P:Anda Jangan Menyerah D",
+     "y": 1342,
+     "h": 28
+    }
+   ]
+  },
+  {
+   "i": 2,
+   "y": 1908,
+   "h": 1124,
+   "kids": [
+    {
+     "t": "H2:Cara Kerja Kami",
+     "y": 2008,
+     "h": 78
+    },
+    {
+     "t": "P:Financia Menerapkan St",
+     "y": 2132,
+     "h": 56
+    },
+    {
+     "t": "H6:Langkah Pertama: Asses",
+     "y": 2281,
+     "h": 25
+    },
+    {
+     "t": "P:Financia akan memulai ",
+     "y": 2311,
+     "h": 56
+    },
+    {
+     "t": "H6:Langkah Kedua: Upaya N",
+     "y": 2437,
+     "h": 25
+    },
+    {
+     "t": "P:Jika kami menilai bahw",
+     "y": 2467,
+     "h": 167
+    }
+   ]
+  },
+  {
+   "i": 3,
+   "y": 3032,
+   "h": 222,
+   "kids": [
+    {
+     "t": "H5:“GRATIS, Jika Hutang B",
+     "y": 3082,
+     "h": 37
+    },
+    {
+     "t": "A:HUBUNGI FINANCIA",
+     "y": 3139,
+     "h": 45
+    }
+   ]
+  },
+  {
+   "i": 4,
+   "y": 3254,
+   "h": 701,
+   "kids": [
+    {
+     "t": "H2:Jenis Hutang",
+     "y": 3354,
+     "h": 78
+    },
+    {
+     "t": "P:Financia menyediakan j",
+     "y": 3479,
+     "h": 84
+    },
+    {
+     "t": "LI:Kredit atau pinjam mem",
+     "y": 3607,
+     "h": 28
+    },
+    {
+     "t": "LI:Perdagangan atau piuta",
+     "y": 3635,
+     "h": 28
+    },
+    {
+     "t": "LI:Penyediaan jasa (servi",
+     "y": 3663,
+     "h": 28
+    },
+    {
+     "t": "LI:Pembelian properti (pr",
+     "y": 3690,
+     "h": 28
+    }
+   ]
+  },
+  {
+   "i": 5,
+   "y": 3956,
+   "h": 1787,
+   "kids": [
+    {
+     "t": "H2:Klien/Mitra",
+     "y": 4056,
+     "h": 78
+    },
+    {
+     "t": "IMG:",
+     "y": 4257,
+     "h": 72
+    },
+    {
+     "t": "IMG:",
+     "y": 4268,
+     "h": 50
+    },
+    {
+     "t": "IMG:",
+     "y": 4260,
+     "h": 67
+    },
+    {
+     "t": "IMG:",
+     "y": 4255,
+     "h": 77
+    },
+    {
+     "t": "IMG:",
+     "y": 4504,
+     "h": 67
+    }
+   ]
+  },
+  {
+   "i": 6,
+   "y": 5743,
+   "h": 558,
+   "kids": [
+    {
+     "t": "H2:FINANCIA, AGENSI JASA ",
+     "y": 5893,
+     "h": 107
+    },
+    {
+     "t": "P:Simpan waktu dan usaha",
+     "y": 6019,
+     "h": 35
+    },
+    {
+     "t": "A:HUBUNGI KAMI",
+     "y": 6106,
+     "h": 45
+    }
+   ]
+  },
+  {
+   "i": 7,
+   "y": 6301,
+   "h": 768,
+   "kids": [
+    {
+     "t": "IMG:",
+     "y": 6592,
+     "h": 185
+    },
+    {
+     "t": "H2:KenapaFinancia?",
+     "y": 6401,
+     "h": 156
+    },
+    {
+     "t": "P:Financia adalah layana",
+     "y": 6622,
+     "h": 139
+    },
+    {
+     "t": "P:Financia memiliki SOP ",
+     "y": 6668,
+     "h": 195
+    },
+    {
+     "t": "P:Pada dasarnya kami sen",
+     "y": 6714,
+     "h": 139
+    },
+    {
+     "t": "P:Layanan jasa penagihan",
+     "y": 6760,
+     "h": 139
+    }
+   ]
+  },
+  {
+   "i": 8,
+   "y": 7069,
+   "h": 626,
+   "kids": [
+    {
+     "t": "H4:Tolak Ukur Financia...",
+     "y": 7169,
+     "h": 54
+    },
+    {
+     "t": "P:Klien Kami Puas atas L",
+     "y": 7468,
+     "h": 57
+    },
+    {
+     "t": "P:Total Klien Financia",
+     "y": 7468,
+     "h": 29
+    },
+    {
+     "t": "P:Repeat Order",
+     "y": 7468,
+     "h": 29
+    }
+   ]
+  },
+  {
+   "i": 9,
+   "y": 7695,
+   "h": 1030,
+   "kids": [
+    {
+     "t": "IMG:",
+     "y": 7795,
+     "h": 433
+    },
+    {
+     "t": "H2:FAQ",
+     "y": 7795,
+     "h": 78
+    },
+    {
+     "t": "P:Pertanyaan yang Sering",
+     "y": 7887,
+     "h": 28
+    },
+    {
+     "t": "P:Financia adalah perusa",
+     "y": 8004,
+     "h": 195
+    },
+    {
+     "t": "P:Pada dasarnya setiap u",
+     "y": 8065,
+     "h": 139
+    },
+    {
+     "t": "P:Ada, nilai minimum uta",
+     "y": 8141,
+     "h": 84
+    }
+   ]
+  }
+ ],
+ "faqInfo": {
+  "imgY": 7795,
+  "imgH": 433,
+  "secY": 7695,
+  "secH": 1030
+ }
+}

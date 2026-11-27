@@ -1,0 +1,776 @@
+{
+ "srcH": 9380,
+ "locH": 9425,
+ "rows": [
+  {
+   "key": "Home",
+   "srcY": 31,
+   "locY": 31,
+   "dY": 0,
+   "srcX": 321,
+   "locX": 325,
+   "dX": 4,
+   "dH": 0
+  },
+  {
+   "key": "Tentang Kami",
+   "srcY": 31,
+   "locY": 31,
+   "dY": 0,
+   "srcX": 393,
+   "locX": 397,
+   "dX": 4,
+   "dH": 0
+  },
+  {
+   "key": "Cara Kerja Kami",
+   "srcY": 31,
+   "locY": 31,
+   "dY": 0,
+   "srcX": 525,
+   "locX": 529,
+   "dX": 4,
+   "dH": 0
+  },
+  {
+   "key": "Biaya Komisi",
+   "srcY": 93,
+   "locY": 75,
+   "dY": -18,
+   "srcX": 525,
+   "locX": 529,
+   "dX": 4,
+   "dH": 6
+  },
+  {
+   "key": "Jenis Utang",
+   "srcY": 31,
+   "locY": 31,
+   "dY": 0,
+   "srcX": 691,
+   "locX": 693,
+   "dX": 2,
+   "dH": 0
+  },
+  {
+   "key": "Klien/Mitra",
+   "srcY": 31,
+   "locY": 31,
+   "dY": 0,
+   "srcX": 806,
+   "locX": 808,
+   "dX": 2,
+   "dH": 0
+  },
+  {
+   "key": "Hubungi Kami",
+   "srcY": 31,
+   "locY": 31,
+   "dY": 0,
+   "srcX": 917,
+   "locX": 934,
+   "dX": 17,
+   "dH": 0
+  },
+  {
+   "key": "Konsultasi",
+   "srcY": 31,
+   "locY": 31,
+   "dY": 0,
+   "srcX": 1126,
+   "locX": 1161,
+   "dX": 35,
+   "dH": 0
+  },
+  {
+   "key": "JASA PENAGIH HUTANG TERDEPAN",
+   "srcY": 369,
+   "locY": 369,
+   "dY": 0,
+   "srcX": 120,
+   "locX": 120,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Selamat Datang di Website Re",
+   "srcY": 466,
+   "locY": 466,
+   "dY": 0,
+   "srcX": 170,
+   "locX": 230,
+   "dX": 60,
+   "dH": 0
+  },
+  {
+   "key": "Simpan waktu dan usaha Anda ",
+   "srcY": 608,
+   "locY": 608,
+   "dY": 0,
+   "srcX": 120,
+   "locX": 120,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Pelajari lebih lanjut Tentan",
+   "srcY": 680,
+   "locY": 680,
+   "dY": 0,
+   "srcX": 518,
+   "locX": 518,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Apapun Bisnis Anda, Financia",
+   "srcY": 1343,
+   "locY": 1332,
+   "dY": -11,
+   "srcX": 170,
+   "locX": 210,
+   "dX": 40,
+   "dH": 0
+  },
+  {
+   "key": "Kami paham bahwa utang yang ",
+   "srcY": 1422,
+   "locY": 1412,
+   "dY": -10,
+   "srcX": 170,
+   "locX": 210,
+   "dX": 40,
+   "dH": 28
+  },
+  {
+   "key": "Tetapi jika Anda melakukan p",
+   "srcY": 1558,
+   "locY": 1575,
+   "dY": 17,
+   "srcX": 170,
+   "locX": 210,
+   "dX": 40,
+   "dH": 28
+  },
+  {
+   "key": "Anda Jangan Menyerah Dulu!",
+   "srcY": 1357,
+   "locY": 1332,
+   "dY": -25,
+   "srcX": 770,
+   "locX": 770,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Financia siap memberikan lay",
+   "srcY": 1409,
+   "locY": 1384,
+   "dY": -25,
+   "srcX": 770,
+   "locX": 770,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Anda tidak perlu mengeluarka",
+   "srcY": 1572,
+   "locY": 1548,
+   "dY": -24,
+   "srcX": 770,
+   "locX": 770,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Ketahui lebih dalam soal Fin",
+   "srcY": 1781,
+   "locY": 1773,
+   "dY": -8,
+   "srcX": 538,
+   "locX": 538,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Financia Menerapkan Strategi",
+   "srcY": 2119,
+   "locY": 2072,
+   "dY": -47,
+   "srcX": 230,
+   "locX": 230,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Langkah Pertama: Assessment",
+   "srcY": 2269,
+   "locY": 2227,
+   "dY": -42,
+   "srcX": 421,
+   "locX": 421,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Financia akan memulai dengan",
+   "srcY": 2299,
+   "locY": 2257,
+   "dY": -42,
+   "srcX": 421,
+   "locX": 421,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Langkah Kedua: Upaya Non-Lit",
+   "srcY": 2424,
+   "locY": 2413,
+   "dY": -11,
+   "srcX": 421,
+   "locX": 421,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Jika kami menilai bahwa utan",
+   "srcY": 2454,
+   "locY": 2443,
+   "dY": -11,
+   "srcX": 421,
+   "locX": 421,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Apabila penagihan secara non",
+   "srcY": 2746,
+   "locY": 2765,
+   "dY": 19,
+   "srcX": 421,
+   "locX": 421,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "“GRATIS, Jika Hutang Belum D",
+   "srcY": 3119,
+   "locY": 3088,
+   "dY": -31,
+   "srcX": 160,
+   "locX": 160,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "HUBUNGI FINANCIA",
+   "srcY": 3176,
+   "locY": 3145,
+   "dY": -31,
+   "srcX": 607,
+   "locX": 607,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Jenis Hutang",
+   "srcY": 3391,
+   "locY": 3360,
+   "dY": -31,
+   "srcX": 160,
+   "locX": 150,
+   "dX": -10,
+   "dH": 0
+  },
+  {
+   "key": "Financia menyediakan jasa pe",
+   "srcY": 3524,
+   "locY": 3485,
+   "dY": -39,
+   "srcX": 170,
+   "locX": 150,
+   "dX": -20,
+   "dH": 0
+  },
+  {
+   "key": "Kredit atau pinjam meminjam ",
+   "srcY": 3652,
+   "locY": 3613,
+   "dY": -39,
+   "srcX": 170,
+   "locX": 150,
+   "dX": -20,
+   "dH": 0
+  },
+  {
+   "key": "Perdagangan atau piutang dag",
+   "srcY": 3680,
+   "locY": 3641,
+   "dY": -39,
+   "srcX": 170,
+   "locX": 150,
+   "dX": -20,
+   "dH": 0
+  },
+  {
+   "key": "Penyediaan jasa (service sup",
+   "srcY": 3708,
+   "locY": 3669,
+   "dY": -39,
+   "srcX": 170,
+   "locX": 150,
+   "dX": -20,
+   "dH": 0
+  },
+  {
+   "key": "Pembelian properti (property",
+   "srcY": 3735,
+   "locY": 3696,
+   "dY": -39,
+   "srcX": 170,
+   "locX": 150,
+   "dX": -20,
+   "dH": 0
+  },
+  {
+   "key": "Sewa menyewa properti dan ba",
+   "srcY": 3763,
+   "locY": 3724,
+   "dY": -39,
+   "srcX": 170,
+   "locX": 150,
+   "dX": -20,
+   "dH": 0
+  },
+  {
+   "key": "Penempatan dana dalam bentuk",
+   "srcY": 3791,
+   "locY": 3752,
+   "dY": -39,
+   "srcX": 170,
+   "locX": 150,
+   "dX": -20,
+   "dH": 0
+  },
+  {
+   "key": "Klaim asuransi (insurance cl",
+   "srcY": 3819,
+   "locY": 3780,
+   "dY": -39,
+   "srcX": 170,
+   "locX": 150,
+   "dX": -20,
+   "dH": 0
+  },
+  {
+   "key": "Jasa penagih hutang yang kam",
+   "srcY": 3524,
+   "locY": 3485,
+   "dY": -39,
+   "srcX": 730,
+   "locX": 730,
+   "dX": 0,
+   "dH": -28
+  },
+  {
+   "key": "Konstruksi",
+   "srcY": 3677,
+   "locY": 3636,
+   "dY": -41,
+   "srcX": 730,
+   "locX": 730,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Pertambangan",
+   "srcY": 3705,
+   "locY": 3664,
+   "dY": -41,
+   "srcX": 730,
+   "locX": 730,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Keuangan",
+   "srcY": 3733,
+   "locY": 3692,
+   "dY": -41,
+   "srcX": 730,
+   "locX": 730,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Properti",
+   "srcY": 3760,
+   "locY": 3720,
+   "dY": -40,
+   "srcX": 730,
+   "locX": 730,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Informasi & Telekomunikasi",
+   "srcY": 3788,
+   "locY": 3747,
+   "dY": -41,
+   "srcX": 730,
+   "locX": 730,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Profesional",
+   "srcY": 3816,
+   "locY": 3775,
+   "dY": -41,
+   "srcX": 730,
+   "locX": 730,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Manufaktur",
+   "srcY": 3844,
+   "locY": 3803,
+   "dY": -41,
+   "srcX": 730,
+   "locX": 730,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Perhotelan",
+   "srcY": 3872,
+   "locY": 3831,
+   "dY": -41,
+   "srcX": 730,
+   "locX": 730,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Retail",
+   "srcY": 3900,
+   "locY": 3859,
+   "dY": -41,
+   "srcX": 730,
+   "locX": 730,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "FINANCIA, AGENSI JASA PENAGI",
+   "srcY": 5967,
+   "locY": 5924,
+   "dY": -43,
+   "srcX": 10,
+   "locX": 0,
+   "dX": -10,
+   "dH": 0
+  },
+  {
+   "key": "HUBUNGI KAMI",
+   "srcY": 6180,
+   "locY": 6137,
+   "dY": -43,
+   "srcX": 624,
+   "locX": 624,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Efektif & Efisien",
+   "srcY": 6714,
+   "locY": 6654,
+   "dY": -60,
+   "srcX": 727,
+   "locX": 697,
+   "dX": -30,
+   "dH": 24
+  },
+  {
+   "key": "Biaya Masuk Akal",
+   "srcY": 6760,
+   "locY": 6700,
+   "dY": -60,
+   "srcX": 727,
+   "locX": 697,
+   "dX": -30,
+   "dH": 24
+  },
+  {
+   "key": "Tidak Ada Biaya Tersembunyi",
+   "srcY": 6806,
+   "locY": 6746,
+   "dY": -60,
+   "srcX": 727,
+   "locX": 697,
+   "dX": -30,
+   "dH": 24
+  },
+  {
+   "key": "Laporan Up to Date",
+   "srcY": 6852,
+   "locY": 6792,
+   "dY": -60,
+   "srcX": 727,
+   "locX": 697,
+   "dX": -30,
+   "dH": 24
+  },
+  {
+   "key": "Kerahasiaan",
+   "srcY": 6898,
+   "locY": 6838,
+   "dY": -60,
+   "srcX": 727,
+   "locX": 697,
+   "dX": -30,
+   "dH": 24
+  },
+  {
+   "key": "Konsultasi Gratis",
+   "srcY": 6944,
+   "locY": 6884,
+   "dY": -60,
+   "srcX": 727,
+   "locX": 697,
+   "dX": -30,
+   "dH": 24
+  },
+  {
+   "key": "Tolak Ukur Financia...",
+   "srcY": 7238,
+   "locY": 7200,
+   "dY": -38,
+   "srcX": 0,
+   "locX": 0,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Pertanyaan yang Sering Diaju",
+   "srcY": 7952,
+   "locY": 7918,
+   "dY": -34,
+   "srcX": 683,
+   "locX": 683,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "1. Apa itu Financia?",
+   "srcY": 8030,
+   "locY": 7990,
+   "dY": -40,
+   "srcX": 713,
+   "locX": 683,
+   "dX": -30,
+   "dH": 24
+  },
+  {
+   "key": "2. Utang komersial apa saja ",
+   "srcY": 8075,
+   "locY": 8036,
+   "dY": -39,
+   "srcX": 698,
+   "locX": 683,
+   "dX": -15,
+   "dH": 24
+  },
+  {
+   "key": "3. Apakah ada nilai minimum ",
+   "srcY": 8135,
+   "locY": 8097,
+   "dY": -38,
+   "srcX": 698,
+   "locX": 683,
+   "dX": -15,
+   "dH": 24
+  },
+  {
+   "key": "4. Kenapa Anda perlu jasa pe",
+   "srcY": 8210,
+   "locY": 8173,
+   "dY": -37,
+   "srcX": 698,
+   "locX": 683,
+   "dX": -15,
+   "dH": 24
+  },
+  {
+   "key": "5. Berapa lama proses penagi",
+   "srcY": 8270,
+   "locY": 8234,
+   "dY": -36,
+   "srcX": 698,
+   "locX": 683,
+   "dX": -15,
+   "dH": 24
+  },
+  {
+   "key": "6. Berapa biaya komisi (comm",
+   "srcY": 8330,
+   "locY": 8295,
+   "dY": -35,
+   "srcX": 713,
+   "locX": 683,
+   "dX": -30,
+   "dH": 24
+  },
+  {
+   "key": "7. Apa saja yang perlu saya ",
+   "srcY": 8375,
+   "locY": 8341,
+   "dY": -34,
+   "srcX": 698,
+   "locX": 683,
+   "dX": -15,
+   "dH": 24
+  },
+  {
+   "key": "8. Apakah reputasi perusahaa",
+   "srcY": 8435,
+   "locY": 8402,
+   "dY": -33,
+   "srcX": 698,
+   "locX": 683,
+   "dX": -15,
+   "dH": 24
+  },
+  {
+   "key": "9. Apakah menggunakan Financ",
+   "srcY": 8495,
+   "locY": 8463,
+   "dY": -32,
+   "srcX": 713,
+   "locX": 683,
+   "dX": -30,
+   "dH": 24
+  },
+  {
+   "key": "10. Mencakup wilayah mana sa",
+   "srcY": 8540,
+   "locY": 8509,
+   "dY": -31,
+   "srcX": 713,
+   "locX": 683,
+   "dX": -30,
+   "dH": 24
+  },
+  {
+   "key": "PT Garda Finansial Utama (“F",
+   "srcY": 8851,
+   "locY": 8924,
+   "dY": 73,
+   "srcX": 180,
+   "locX": 170,
+   "dX": -10,
+   "dH": -28
+  },
+  {
+   "key": "Menu",
+   "srcY": 8733,
+   "locY": 8805,
+   "dY": 72,
+   "srcX": 502,
+   "locX": 502,
+   "dX": 0,
+   "dH": 0
+  },
+  {
+   "key": "Lokasi Kami :",
+   "srcY": 8733,
+   "locY": 8805,
+   "dY": 72,
+   "srcX": 787,
+   "locX": 877,
+   "dX": 90,
+   "dH": 0
+  },
+  {
+   "key": "Kantor Pusat :",
+   "srcY": 9139,
+   "locY": 9238,
+   "dY": 99,
+   "srcX": 250,
+   "locX": 210,
+   "dX": -40,
+   "dH": 0
+  },
+  {
+   "key": "Sudirman Park, Unit A 3 BB. ",
+   "srcY": 9164,
+   "locY": 9261,
+   "dY": 97,
+   "srcX": 250,
+   "locX": 210,
+   "dX": -40,
+   "dH": -56
+  },
+  {
+   "key": "Email:",
+   "srcY": 9167,
+   "locY": 9238,
+   "dY": 71,
+   "srcX": 630,
+   "locX": 597,
+   "dX": -33,
+   "dH": 0
+  },
+  {
+   "key": "office@financia.co.id",
+   "srcY": 9192,
+   "locY": 9261,
+   "dY": 69,
+   "srcX": 630,
+   "locX": 597,
+   "dX": -33,
+   "dH": 0
+  },
+  {
+   "key": "Open Hours:",
+   "srcY": 9167,
+   "locY": 9238,
+   "dY": 71,
+   "srcX": 1010,
+   "locX": 983,
+   "dX": -27,
+   "dH": 0
+  },
+  {
+   "key": "Senin - Jum'at: 8.00 -6.00 W",
+   "srcY": 9192,
+   "locY": 9261,
+   "dY": 69,
+   "srcX": 1010,
+   "locX": 983,
+   "dX": -27,
+   "dH": 0
+  },
+  {
+   "key": "Powered by Financia.co.id",
+   "srcY": 9344,
+   "locY": 9400,
+   "dY": 56,
+   "srcX": 150,
+   "locX": 160,
+   "dX": 10,
+   "dH": 0
+  },
+  {
+   "key": "Copyright © 2020-2022. All r",
+   "srcY": 9344,
+   "locY": 9400,
+   "dY": 56,
+   "srcX": 720,
+   "locX": 1071,
+   "dX": 351,
+   "dH": 0
+  }
+ ]
+}

@@ -1,0 +1,586 @@
+{
+ "tentang": {
+  "fonts": [
+   "eicons 400 unloaded",
+   "Font Awesome 5 Brands 400 unloaded",
+   "Font Awesome 5 Free 900 loaded",
+   "Simple-Line-Icons 400 unloaded",
+   "Font Awesome 6 Brands 400 unloaded",
+   "Font Awesome 6 Free 400 unloaded",
+   "Font Awesome 6 Free 900 unloaded",
+   "porto 400 unloaded",
+   "Font Awesome 5 Free 400 unloaded"
+  ],
+  "bodyFont": "Poppins, Poppins",
+  "heroBand": {
+   "rect": [
+    0,
+    352,
+    1440,
+    401
+   ],
+   "text": "Agensi Penagihan Hutang Terdepan & Terpercaya",
+   "html": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-7b185fec elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"7b185fec\" data-element_type=\"section\" data-e-type=\"section\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\"><div class=\"elementor-container elementor-column-gap-default\"><div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6977fc2e elementor-hidden-mobile\" data-id=\"6977fc2e\" data-element_type=\"column\" data-e-type=\"column\"><div class=\"elementor-widget-wrap\"></div></div><div class=\"elementor-column elementor-col-33 elemento",
+   "font-family": "Poppins, Poppins",
+   "font-size": "14px",
+   "font-weight": "400",
+   "line-height": "24px",
+   "letter-spacing": "normal",
+   "color": "rgb(119, 119, 119)",
+   "text-align": "start",
+   "text-transform": "none",
+   "background-color": "rgba(0, 0, 0, 0)",
+   "padding": "0px 0px 100px",
+   "margin": "0px",
+   "border-radius": "0px"
+  },
+  "heroChildren": [
+   {
+    "tag": "div",
+    "cls": "elementor-container elementor-column-gap-default",
+    "text": "Agensi Penagihan Hutang Terdepan & Terpe",
+    "w": 1140,
+    "h": 301,
+    "fs": "14px",
+    "ff": "Poppins",
+    "anim": "none",
+    "h2": "<div class=\"elementor-container elementor-column-gap-default\"><div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6977fc2e elementor-hidden-mobile\" data-id=\"6977fc2e\" data-element_type=\"column\" data-e-type=\"column\"><div class=\"elementor-widget-wrap\"></div></div><div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element el"
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-column elementor-col-33 elementor-top-column elementor-eleme",
+    "text": "",
+    "w": 285,
+    "h": 301,
+    "fs": "14px",
+    "ff": "Poppins",
+    "anim": "none",
+    "h2": "<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-6977fc2e elementor-hidden-mobile\" data-id=\"6977fc2e\" data-element_type=\"column\" data-e-type=\"column\"><div class=\"elementor-widget-wrap\"></div></div>"
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-widget-wrap",
+    "text": "",
+    "w": 285,
+    "h": 301,
+    "fs": "14px",
+    "ff": "Poppins",
+    "anim": "none",
+    "h2": "<div class=\"elementor-widget-wrap\"></div>"
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-column elementor-col-33 elementor-top-column elementor-eleme",
+    "text": "Agensi Penagihan Hutang Terdepan & Terpe",
+    "w": 568,
+    "h": 301,
+    "fs": "14px",
+    "ff": "Poppins",
+    "anim": "none",
+    "h2": "<div class=\"elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-166e46b2\" data-id=\"166e46b2\" data-element_type=\"column\" data-e-type=\"column\"><div class=\"elementor-widget-wrap elementor-element-populated\"><div class=\"elementor-element elementor-element-7a186403 elementor-widget elementor-widget-image\" data-id=\"7a186403\" data-element_type=\"widget\" data-e-type=\""
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-widget-wrap elementor-element-populated",
+    "text": "Agensi Penagihan Hutang Terdepan & Terpe",
+    "w": 568,
+    "h": 301,
+    "fs": "14px",
+    "ff": "Poppins",
+    "anim": "none",
+    "h2": "<div class=\"elementor-widget-wrap elementor-element-populated\"><div class=\"elementor-element elementor-element-7a186403 elementor-widget elementor-widget-image\" data-id=\"7a186403\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"image.default\"><div class=\"elementor-widget-container\">\n<img data-lazyloaded=\"1\" src=\"https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Fina"
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-element elementor-element-7a186403 elementor-widget elemento",
+    "text": "",
+    "w": 538,
+    "h": 222,
+    "fs": "14px",
+    "ff": "Poppins",
+    "anim": "none",
+    "h2": "<div class=\"elementor-element elementor-element-7a186403 elementor-widget elementor-widget-image\" data-id=\"7a186403\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"image.default\"><div class=\"elementor-widget-container\">\n<img data-lazyloaded=\"1\" src=\"https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-13-2.png\" decoding=\"async\" width=\"800\" height=\"330"
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-widget-container",
+    "text": "",
+    "w": 538,
+    "h": 222,
+    "fs": "14px",
+    "ff": "Poppins",
+    "anim": "none",
+    "h2": "<div class=\"elementor-widget-container\">\n<img data-lazyloaded=\"1\" src=\"https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-13-2.png\" decoding=\"async\" width=\"800\" height=\"330\" data-src=\"https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-13-2.png\" class=\"attachment-large size-large wp-image-1633 entered litespeed-loaded\" alt=\"\" data-srcset=\""
+   },
+   {
+    "tag": "img",
+    "cls": "attachment-large size-large wp-image-1633 entered litespeed-loaded",
+    "text": "",
+    "w": 538,
+    "h": 222,
+    "fs": "14px",
+    "ff": "Poppins",
+    "anim": "none",
+    "h2": "<img data-lazyloaded=\"1\" src=\"https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-13-2.png\" decoding=\"async\" width=\"800\" height=\"330\" data-src=\"https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-13-2.png\" class=\"attachment-large size-large wp-image-1633 entered litespeed-loaded\" alt=\"\" data-srcset=\"https://financia.proximalab.fyi/wp-conten"
+   }
+  ],
+  "nav": [
+   {
+    "t": "Home",
+    "c": "rgb(0, 136, 204)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fs": "14px",
+    "fw": "700",
+    "ff": "Poppins",
+    "pad": "15px",
+    "border": "0px none rgb(0, 136, 204)"
+   },
+   {
+    "t": "Tentang Kami",
+    "c": "rgb(255, 214, 0)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fs": "14px",
+    "fw": "700",
+    "ff": "Poppins",
+    "pad": "15px",
+    "border": "0px none rgb(255, 214, 0)"
+   },
+   {
+    "t": "Cara Kerja Kami",
+    "c": "rgb(0, 136, 204)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fs": "14px",
+    "fw": "700",
+    "ff": "Poppins",
+    "pad": "15px",
+    "border": "0px none rgb(0, 136, 204)"
+   },
+   {
+    "t": "Biaya Komisi",
+    "c": "rgb(0, 136, 204)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fs": "14px",
+    "fw": "700",
+    "ff": "Poppins",
+    "pad": "15px 15px 15px 35px",
+    "border": "0px none rgb(0, 136, 204)"
+   },
+   {
+    "t": "FAQ",
+    "c": "rgb(0, 136, 204)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fs": "14px",
+    "fw": "700",
+    "ff": "Poppins",
+    "pad": "15px 15px 15px 35px",
+    "border": "0px none rgb(0, 136, 204)"
+   },
+   {
+    "t": "Jenis Utang",
+    "c": "rgb(0, 136, 204)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fs": "14px",
+    "fw": "700",
+    "ff": "Poppins",
+    "pad": "15px",
+    "border": "0px none rgb(0, 136, 204)"
+   },
+   {
+    "t": "Klien/Mitra",
+    "c": "rgb(0, 136, 204)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fs": "14px",
+    "fw": "700",
+    "ff": "Poppins",
+    "pad": "15px",
+    "border": "0px none rgb(0, 136, 204)"
+   },
+   {
+    "t": "Hubungi Kami",
+    "c": "rgb(0, 136, 204)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fs": "14px",
+    "fw": "700",
+    "ff": "Poppins",
+    "pad": "15px",
+    "border": "0px none rgb(0, 136, 204)"
+   }
+  ],
+  "headerLogo": {
+   "rect": [
+    165,
+    15,
+    92,
+    78
+   ],
+   "text": "",
+   "html": "<img data-lazyloaded=\"1\" src=\"https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-14-1-300x254.png\" width=\"300\" height=\"254\" data-src=\"https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-14-1-300x254.png\" class=\"attachment-medium size-medium wp-image-1634 entered litespeed-loaded\" alt=\"\" data-ll-status=\"loaded\">",
+   "font-family": "Poppins, Poppins",
+   "font-size": "14px",
+   "font-weight": "400",
+   "line-height": "24px",
+   "letter-spacing": "normal",
+   "color": "rgb(0, 136, 204)",
+   "text-align": "center",
+   "text-transform": "none",
+   "background-color": "rgba(0, 0, 0, 0)",
+   "padding": "0px",
+   "margin": "0px",
+   "border-radius": "0px"
+  },
+  "activeMenu": [
+   {
+    "t": "Tentang Kami",
+    "cls": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-961 c"
+   },
+   {
+    "t": "Tentang Kami",
+    "cls": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-961 c"
+   }
+  ],
+  "scripts": [
+   "https://financia.proximalab.fyi/wp-includes/js/wp-emoji-release.min.js?ver=7.1.5",
+   "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092"
+  ],
+  "styles": [
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/f3a20551740c94e9a546aaeefb989437.css?ver=f6cd5"
+  ]
+ },
+ "hubungi": {
+  "fonts": [
+   "eicons 400 unloaded",
+   "Font Awesome 5 Brands 400 unloaded",
+   "Font Awesome 5 Free 900 loaded",
+   "Simple-Line-Icons 400 unloaded",
+   "Font Awesome 6 Brands 400 unloaded",
+   "Font Awesome 6 Free 400 unloaded",
+   "Font Awesome 6 Free 900 unloaded",
+   "porto 400 unloaded",
+   "Poppins 100 unloaded",
+   "Poppins 200 unloaded",
+   "Poppins 300 unloaded",
+   "Poppins 400 unloaded",
+   "Poppins 500 unloaded",
+   "Poppins 600 unloaded",
+   "Poppins 700 unloaded",
+   "Poppins 800 unloaded",
+   "Poppins 900 unloaded",
+   "Poppins 400 loaded",
+   "Poppins 500 loaded",
+   "Poppins 600 loaded",
+   "Poppins 700 loaded",
+   "Font Awesome 5 Free 400 unloaded",
+   "Playfair Display 400 unloaded",
+   "Playfair Display 400 loaded",
+   "Playfair Display 700 unloaded",
+   "Playfair Display 700 loaded",
+   "Shadows Into Light 400 unloaded",
+   "Shadows Into Light 400 loaded"
+  ],
+  "bodyFont": "Poppins, Poppins",
+  "heroBand": {
+   "rect": [
+    0,
+    356,
+    1440,
+    582
+   ],
+   "text": "<img decoding=\"async\" width=\"1024\" height=\"682\" src=\"https://financia.",
+   "html": "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-f0afd1f elementor-section-boxed elementor-section-height-default elementor-section-height-default\" data-id=\"f0afd1f\" data-element_type=\"section\" data-e-type=\"section\"><div class=\"elementor-container elementor-column-gap-no\"><div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f90eac5 elementor-hidden-mobile\" data-id=\"f90eac5\" data-element_type=\"column\" data-e-type=\"column\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\"><div class=\"elementor-widget-wrap elementor-element-populated\"><div class=\"elementor-element elementor-element",
+   "font-family": "Poppins, Poppins",
+   "font-size": "14px",
+   "font-weight": "400",
+   "line-height": "24px",
+   "letter-spacing": "normal",
+   "color": "rgb(119, 119, 119)",
+   "text-align": "start",
+   "text-transform": "none",
+   "background-color": "rgba(0, 0, 0, 0)",
+   "padding": "0px",
+   "margin": "0px",
+   "border-radius": "0px"
+  },
+  "heroChildren": [
+   {
+    "tag": "div",
+    "cls": "elementor-container elementor-column-gap-no",
+    "text": "<img decoding=\"async\" width=\"1024\" heigh",
+    "w": 1110,
+    "h": 582,
+    "fs": "14px",
+    "ff": "Poppins",
+    "anim": "none",
+    "h2": "<div class=\"elementor-container elementor-column-gap-no\"><div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f90eac5 elementor-hidden-mobile\" data-id=\"f90eac5\" data-element_type=\"column\" data-e-type=\"column\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\"><div class=\"elementor-widget-wrap elementor-element-populated\"><div c"
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-column elementor-col-50 elementor-top-column elementor-eleme",
+    "text": "<img decoding=\"async\" width=\"1024\" heigh",
+    "w": 498,
+    "h": 582,
+    "fs": "14px",
+    "ff": "Poppins",
+    "anim": "none",
+    "h2": "<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f90eac5 elementor-hidden-mobile\" data-id=\"f90eac5\" data-element_type=\"column\" data-e-type=\"column\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\"><div class=\"elementor-widget-wrap elementor-element-populated\"><div class=\"elementor-element elementor-element-54700e2 element"
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-widget-wrap elementor-element-populated",
+    "text": "<img decoding=\"async\" width=\"1024\" heigh",
+    "w": 498,
+    "h": 582,
+    "fs": "14px",
+    "ff": "Poppins",
+    "anim": "none",
+    "h2": "<div class=\"elementor-widget-wrap elementor-element-populated\"><div class=\"elementor-element elementor-element-54700e2 elementor-widget elementor-widget-image\" data-id=\"54700e2\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"image.default\"><div class=\"elementor-widget-container\">\n<img data-lazyloaded=\"1\" src=\"https://financia.proximalab.fyi/wp-content/uploads/2022/10/pexels-pixa"
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-element elementor-element-54700e2 elementor-widget elementor",
+    "text": "<img decoding=\"async\" width=\"1024\" heigh",
+    "w": 498,
+    "h": 332,
+    "fs": "14px",
+    "ff": "Poppins",
+    "anim": "none",
+    "h2": "<div class=\"elementor-element elementor-element-54700e2 elementor-widget elementor-widget-image\" data-id=\"54700e2\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"image.default\"><div class=\"elementor-widget-container\">\n<img data-lazyloaded=\"1\" src=\"https://financia.proximalab.fyi/wp-content/uploads/2022/10/pexels-pixabay-327540-1024x682.jpg\" decoding=\"async\" width=\"1024\" height=\""
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-widget-container",
+    "text": "<img decoding=\"async\" width=\"1024\" heigh",
+    "w": 498,
+    "h": 332,
+    "fs": "14px",
+    "ff": "Poppins",
+    "anim": "none",
+    "h2": "<div class=\"elementor-widget-container\">\n<img data-lazyloaded=\"1\" src=\"https://financia.proximalab.fyi/wp-content/uploads/2022/10/pexels-pixabay-327540-1024x682.jpg\" decoding=\"async\" width=\"1024\" height=\"682\" data-src=\"https://financia.proximalab.fyi/wp-content/uploads/2022/10/pexels-pixabay-327540-1024x682.jpg\" class=\"attachment-large size-large wp-image-1114 entered litespeed-loaded\" alt=\"jasa p"
+   },
+   {
+    "tag": "img",
+    "cls": "attachment-large size-large wp-image-1114 entered litespeed-loaded",
+    "text": "",
+    "w": 498,
+    "h": 332,
+    "fs": "14px",
+    "ff": "Poppins",
+    "anim": "none",
+    "h2": "<img data-lazyloaded=\"1\" src=\"https://financia.proximalab.fyi/wp-content/uploads/2022/10/pexels-pixabay-327540-1024x682.jpg\" decoding=\"async\" width=\"1024\" height=\"682\" data-src=\"https://financia.proximalab.fyi/wp-content/uploads/2022/10/pexels-pixabay-327540-1024x682.jpg\" class=\"attachment-large size-large wp-image-1114 entered litespeed-loaded\" alt=\"jasa penagihan hutang\" data-srcset=\"https://fin"
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-column elementor-col-50 elementor-top-column elementor-eleme",
+    "text": "Iya saya mau pakai Financia, bagaimana c",
+    "w": 611,
+    "h": 582,
+    "fs": "14px",
+    "ff": "Poppins",
+    "anim": "none",
+    "h2": "<div class=\"elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c1ae2d9\" data-id=\"c1ae2d9\" data-element_type=\"column\" data-e-type=\"column\" data-settings=\"{&quot;background_background&quot;:&quot;classic&quot;}\"><div class=\"elementor-widget-wrap elementor-element-populated\"><div class=\"elementor-element elementor-element-445dfaf elementor-widget elementor-widg"
+   },
+   {
+    "tag": "div",
+    "cls": "elementor-widget-wrap elementor-element-populated",
+    "text": "Iya saya mau pakai Financia, bagaimana c",
+    "w": 611,
+    "h": 582,
+    "fs": "14px",
+    "ff": "Poppins",
+    "anim": "none",
+    "h2": "<div class=\"elementor-widget-wrap elementor-element-populated\"><div class=\"elementor-element elementor-element-445dfaf elementor-widget elementor-widget-heading\" data-id=\"445dfaf\" data-element_type=\"widget\" data-e-type=\"widget\" data-widget_type=\"heading.default\"><div class=\"elementor-widget-container\"><h2 class=\"elementor-heading-title elementor-size-xl\">Iya saya mau pakai Financia, bagaimana cara"
+   }
+  ],
+  "nav": [
+   {
+    "t": "Home",
+    "c": "rgb(0, 136, 204)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fs": "14px",
+    "fw": "700",
+    "ff": "Poppins",
+    "pad": "15px",
+    "border": "0px none rgb(0, 136, 204)"
+   },
+   {
+    "t": "Tentang Kami",
+    "c": "rgb(0, 136, 204)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fs": "14px",
+    "fw": "700",
+    "ff": "Poppins",
+    "pad": "15px",
+    "border": "0px none rgb(0, 136, 204)"
+   },
+   {
+    "t": "Cara Kerja Kami",
+    "c": "rgb(0, 136, 204)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fs": "14px",
+    "fw": "700",
+    "ff": "Poppins",
+    "pad": "15px",
+    "border": "0px none rgb(0, 136, 204)"
+   },
+   {
+    "t": "Biaya Komisi",
+    "c": "rgb(0, 136, 204)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fs": "14px",
+    "fw": "700",
+    "ff": "Poppins",
+    "pad": "15px 15px 15px 35px",
+    "border": "0px none rgb(0, 136, 204)"
+   },
+   {
+    "t": "FAQ",
+    "c": "rgb(0, 136, 204)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fs": "14px",
+    "fw": "700",
+    "ff": "Poppins",
+    "pad": "15px 15px 15px 35px",
+    "border": "0px none rgb(0, 136, 204)"
+   },
+   {
+    "t": "Jenis Utang",
+    "c": "rgb(0, 136, 204)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fs": "14px",
+    "fw": "700",
+    "ff": "Poppins",
+    "pad": "15px",
+    "border": "0px none rgb(0, 136, 204)"
+   },
+   {
+    "t": "Klien/Mitra",
+    "c": "rgb(0, 136, 204)",
+    "bg": "rgba(0, 0, 0, 0)",
+    "fs": "14px",
+    "fw": "700",
+    "ff": "Poppins",
+    "pad": "15px",
+    "border": "0px none rgb(0, 136, 204)"
+   },
+   {
+    "t": "Hubungi Kami",
+    "c": "rgb(255, 214, 0)",
+    "bg": "rgb(105, 114, 125)",
+    "fs": "14px",
+    "fw": "700",
+    "ff": "Poppins",
+    "pad": "15px",
+    "border": "0px none rgb(255, 214, 0)"
+   }
+  ],
+  "headerLogo": {
+   "rect": [
+    165,
+    15,
+    92,
+    78
+   ],
+   "text": "",
+   "html": "<img data-lazyloaded=\"1\" src=\"https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-14-1-300x254.png\" width=\"300\" height=\"254\" data-src=\"https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-14-1-300x254.png\" class=\"attachment-medium size-medium wp-image-1634 entered litespeed-loaded\" alt=\"\" data-ll-status=\"loaded\">",
+   "font-family": "Poppins, Poppins",
+   "font-size": "14px",
+   "font-weight": "400",
+   "line-height": "24px",
+   "letter-spacing": "normal",
+   "color": "rgb(0, 136, 204)",
+   "text-align": "center",
+   "text-transform": "none",
+   "background-color": "rgba(0, 0, 0, 0)",
+   "padding": "0px",
+   "margin": "0px",
+   "border-radius": "0px"
+  },
+  "activeMenu": [
+   {
+    "t": "Hubungi Kami",
+    "cls": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-970 c"
+   },
+   {
+    "t": "Hubungi Kami",
+    "cls": "menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-970 c"
+   }
+  ],
+  "scripts": [
+   "https://www.googletagmanager.com/gtm.js?id=GTM-M74FQ4L",
+   "https://financia.proximalab.fyi/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+   "https://financia.proximalab.fyi/wp-content/litespeed/js/47a628aef2f254c32c3b5878700a42ce.js?ver=8f4f0",
+   "https://financia.proximalab.fyi/wp-content/litespeed/js/31034545280e487ca4701b2c631791f7.js?ver=827fb",
+   "https://www.googletagmanager.com/gtag/js?id=GT-WV8XJSQ",
+   "https://financia.proximalab.fyi/wp-content/themes/porto/js/libs/webfont.js",
+   "https://financia.proximalab.fyi/wp-content/plugins/elementor/assets/js/chunks/section-stretched-section.min.js?ver=4.4.2",
+   "https://financia.proximalab.fyi/wp-content/plugins/elementor/assets/js/chunks/background-slideshow.min.js?ver=4.4.2",
+   "https://financia.proximalab.fyi/wp-content/plugins/elementor/assets/js/chunks/background-video.min.js?ver=4.4.2",
+   "https://financia.proximalab.fyi/wp-content/plugins/elementor/assets/js/chunks/text-editor.min.js?ver=4.4.2",
+   "https://financia.proximalab.fyi/wp-content/plugins/elementor/assets/js/chunks/toggle.min.js?ver=4.4.2",
+   "https://financia.proximalab.fyi/wp-includes/js/wp-emoji-release.min.js?ver=7.1.5",
+   "https://financia.proximalab.fyi/wp-content/litespeed/js/fc50b2936f892f0118ed34bb4ee044aa.js?ver=2578e",
+   "https://financia.proximalab.fyi/wp-content/litespeed/js/ca1da6d159188ec0d095181c2b49954e.js?ver=a0126",
+   "https://financia.proximalab.fyi/wp-content/litespeed/js/c188111f8d91e8463f89acac8e1ffe20.js?ver=55289",
+   "https://financia.proximalab.fyi/wp-content/litespeed/js/c6728016d14111042556d971b337fb5b.js?ver=7bfcf",
+   "https://financia.proximalab.fyi/wp-content/litespeed/js/6c99252eda52df6e52b8fb472eb7210c.js?ver=15518",
+   "https://financia.proximalab.fyi/wp-content/litespeed/js/230074424c4b3262057621122a48bc62.js?ver=8e99d",
+   "https://financia.proximalab.fyi/wp-content/litespeed/js/2f543344d9c571fa1ebac1a262286c3a.js?ver=428b1",
+   "https://financia.proximalab.fyi/wp-content/litespeed/js/c06aee5782beef6cd515d8afd9c3a9ae.js?ver=8f5ce",
+   "https://financia.proximalab.fyi/wp-content/litespeed/js/886d7c72aac16b4d7fad967aaa37b029.js?ver=41372",
+   "https://financia.proximalab.fyi/wp-content/litespeed/js/aa59a12a0e1a1f7932282e62db36b1a0.js?ver=d08bf",
+   "https://financia.proximalab.fyi/wp-content/litespeed/js/754534c220eba4e9d21727cc618e6fa2.js?ver=0f9ad",
+   "https://financia.proximalab.fyi/wp-content/litespeed/js/121b9d153314ed2fc6fa873882fa8232.js?ver=b05a9",
+   "https://financia.proximalab.fyi/wp-content/litespeed/js/4e92755ae30ef68bc991362ab1042866.js?ver=20ebd",
+   "https://financia.proximalab.fyi/wp-content/litespeed/js/a4244eddb2676fc4808f833609d09dda.js?ver=e5218",
+   "https://financia.proximalab.fyi/wp-content/litespeed/js/e3d9f811252655ca434c7310c0d02418.js?ver=003a2",
+   "https://financia.proximalab.fyi/wp-content/litespeed/js/52cad6dd0eb680175e1e4e2e6e4da5a1.js?ver=257a3",
+   "https://financia.proximalab.fyi/wp-content/litespeed/js/d84a7e08ccdacd6a247b7eed0feaab20.js?ver=052d7",
+   "https://static.cloudflareinsights.com/beacon.min.js/vce701823e78c4301a35b7e07294d87301792088814092"
+  ],
+  "styles": [
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/f5e1daa163fbe485597f1892229b5433.css?ver=b8371",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/877feabf83a577d6529f8aaf796d862d.css?ver=84cdd",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/8ad75a943ce1caa8fbcc88014163d40f.css?ver=ebdb2",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/5a5e38a4a6f70ef60bc276059f2af834.css?ver=0efa6",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/60ffbd169afa6135b9a13daee5117a79.css?ver=baa8e",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/cb903a89051bbea87ce225f258fbfa71.css?ver=2ddc6",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/c3be9e612baf8fc4af612de8af4c0864.css?ver=fae3b",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/3d78dc83d20515d554c4a45df3500bb0.css?ver=9d129",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/12045858d487a8ae56337b554a5ee03c.css?ver=6ad10",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/18154722677171518ab18cb9e3e73127.css?ver=17f96",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/16bcb3a939f7ace42f699cd23e5c1f21.css?ver=c8f61",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/e12b10b737e672b72f9a32e77e788a8f.css?ver=664d7",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/44c83927ced6687e5033de0b6f3f53c4.css?ver=2b4b6",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/8ad75a943ce1caa8fbcc88014163d40f.css?ver=9e49a",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/1c6df716953f870be76c3e88a69a326f.css?ver=4e4a1",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/d026a17938c5380cc610572fdda43f40.css?ver=24ca1",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/7914b830c0ede0a24b2efd24016f0222.css?ver=c8b2b",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/e80bfd8b6e80d726f723cd93253b7c03.css?ver=2494c",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/1287d04dfd232f3df106c5efb6959ed1.css?ver=92141",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/2987660d8bf2c45d47aec1d4b1a8be49.css?ver=662ed",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/47bebdb74ff618bd3a8052b5b6afe39f.css?ver=9b8d9",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/9788cd4b8d4688a18dc94cf39f3cb327.css?ver=1884f",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/2ed6e8e732c2a9cb37b78a2ab925a710.css?ver=f3e2a",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/be071bccde6ce7a7e093d15227d0e8fe.css?ver=cf2af",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/322185033c23558bb786215acc5840ae.css?ver=2b111",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/1acc8d76ea93f84f5e512fe1f63a7001.css?ver=ba99e",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/d60c4384b7bd1e4c0ce122aefa9f6bb0.css?ver=e4538",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/7e93dc2c39e5d8e2e2e6c720193ac6f5.css?ver=a64b9",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/82e59ec7366c359bce0067536a84d1ca.css?ver=911f1",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/c286cf8641ce51efbdeb36fb6d76ce4e.css?ver=68385",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/0bcdc9773def178656abaad36919a4c8.css?ver=71731",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/55a9dc1361821c1709f83504c6f88be2.css?ver=cc1b1",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/7af4e3fc575ca60e8c6dff9a0d6a4adc.css?ver=0edfd",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/8be8545fd05f9d56610b7e092fc6f6f0.css?ver=5f7ec",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/1744cdfd28b3b7699fb93ffa61b7688c.css?ver=f94c0",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/bf48f35e737ff471a9b1886d42d952b3.css?ver=895e6",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/0320c07ca5fb49adf34c5361f29f3582.css?ver=651a0",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/83c57ae0bc322bd9fdee119962d292e4.css?ver=06bd1",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/f4af7e5ec05ebb0f08d43e2384266abc.css?ver=65d76",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/7f0c37a39bc2d4a5ce6da2b43638bd03.css?ver=357f9",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/79e22d34e7076536f53afcdb54ab705c.css?ver=215d9",
+   "https://fonts.googleapis.com/css?family=Poppins:400,500,600,700%7CShadows+Into+Light:400,700%7CPlayfair+Display:400,700",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/4aa0f16de8db6b6f332047ea2a8a9cae.css?ver=894f0",
+   "https://financia.proximalab.fyi/wp-content/litespeed/css/1c5ae18362cb5405b9cb32a21821998e.css?ver=d86f9"
+  ]
+ }
+}

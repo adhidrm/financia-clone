@@ -1,0 +1,86 @@
+=== HUBUNGI H=2439 sections=7 forms=0
+
+--- SEC 0 y=0 h=108 bg=rgba(0, 0, 0, 0) pad=0px 0px bgimg=none
+Home
+Tentang Kami
+Cara Kerja Kami
+Jenis Utang
+Klien/Mitra
+Hubungi Kami
+Konsultasi
+
+--- SEC 1 y=108 h=248 bg=rgb(255, 214, 0) pad=100px 0px bgimg=none
+Hubungi Kami
+
+--- SEC 2 y=356 h=1356 bg=rgba(0, 0, 0, 0) pad=0px 0px bgimg=none
+Iya saya mau pakai Financia, bagaimana caranya?
+
+Berikut langkah-langkah sederhana yang dapat diikuti:
+
+Pertama, HUBUNGI KAMI
+
+Silahkan hubungi kami untuk konsultasi awal secara gratis. Anda bisa hubungi kami klik tombol “Hubungi Kami”. Tim Profesional Financia akan segera menghubungi Anda kembali untuk memberi penjelasan dan penawaran terbaik kepada Anda.
+
+Kedua, SIAPKAN DATA
+
+Setelah menerima penjelasan dari kami, siapkan data-data yang berkaitan dengan utang. Termasuk perjanjian, faktur penjualan (invoice), nota pembelian (Purchase Order (PO)), nota pengiriman (Delivery Order (DO)), berita acara, korespondensi dan lain sebagainya yang berkaitan dengan utang. Financia menjamin kerahasiaan dan tidak akan menyalahgunakan data yang Anda berikan. Kami hanya akan gunakan data untuk profiling dan assesment untuk tujuan penagihan utang.
+
+Ketiga, KUASAKAN KAMI
+
+Agar bisa melakukan tindakan untuk dan atas nama Anda dalam upaya melakukan penagihan utang, kami memerlukan surat kuasa dari Anda kepada advokat (lawyer) yang kami tugaskan. Setelah Anda sepakat dengan apa yang Financia tawarkan, Anda cukup menandatangani perjanjian kerjasama dan surat kuasa. Setelah itu, Financia akan segera bertindak untuk atas nama Anda dalam melakukan penagihan utang. Kami hanya akan bertindak dengan cara-cara yang sesuai dengan hukum yang berlaku sehingga keamanan Anda terjaga.
+
+HUBUNGI KAMI
+
+--- SEC 3 y=1712 h=422 bg=rgb(0, 70, 190) pad=50px 30px bgimg=none
+PT Garda Finansial Utama (“Financia”) adalah perusahaan yang menyediakan jasa penagihan utang komersial yang praktis, efisien dan aman bagi Anda.
+
+Menu
+Home
+Tentang Kami
+Cara Kerja Kami
+Jenis Utang
+Klien/Mitra
+Hubungi Kami
+Lokasi Kami :
+HUBUNGI KAMI
+
+--- SEC 4 y=2134 h=200 bg=rgb(0, 70, 190) pad=0px 0px bgimg=none
+Kantor Pusat :
+
+Sudirman Park, Unit A 3 BB. Jl. K.H. Mas Mansyur Kav. 35, Karet Tengsin. Jakarta Pusat. DKI Jakarta.
+
+Email:
+
+office@financia.proximalab.fyi
+
+Open Hours:
+
+Senin - Jum'at: 8.00 -6.00 WIB
+
+--- SEC 5 y=2334 h=61 bg=rgb(0, 70, 190) pad=0px 0px bgimg=none
+
+
+--- SEC 6 y=2395 h=44 bg=rgb(0, 70, 190) pad=0px 0px bgimg=none
+Powered by Financia.co.id
+
+Copyright © 2020-2022. All rights reserved
+
+=== HEADS
+y=32 x=918 w=133 <a> fs=14px fw=700 lh=14px c=rgb(255, 214, 0) bg=rgb(105, 114, 125) rad=3px tt=none | Hubungi Kami
+y=31 x=1132 w=122 <a> fs=15px fw=700 lh=15px c=rgb(0, 0, 0) bg=rgb(255, 214, 0) rad=25px 2px tt=none | Konsultasi
+y=208 x=120 w=1200 <h1> fs=59px fw=400 lh=59px c=rgb(34, 37, 41) bg=rgba(0, 0, 0, 0) rad=0px tt=none | Hubungi Kami
+y=456 x=763 w=411 <h2> fs=39px fw=400 lh=39px c=rgb(34, 37, 41) bg=rgba(0, 0, 0, 0) rad=0px tt=none | Iya saya mau pakai Financia, bagaimana caranya?
+y=1568 x=870 w=197 <a> fs=20px fw=700 lh=20px c=rgb(255, 255, 255) bg=rgb(255, 214, 0) rad=25px 0px tt=none | HUBUNGI KAMI
+y=1777 x=507 w=255 <h5> fs=14px fw=400 lh=14px c=rgb(255, 255, 255) bg=rgba(0, 0, 0, 0) rad=0px tt=none | Menu
+y=1777 x=792 w=479 <h5> fs=14px fw=400 lh=14px c=rgb(255, 255, 255) bg=rgba(0, 0, 0, 0) rad=0px tt=none | Lokasi Kami :
+y=2050 x=952 w=160 <a> fs=15px fw=700 lh=15px c=rgb(255, 255, 255) bg=rgb(255, 214, 0) rad=25px 0px tt=none | HUBUNGI KAMI
+y=2187 x=265 w=270 <h6> fs=14px fw=400 lh=18px c=rgb(255, 255, 255) bg=rgba(0, 0, 0, 0) rad=0px tt=none | Kantor Pusat :
+y=2211 x=635 w=270 <h6> fs=14px fw=400 lh=18px c=rgb(255, 255, 255) bg=rgba(0, 0, 0, 0) rad=0px tt=none | Email:
+y=2211 x=1005 w=270 <h6> fs=14px fw=400 lh=18px c=rgb(255, 255, 255) bg=rgba(0, 0, 0, 0) rad=0px tt=none | Open Hours:
+
+=== IMGS
+y=15 x=165 92x78 nat=300x254 https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-14-1-300x254.png
+y=868 x=165 498x332 nat=1024x682 https://financia.proximalab.fyi/wp-content/uploads/2022/10/pexels-pixabay-327540-1024x682.jpg
+y=1777 x=165 228x94 nat=300x124 https://financia.proximalab.fyi/wp-content/uploads/2022/10/Logo-Financia-Logo-OK-13-2-300x124.png
+
+=== FORMS []

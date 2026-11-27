@@ -1,0 +1,90 @@
+{
+ "links": [
+  {
+   "t": "Home",
+   "fs": "15px",
+   "fw": "700",
+   "lh": "15px",
+   "c": "rgb(255, 255, 255)",
+   "tt": "none",
+   "pad": "15px",
+   "ff": "Poppins"
+  },
+  {
+   "t": "Tentang Kami",
+   "fs": "15px",
+   "fw": "700",
+   "lh": "15px",
+   "c": "rgb(255, 255, 255)",
+   "tt": "none",
+   "pad": "15px",
+   "ff": "Poppins"
+  },
+  {
+   "t": "Cara Kerja Kami",
+   "fs": "15px",
+   "fw": "700",
+   "lh": "15px",
+   "c": "rgb(255, 255, 255)",
+   "tt": "none",
+   "pad": "15px",
+   "ff": "Poppins"
+  },
+  {
+   "t": "Jenis Utang",
+   "fs": "15px",
+   "fw": "700",
+   "lh": "15px",
+   "c": "rgb(255, 255, 255)",
+   "tt": "none",
+   "pad": "15px",
+   "ff": "Poppins"
+  },
+  {
+   "t": "Klien/Mitra",
+   "fs": "15px",
+   "fw": "700",
+   "lh": "15px",
+   "c": "rgb(255, 255, 255)",
+   "tt": "none",
+   "pad": "15px",
+   "ff": "Poppins"
+  },
+  {
+   "t": "Hubungi Kami",
+   "fs": "15px",
+   "fw": "700",
+   "lh": "15px",
+   "c": "rgb(255, 255, 255)",
+   "tt": "none",
+   "pad": "15px",
+   "ff": "Poppins"
+  }
+ ],
+ "h5": [
+  {
+   "t": "Menu",
+   "fs": "24px",
+   "fw": "700",
+   "lh": "28.8px",
+   "mb": "0px"
+  },
+  {
+   "t": "Lokasi Kami :",
+   "fs": "24px",
+   "fw": "700",
+   "lh": "28.8px",
+   "mb": "0px"
+  }
+ ],
+ "logo": {
+  "w": 237,
+  "h": 237,
+  "src": "data:image/gif;base64,R0lGODdhAQABAPAAAMPDwwAAACwAAAAAAQABAAACAkQBADs="
+ },
+ "iframe": {
+  "src": "https://maps.google.com/maps?q=Sudirman%20Park%2C%20Unit%20A%203%20BB.%20Jl.%20K.H.%20Mas%20Mansyur%20Kav.%2035%2C%20Karet%20Tengsin.&t=m&z=10&output=embed&iwloc=near",
+  "w": 489,
+  "h": 199
+ }
+}

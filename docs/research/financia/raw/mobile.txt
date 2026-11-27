@@ -1,0 +1,252 @@
+mobile {
+ "heads": [
+  {
+   "t": "JASA PENAGIH HUTANG TERDEP",
+   "fs": "19px",
+   "lh": "26.6px",
+   "mw": "none",
+   "rect": [
+    20,
+    278,
+    350,
+    53
+   ]
+  },
+  {
+   "t": "Selamat Datang di Website ",
+   "fs": "32px",
+   "lh": "41.6px",
+   "mw": "none",
+   "rect": [
+    20,
+    351,
+    350,
+    125
+   ]
+  },
+  {
+   "t": "Tentang Kami",
+   "fs": "20px",
+   "lh": "26px",
+   "mw": "none",
+   "rect": [
+    10,
+    834,
+    370,
+    26
+   ]
+  },
+  {
+   "t": "Cara Kerja Kami",
+   "fs": "20px",
+   "lh": "26px",
+   "mw": "none",
+   "rect": [
+    0,
+    2100,
+    390,
+    26
+   ]
+  },
+  {
+   "t": "Langkah Pertama: Assessmen",
+   "fs": "24px",
+   "lh": "25px",
+   "mw": "none",
+   "rect": [
+    30,
+    2380,
+    330,
+    50
+   ]
+  },
+  {
+   "t": "Langkah Kedua: Upaya Non-L",
+   "fs": "24px",
+   "lh": "25px",
+   "mw": "none",
+   "rect": [
+    30,
+    2648,
+    330,
+    50
+   ]
+  },
+  {
+   "t": "Langkah Ketiga: Upaya Pena",
+   "fs": "24px",
+   "lh": "25px",
+   "mw": "none",
+   "rect": [
+    30,
+    3118,
+    330,
+    75
+   ]
+  },
+  {
+   "t": "“GRATIS, Jika Hutang Belum",
+   "fs": "31px",
+   "lh": "37.2px",
+   "mw": "none",
+   "rect": [
+    10,
+    3715,
+    370,
+    74
+   ]
+  }
+ ],
+ "nav": {
+  "t": "Menu",
+  "fs": "22px",
+  "lh": "22px",
+  "pad": "0px",
+  "rect": [
+   314,
+   35,
+   35,
+   38
+  ],
+  "disp": "block"
+ },
+ "hero": {
+  "t": "JASA PENAGIH HUTANG TERDEPAN D",
+  "fs": "13.68px",
+  "lh": "25.4057px",
+  "pad": "170px 0px 100px",
+  "rect": [
+   0,
+   108,
+   390,
+   666
+  ]
+ },
+ "docH": 9464
+}
+tablet {
+ "heads": [
+  {
+   "t": "JASA PENAGIH HUTANG TERDEP",
+   "fs": "19px",
+   "lh": "26.6px",
+   "mw": "none",
+   "rect": [
+    0,
+    228,
+    820,
+    27
+   ]
+  },
+  {
+   "t": "Selamat Datang di Website ",
+   "fs": "47px",
+   "lh": "61.1px",
+   "mw": "none",
+   "rect": [
+    50,
+    325,
+    720,
+    183
+   ]
+  },
+  {
+   "t": "Tentang Kami",
+   "fs": "35px",
+   "lh": "45.5px",
+   "mw": "none",
+   "rect": [
+    10,
+    820,
+    800,
+    46
+   ]
+  },
+  {
+   "t": "Cara Kerja Kami",
+   "fs": "35px",
+   "lh": "45.5px",
+   "mw": "none",
+   "rect": [
+    30,
+    1733,
+    760,
+    46
+   ]
+  },
+  {
+   "t": "Langkah Pertama: Assessmen",
+   "fs": "16.416px",
+   "lh": "25px",
+   "mw": "none",
+   "rect": [
+    141,
+    1937,
+    629,
+    25
+   ]
+  },
+  {
+   "t": "Langkah Kedua: Upaya Non-L",
+   "fs": "16.416px",
+   "lh": "25px",
+   "mw": "none",
+   "rect": [
+    141,
+    2077,
+    629,
+    25
+   ]
+  },
+  {
+   "t": "Langkah Ketiga: Upaya Pena",
+   "fs": "16.416px",
+   "lh": "25px",
+   "mw": "none",
+   "rect": [
+    141,
+    2320,
+    629,
+    50
+   ]
+  },
+  {
+   "t": "“GRATIS, Jika Hutang Belum",
+   "fs": "31px",
+   "lh": "37.2px",
+   "mw": "none",
+   "rect": [
+    10,
+    2718,
+    800,
+    37
+   ]
+  }
+ ],
+ "nav": {
+  "t": "Menu",
+  "fs": "22px",
+  "lh": "22px",
+  "pad": "0px",
+  "rect": [
+   0,
+   0,
+   0,
+   0
+  ],
+  "disp": "none"
+ },
+ "hero": {
+  "t": "JASA PENAGIH HUTANG TERDEPAN D",
+  "fs": "13.68px",
+  "lh": "25.4057px",
+  "pad": "120px 0px",
+  "rect": [
+   0,
+   108,
+   820,
+   652
+  ]
+ },
+ "docH": 7795
+}
